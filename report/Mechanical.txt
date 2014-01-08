@@ -1,0 +1,110 @@
+[B]Mechanical [ability]Zap[/ability]|[ability]Thrash[/ability]|[ability]Repair[/ability]|[ability]Heartbroken[/ability]|[ability]XE-321 Boombot[/ability]|[ability]Tympanic Tantrum[/ability][/B]
+[list]
+[*]1546/322/228 
+[list]
+[*][pet]Lil' XT[/pet] H/P (7)
+[/list]
+[*]1465/322/241 
+[list]
+[*][pet]Landro's Lil' XT[/pet] P/B (10)
+[/list]
+[/list]
+[B]Mechanical [ability]Peck[/ability]|[ability]Batter[/ability]|[ability]Overtune[/ability]|[ability]Rebuild[/ability]|[ability]Supercharge[/ability]|[ability]Wind-Up[/ability][/B]
+[list]
+[*]1806/244/260 
+[list]
+[*][pet]Robo-Chick[/pet] H/H (6)
+[/list]
+[*]1628/244/289 
+[list]
+[*][pet]Robo-Chick[/pet] H/S (9)
+[/list]
+[*]1563/260/276 
+[list]
+[*][pet]Robo-Chick[/pet] B/B (3)
+[/list]
+[*]1546/273/273 
+[list]
+[*][pet]Robo-Chick[/pet] P/B (10)
+[/list]
+[*]1481/273/289 
+[list]
+[*][pet]Robo-Chick[/pet] P/S (8)
+[*][pet]Mechanical Chicken[/pet] P/S (8)
+[/list]
+[*]1481/244/325 
+[list]
+[*][pet]Robo-Chick[/pet] S/S (5)
+[/list]
+[/list]
+[B]Mechanical [ability]Metal Fist[/ability]|[ability]Thrash[/ability]|[ability]Overtune[/ability]|[ability]Extra Plating[/ability]|[ability]Demolish[/ability]|[ability]Repair[/ability][/B]
+[list]
+[*]1806/244/260 
+[list]
+[*][pet]Tiny Harvester[/pet] H/H (6)
+[/list]
+[*]1628/273/260 
+[list]
+[*][pet]Tiny Harvester[/pet] H/P (7)
+[/list]
+[*]1628/257/273 
+[list]
+[*][pet]Tiny Harvester[/pet] H/B (12)
+[/list]
+[*]1628/244/289 
+[list]
+[*][pet]Tiny Harvester[/pet] H/S (9)
+[/list]
+[*]1563/260/276 
+[list]
+[*][pet]Tiny Harvester[/pet] B/B (3)
+[/list]
+[*]1546/273/273 
+[list]
+[*][pet]Tiny Harvester[/pet] P/B (10)
+[/list]
+[*]1546/257/289 
+[list]
+[*][pet]Tiny Harvester[/pet] S/B (11)
+[/list]
+[*]1481/309/260 
+[list]
+[*][pet]Tiny Harvester[/pet] P/P (4)
+[/list]
+[*]1481/273/289 
+[list]
+[*][pet]Tiny Harvester[/pet] P/S (8)
+[/list]
+[*]1481/244/325 
+[list]
+[*][pet]De-Weaponized Mechanical Companion[/pet] S/S (5)
+[*][pet]Tiny Harvester[/pet] S/S (5)
+[/list]
+[/list]
+[B]Mechanical [ability]Missile[/ability]|[ability]Batter[/ability]|[ability]Toxic Smoke[/ability]|[ability]Minefield[/ability]|[ability]Sticky Grenade[/ability]|[ability]Launch Rocket[/ability][/B]
+[list]
+[*]1806/293/211 
+[list]
+[*][pet]Mini Thor[/pet] H/H (6)
+[/list]
+[*]1628/273/260 
+[list]
+[*][pet]Lil' Smoky[/pet] H/P (7)
+[/list]
+[*]1563/260/276 
+[list]
+[*][pet]Clockwork Rocket Bot[/pet] B/B (3)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Blue Clockwork Rocket Bot[/pet] B/B (3)
+[/list]
+[*]1400/289/289 
+[list]
+[*][pet]Blue Clockwork Rocket Bot[/pet] P/S (8)
+[/list]
+[*]1400/260/325 
+[list]
+[*][pet]Blue Clockwork Rocket Bot[/pet] S/S (5)
+[/list]
+[/list]

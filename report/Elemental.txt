@@ -1,0 +1,200 @@
+[B]Elemental [ability]Stone Shot[/ability]|[ability]Stone Rush[/ability]|[ability]Sandstorm[/ability]|[ability]Rupture[/ability]|[ability]Rock Barrage[/ability]|[ability]Quake[/ability][/B]
+[list]
+[*]1969/260/211 
+[list]
+[*][pet]Pebble[/pet] H/H (6)
+[/list]
+[*]1628/289/244 
+[list]
+[*][pet]Grinder[/pet] H/P (7)
+[/list]
+[*]1546/273/273 
+[list]
+[*][pet]Lumpy[/pet] H/B (12)
+[/list]
+[/list]
+[B]Elemental [ability]Burn[/ability]|[ability]Flame Breath[/ability]|[ability]Immolate[/ability]|[ability]Scorched Earth[/ability]|[ability]Conflagrate[/ability]|[ability]Immolation[/ability][/B]
+[list]
+[*]1806/260/244 
+[list]
+[*][pet]Fel Flame[/pet] H/H (6)
+[/list]
+[*]1628/289/244 
+[list]
+[*][pet]Fel Flame[/pet] H/P (7)
+[/list]
+[*]1628/260/273 
+[list]
+[*][pet]Fel Flame[/pet] H/S (9)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Spirit of Summer[/pet] B/B (3)
+[/list]
+[*]1384/305/273 
+[list]
+[*][pet]Searing Scorchling[/pet] P/B (10)
+[/list]
+[/list]
+[B]Elemental [ability]Burn[/ability]|[ability]Leech Life[/ability]|[ability]Sticky Web[/ability]|[ability]Poison Spit[/ability]|[ability]Stone Rush[/ability]|[ability]Stoneskin[/ability][/B]
+[list]
+[*]1806/260/244 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] H/H (6)
+[/list]
+[*]1725/276/244 
+[list]
+[*][pet]Topaz Shale Hatchling[/pet] H/H (6)
+[/list]
+[*]1725/260/260 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] H/H (6)
+[/list]
+[*]1628/289/244 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] H/P (7)
+[/list]
+[*]1628/273/257 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] H/B (12)
+[/list]
+[*]1628/260/273 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] H/S (9)
+[/list]
+[*]1563/276/260 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] B/B (3)
+[/list]
+[*]1546/289/260 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] H/P (7)
+[/list]
+[*]1546/289/257 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] P/B (10)
+[/list]
+[*]1546/276/273 
+[list]
+[*][pet]Topaz Shale Hatchling[/pet] H/S (9)
+[/list]
+[*]1546/273/273 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] H/B (12)
+[*][pet]Emerald Shale Hatchling[/pet] S/B (11)
+[/list]
+[*]1546/260/289 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] H/S (9)
+[/list]
+[*]1481/325/244 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] P/P (4)
+[/list]
+[*]1481/293/260 
+[list]
+[*][pet]Topaz Shale Hatchling[/pet] B/B (3)
+[/list]
+[*]1481/289/273 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] P/S (8)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] B/B (3)
+[/list]
+[*]1481/260/309 
+[list]
+[*][pet]Emerald Shale Hatchling[/pet] S/S (5)
+[/list]
+[*]1465/305/260 
+[list]
+[*][pet]Crimson Shale Hatchling[/pet] H/P (7)
+[/list]
+[*]1465/289/273 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] P/B (10)
+[/list]
+[*]1465/276/289 
+[list]
+[*][pet]Crimson Shale Hatchling[/pet] H/S (9)
+[/list]
+[*]1465/273/289 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] S/B (11)
+[/list]
+[*]1400/325/260 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] P/P (4)
+[/list]
+[*]1400/293/276 
+[list]
+[*][pet]Crimson Shale Hatchling[/pet] B/B (3)
+[/list]
+[*]1400/289/289 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] P/S (8)
+[*][pet]Tiny Shale Spider[/pet] P/S (8)
+[/list]
+[*]1400/260/325 
+[list]
+[*][pet]Amethyst Shale Hatchling[/pet] S/S (5)
+[/list]
+[/list]
+[B]Elemental [ability]Lash[/ability]|[ability]Poison Lash[/ability]|[ability]Soothing Mists[/ability]|[ability]Plant[/ability]|[ability]Stun Seed[/ability]|[ability]Entangling Roots[/ability][/B]
+[list]
+[*]1481/276/276 
+[list]
+[*][pet]Ammen Vale Lashling[/pet] B/B (3)
+[/list]
+[*]1400/293/276 
+[list]
+[*][pet]Crimson Lasher[/pet] B/B (3)
+[/list]
+[/list]
+[B]Elemental [ability]Feedback[/ability]|[ability]Spark[/ability]|[ability]Crystal Overload[/ability]|[ability]Amplify Magic[/ability]|[ability]Stone Rush[/ability]|[ability]Elementium Bolt[/ability][/B]
+[list]
+[*]1644/293/244 
+[list]
+[*][pet]Crimson Geode[/pet] H/H (6)
+[/list]
+[*]1546/260/289 
+[list]
+[*][pet]Elementium Geode[/pet] H/S (9)
+[/list]
+[*]1465/322/244 
+[list]
+[*][pet]Crimson Geode[/pet] H/P (7)
+[/list]
+[*]1465/293/273 
+[list]
+[*][pet]Crimson Geode[/pet] H/S (9)
+[/list]
+[*]1319/358/244 
+[list]
+[*][pet]Crimson Geode[/pet] P/P (4)
+[/list]
+[/list]
+[B]Elemental [ability]Scratch[/ability]|[ability]Ironbark[/ability]|[ability]Thorns[/ability]|[ability]Poisoned Branch[/ability]|[ability]Photosynthesis[/ability]|[ability]Entangling Roots[/ability][/B]
+[list]
+[*]1644/276/260 
+[list]
+[*][pet]Ruby Sapling[/pet] H/H (6)
+[/list]
+[*]1546/260/289 
+[list]
+[*][pet]Withers[/pet] H/S (9)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Teldrassil Sproutling[/pet] B/B (3)
+[/list]
+[*]1465/276/289 
+[list]
+[*][pet]Ruby Sapling[/pet] H/S (9)
+[/list]
+[*]1400/293/276 
+[list]
+[*][pet]Ruby Sapling[/pet] B/B (3)
+[/list]
+[/list]

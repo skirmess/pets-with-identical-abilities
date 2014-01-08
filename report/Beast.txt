@@ -1,0 +1,546 @@
+[B]Beast [ability]Claw[/ability]|[ability]Pounce[/ability]|[ability]Rake[/ability]|[ability]Screech[/ability]|[ability]Devour[/ability]|[ability]Prowl[/ability][/B]
+[list]
+[*]1481/276/276 
+[list]
+[*][pet]Snow Cub[/pet] B/B (3)
+[/list]
+[*]1465/257/306 
+[list]
+[*][pet]White Kitten[/pet] H/B (12)
+[/list]
+[*]1400/325/260 
+[list]
+[*][pet]Snow Cub[/pet] P/P (4)
+[/list]
+[*]1400/289/289 
+[list]
+[*][pet]Snow Cub[/pet] P/S (8)
+[/list]
+[*]1319/309/276 
+[list]
+[*][pet]Orange Tabby Cat[/pet] B/B (3)
+[/list]
+[*]1319/293/293 
+[list]
+[*][pet]Darkmoon Cub[/pet] B/B (3)
+[*][pet]Silver Tabby Cat[/pet] B/B (3)
+[*][pet]Cat[/pet] B/B (3)
+[/list]
+[*]1303/322/276 
+[list]
+[*][pet]Black Tabby Cat[/pet] H/P (7)
+[/list]
+[*]1303/305/289 
+[list]
+[*][pet]Calico Cat[/pet] P/B (10)
+[/list]
+[*]1303/289/305 
+[list]
+[*][pet]Winterspring Cub[/pet] S/B (11)
+[*][pet]Cat[/pet] S/B (11)
+[*][pet]Panther Cub[/pet] S/B (11)
+[/list]
+[*]1238/341/276 
+[list]
+[*][pet]Cornish Rex Cat[/pet] P/P (4)
+[/list]
+[*]1238/322/289 
+[list]
+[*][pet]Sand Kitten[/pet] P/S (8)
+[/list]
+[*]1238/305/305 
+[list]
+[*][pet]Darkmoon Cub[/pet] P/S (8)
+[*][pet]Bombay Cat[/pet] P/S (8)
+[*][pet]Cat[/pet] P/S (8)
+[/list]
+[*]1238/293/325 
+[list]
+[*][pet]Sand Kitten[/pet] S/S (5)
+[/list]
+[*]1238/276/341 
+[list]
+[*][pet]Siamese Cat[/pet] S/S (5)
+[*][pet]Nightsaber Cub[/pet] S/S (5)
+[*][pet]Cat[/pet] S/S (5)
+[/list]
+[*]1075/260/390 
+[list]
+[*][pet]Cheetah Cub[/pet] S/S (5)
+[/list]
+[/list]
+[B]Beast [ability]Bite[/ability]|[ability]Roar[/ability]|[ability]Hibernate[/ability]|[ability]Bash[/ability]|[ability]Maul[/ability]|[ability]Rampage[/ability][/B]
+[list]
+[*]1563/293/244 
+[list]
+[*][pet]Hyjal Bear Cub[/pet] B/B (3)
+[/list]
+[*]1546/289/260 
+[list]
+[*][pet]Dun Morogh Cub[/pet] H/P (7)
+[*][pet]Darkshore Cub[/pet] H/P (7)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Panda Cub[/pet] B/B (3)
+[*][pet]Darkshore Cub[/pet] B/B (3)
+[/list]
+[*]1400/325/260 
+[list]
+[*][pet]Darkshore Cub[/pet] P/P (4)
+[/list]
+[/list]
+[B]Beast [ability]Snap[/ability]|[ability]Triple Snap[/ability]|[ability]Crouch[/ability]|[ability]Screech[/ability]|[ability]Sting[/ability]|[ability]Rampage[/ability][/B]
+[list]
+[*]1546/260/289 
+[list]
+[*][pet]Crunchy Scorpion[/pet] H/S (9)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Crunchy Scorpion[/pet] B/B (3)
+[*][pet]Scorpling[/pet] B/B (3)
+[*][pet]Stripe-Tailed Scorpid[/pet] B/B (3)
+[*][pet]Scorpid[/pet] B/B (3)
+[*][pet]Leopard Scorpid[/pet] B/B (3)
+[/list]
+[*]1400/289/289 
+[list]
+[*][pet]Durotar Scorpion[/pet] P/S (8)
+[*][pet]Scorpling[/pet] P/S (8)
+[*][pet]Stripe-Tailed Scorpid[/pet] P/S (8)
+[*][pet]Scorpid[/pet] P/S (8)
+[*][pet]Leopard Scorpid[/pet] P/S (8)
+[/list]
+[*]1400/260/325 
+[list]
+[*][pet]Scorpling[/pet] S/S (5)
+[*][pet]Leopard Scorpid[/pet] S/S (5)
+[/list]
+[/list]
+[B]Beast [ability]Bite[/ability]|[ability]Flank[/ability]|[ability]Leap[/ability]|[ability]Screech[/ability]|[ability]Devour[/ability]|[ability]Exposed Wounds[/ability][/B]
+[list]
+[*]1644/276/260 
+[list]
+[*][pet]Obsidian Hatchling[/pet] H/H (6)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Lashtail Hatchling[/pet] B/B (3)
+[/list]
+[*]1400/325/260 
+[list]
+[*][pet]Razzashi Hatchling[/pet] P/P (4)
+[/list]
+[*]1319/293/293 
+[list]
+[*][pet]Ravasaur Hatchling[/pet] B/B (3)
+[/list]
+[*]1303/305/289 
+[list]
+[*][pet]Leaping Hatchling[/pet] P/B (10)
+[*][pet]Gundrak Hatchling[/pet] P/B (10)
+[/list]
+[*]1303/289/305 
+[list]
+[*][pet]Razormaw Hatchling[/pet] S/B (11)
+[/list]
+[*]1238/305/305 
+[list]
+[*][pet]Darting Hatchling[/pet] P/S (8)
+[*][pet]Deviate Hatchling[/pet] P/S (8)
+[/list]
+[/list]
+[B]Beast [ability]Smash[/ability]|[ability]Rake[/ability]|[ability]Roar[/ability]|[ability]Clobber[/ability]|[ability]Banana Barrage[/ability]|[ability]Barrel Toss[/ability][/B]
+[list]
+[*]1481/276/276 
+[list]
+[*][pet]Bananas[/pet] B/B (3)
+[*][pet]Baby Ape[/pet] B/B (3)
+[/list]
+[*]1465/289/273 
+[list]
+[*][pet]Darkmoon Monkey[/pet] P/B (10)
+[/list]
+[*]1400/325/260 
+[list]
+[*][pet]Baby Ape[/pet] P/P (4)
+[/list]
+[/list]
+[B]Beast [ability]Strike[/ability]|[ability]Poison Spit[/ability]|[ability]Sticky Web[/ability]|[ability]Brittle Webbing[/ability]|[ability]Leech Life[/ability]|[ability]Spiderling Swarm[/ability][/B]
+[list]
+[*]1563/276/276 
+[list]
+[*][pet]Venomspitter Hatchling[/pet] H/H (6)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Skittering Cavern Crawler[/pet] B/B (3)
+[/list]
+[*]1465/273/289 
+[list]
+[*][pet]Skittering Cavern Crawler[/pet] S/B (11)
+[/list]
+[*]1400/260/325 
+[list]
+[*][pet]Skittering Cavern Crawler[/pet] S/S (5)
+[/list]
+[*]1384/305/276 
+[list]
+[*][pet]Smolderweb Hatchling[/pet] H/P (7)
+[*][pet]Twilight Spider[/pet] H/P (7)
+[*][pet]Amethyst Spiderling[/pet] H/P (7)
+[/list]
+[*]1384/289/289 
+[list]
+[*][pet]Jumping Spider[/pet] H/B (12)
+[/list]
+[*]1384/276/305 
+[list]
+[*][pet]Venomspitter Hatchling[/pet] H/S (9)
+[*][pet]Ash Spiderling[/pet] H/S (9)
+[*][pet]Widow Spiderling[/pet] H/S (9)
+[*][pet]Amethyst Spiderling[/pet] H/S (9)
+[*][pet]Jumping Spider[/pet] H/S (9)
+[/list]
+[*]1319/293/293 
+[list]
+[*][pet]Venomspitter Hatchling[/pet] B/B (3)
+[*][pet]Ash Spiderling[/pet] B/B (3)
+[*][pet]Desert Spider[/pet] B/B (3)
+[*][pet]Spider[/pet] B/B (3)
+[*][pet]Widow Spiderling[/pet] B/B (3)
+[*][pet]Twilight Spider[/pet] B/B (3)
+[*][pet]Forest Spiderling[/pet] B/B (3)
+[*][pet]Feverbite Hatchling[/pet] B/B (3)
+[*][pet]Jumping Spider[/pet] B/B (3)
+[/list]
+[*]1303/305/289 
+[list]
+[*][pet]Feverbite Hatchling[/pet] P/B (10)
+[/list]
+[*]1303/289/305 
+[list]
+[*][pet]Venomspitter Hatchling[/pet] S/B (11)
+[*][pet]Desert Spider[/pet] S/B (11)
+[*][pet]Spider[/pet] S/B (11)
+[*][pet]Widow Spiderling[/pet] S/B (11)
+[*][pet]Twilight Spider[/pet] S/B (11)
+[*][pet]Forest Spiderling[/pet] S/B (11)
+[*][pet]Dusk Spiderling[/pet] S/B (11)
+[*][pet]Feverbite Hatchling[/pet] S/B (11)
+[*][pet]Jumping Spider[/pet] S/B (11)
+[/list]
+[*]1238/341/276 
+[list]
+[*][pet]Widow Spiderling[/pet] P/P (4)
+[*][pet]Twilight Spider[/pet] P/P (4)
+[*][pet]Feverbite Hatchling[/pet] P/P (4)
+[/list]
+[*]1238/305/305 
+[list]
+[*][pet]Desert Spider[/pet] P/S (8)
+[*][pet]Forest Spiderling[/pet] P/S (8)
+[*][pet]Dusk Spiderling[/pet] P/S (8)
+[/list]
+[*]1238/276/341 
+[list]
+[*][pet]Desert Spider[/pet] S/S (5)
+[*][pet]Spider[/pet] S/S (5)
+[*][pet]Forest Spiderling[/pet] S/S (5)
+[/list]
+[/list]
+[B]Beast [ability]Bite[/ability]|[ability]Roar[/ability]|[ability]Bash[/ability]|[ability]Hibernate[/ability]|[ability]Maul[/ability]|[ability]Call Blizzard[/ability][/B]
+[list]
+[*]1546/289/260 
+[list]
+[*][pet]Baby Blizzard Bear[/pet] H/P (7)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Poley[/pet] B/B (3)
+[/list]
+[/list]
+[B]Beast [ability]Chomp[/ability]|[ability]Consume[/ability]|[ability]Acidic Goo[/ability]|[ability]Sticky Goo[/ability]|[ability]Leap[/ability]|[ability]Burrow[/ability][/B]
+[list]
+[*]1888/260/228 
+[list]
+[*][pet]Devouring Maggot[/pet] H/H (6)
+[*][pet]Festering Maggot[/pet] H/H (6)
+[*][pet]Maggot[/pet] H/H (6)
+[/list]
+[*]1725/260/260 
+[list]
+[*][pet]Jungle Grub[/pet] H/H (6)
+[/list]
+[*]1709/289/228 
+[list]
+[*][pet]Mr. Grubbs[/pet] H/P (7)
+[/list]
+[*]1709/260/257 
+[list]
+[*][pet]Devouring Maggot[/pet] H/S (9)
+[*][pet]Festering Maggot[/pet] H/S (9)
+[/list]
+[*]1644/276/244 
+[list]
+[*][pet]Larva[/pet] B/B (3)
+[*][pet]Maggot[/pet] B/B (3)
+[/list]
+[*]1546/260/289 
+[list]
+[*][pet]Jungle Grub[/pet] H/S (9)
+[/list]
+[/list]
+[B]Beast [ability]Trihorn Charge[/ability]|[ability]Trample[/ability]|[ability]Horn Attack[/ability]|[ability]Stampede[/ability]|[ability]Primal Cry[/ability]|[ability]Trihorn Shield[/ability][/B]
+[list]
+[*]1766/260/252 
+[list]
+[*][pet]Direhorn Runt[/pet] H/H (6)
+[/list]
+[*]1587/289/252 
+[list]
+[*][pet]Direhorn Runt[/pet] H/P (7)
+[/list]
+[*]1587/260/281 
+[list]
+[*][pet]Direhorn Runt[/pet] H/S (9)
+[/list]
+[*]1522/276/268 
+[list]
+[*][pet]Direhorn Runt[/pet] B/B (3)
+[/list]
+[*]1506/289/265 
+[list]
+[*][pet]Pygmy Direhorn[/pet] P/B (10)
+[*][pet]Direhorn Runt[/pet] P/B (10)
+[/list]
+[*]1441/325/252 
+[list]
+[*][pet]Stunted Direhorn[/pet] P/P (4)
+[/list]
+[*]1441/289/281 
+[list]
+[*][pet]Pygmy Direhorn[/pet] P/S (8)
+[/list]
+[/list]
+[B]Beast [ability]Bite[/ability]|[ability]Flurry[/ability]|[ability]Crouch[/ability]|[ability]Howl[/ability]|[ability]Leap[/ability]|[ability]Dazzling Dance[/ability][/B]
+[list]
+[*]1725/260/260 
+[list]
+[*][pet]Worg Pup[/pet] H/H (6)
+[/list]
+[*]1546/289/260 
+[list]
+[*][pet]Fjord Worg Pup[/pet] H/P (7)
+[/list]
+[*]1546/260/289 
+[list]
+[*][pet]Fox Kit[/pet] H/S (9)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Alpine Foxling Kit[/pet] B/B (3)
+[/list]
+[*]1465/289/273 
+[list]
+[*][pet]Alpine Foxling[/pet] P/B (10)
+[/list]
+[*]1465/273/289 
+[list]
+[*][pet]Alpine Foxling Kit[/pet] S/B (11)
+[/list]
+[*]1400/325/260 
+[list]
+[*][pet]Fjord Worg Pup[/pet] P/P (4)
+[/list]
+[*]1400/289/289 
+[list]
+[*][pet]Arctic Fox Kit[/pet] P/S (8)
+[/list]
+[*]1400/260/325 
+[list]
+[*][pet]Alpine Foxling[/pet] S/S (5)
+[/list]
+[/list]
+[B]Beast [ability]Bite[/ability]|[ability]Poison Fang[/ability]|[ability]Hiss[/ability]|[ability]Counterstrike[/ability]|[ability]Burrow[/ability]|[ability]Vicious Fang[/ability][/B]
+[list]
+[*]1644/260/276 
+[list]
+[*][pet]King Snake[/pet] H/H (6)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Brown Snake[/pet] B/B (3)
+[/list]
+[*]1465/289/276 
+[list]
+[*][pet]Tree Python[/pet] H/P (7)
+[*][pet]Emerald Boa[/pet] H/P (7)
+[/list]
+[*]1465/289/273 
+[list]
+[*][pet]Crimson Snake[/pet] H/B (12)
+[/list]
+[*]1465/273/289 
+[list]
+[*][pet]Coral Snake[/pet] H/B (12)
+[/list]
+[*]1465/260/305 
+[list]
+[*][pet]Rattlesnake[/pet] H/S (9)
+[*][pet]Emerald Boa[/pet] H/S (9)
+[*][pet]King Snake[/pet] H/S (9)
+[/list]
+[*]1400/293/276 
+[list]
+[*][pet]Moccasin[/pet] B/B (3)
+[/list]
+[*]1400/276/293 
+[list]
+[*][pet]Water Snake[/pet] B/B (3)
+[*][pet]Rat Snake[/pet] B/B (3)
+[*][pet]Snake[/pet] B/B (3)
+[*][pet]Sidewinder[/pet] B/B (3)
+[*][pet]Rock Viper[/pet] B/B (3)
+[*][pet]Tree Python[/pet] B/B (3)
+[*][pet]Coral Adder[/pet] B/B (3)
+[*][pet]Adder[/pet] B/B (3)
+[*][pet]Ash Viper[/pet] B/B (3)
+[*][pet]Grove Viper[/pet] B/B (3)
+[/list]
+[*]1384/305/276 
+[list]
+[*][pet]Zooey Snake[/pet] H/P (7)
+[/list]
+[*]1384/289/289 
+[list]
+[*][pet]Adder[/pet] P/B (10)
+[*][pet]Temple Snake[/pet] P/B (10)
+[*][pet]Ash Viper[/pet] P/B (10)
+[/list]
+[*]1384/276/305 
+[list]
+[*][pet]Zooey Snake[/pet] H/S (9)
+[/list]
+[*]1384/273/305 
+[list]
+[*][pet]Water Snake[/pet] S/B (11)
+[*][pet]Sidewinder[/pet] S/B (11)
+[/list]
+[*]1384/257/322 
+[list]
+[*][pet]Albino Snake[/pet] S/B (11)
+[/list]
+[*]1319/325/276 
+[list]
+[*][pet]Tree Python[/pet] P/P (4)
+[/list]
+[*]1319/305/289 
+[list]
+[*][pet]Moccasin[/pet] P/S (8)
+[/list]
+[*]1319/289/305 
+[list]
+[*][pet]Rat Snake[/pet] P/S (8)
+[*][pet]Rattlesnake[/pet] P/S (8)
+[*][pet]Coral Adder[/pet] P/S (8)
+[*][pet]Cobra Hatchling[/pet] P/S (8)
+[*][pet]Adder[/pet] P/S (8)
+[*][pet]Ash Viper[/pet] P/S (8)
+[/list]
+[*]1319/276/325 
+[list]
+[*][pet]Black Kingsnake[/pet] S/S (5)
+[*][pet]Moccasin[/pet] S/S (5)
+[/list]
+[*]1319/260/341 
+[list]
+[*][pet]Rat Snake[/pet] S/S (5)
+[*][pet]Snake[/pet] S/S (5)
+[*][pet]Coral Adder[/pet] S/S (5)
+[*][pet]Sidewinder[/pet] S/S (5)
+[*][pet]Temple Snake[/pet] S/S (5)
+[*][pet]Rock Viper[/pet] S/S (5)
+[*][pet]Grove Viper[/pet] S/S (5)
+[/list]
+[/list]
+[B]Beast [ability]Hoof[/ability]|[ability]Chew[/ability]|[ability]Comeback[/ability]|[ability]Soothe[/ability]|[ability]Headbutt[/ability]|[ability]Stampede[/ability][/B]
+[list]
+[*]1481/276/276 
+[list]
+[*][pet]Little Black Ram[/pet] B/B (3)
+[/list]
+[*]1465/289/273 
+[list]
+[*][pet]Little Black Ram[/pet] P/B (10)
+[/list]
+[*]1465/273/289 
+[list]
+[*][pet]Summit Kid[/pet] S/B (11)
+[/list]
+[*]1400/260/325 
+[list]
+[*][pet]Summit Kid[/pet] S/S (5)
+[/list]
+[/list]
+[B]Beast [ability]Claw[/ability]|[ability]Quick Attack[/ability]|[ability]Screech[/ability]|[ability]Triple Snap[/ability]|[ability]Comeback[/ability]|[ability]Ravage[/ability][/B]
+[list]
+[*]1481/293/260 
+[list]
+[*][pet]Diemetradon Hatchling[/pet] B/B (3)
+[/list]
+[*]1465/305/257 
+[list]
+[*][pet]Diemetradon Hatchling[/pet] P/B (10)
+[/list]
+[*]1465/289/276 
+[list]
+[*][pet]Spiky Lizard[/pet] H/P (7)
+[*][pet]Horned Lizard[/pet] H/P (7)
+[*][pet]Spiny Lizard[/pet] H/P (7)
+[*][pet]Twilight Iguana[/pet] H/P (7)
+[/list]
+[*]1400/341/244 
+[list]
+[*][pet]Diemetradon Hatchling[/pet] P/P (4)
+[/list]
+[*]1400/276/293 
+[list]
+[*][pet]Spiky Lizard[/pet] B/B (3)
+[*][pet]Horned Lizard[/pet] B/B (3)
+[*][pet]Spiny Lizard[/pet] B/B (3)
+[*][pet]Twilight Iguana[/pet] B/B (3)
+[*][pet]Ash Lizard[/pet] B/B (3)
+[*][pet]Lizard Hatchling[/pet] B/B (3)
+[/list]
+[*]1384/305/276 
+[list]
+[*][pet]Plains Monitor[/pet] H/P (7)
+[/list]
+[*]1384/289/289 
+[list]
+[*][pet]Ash Lizard[/pet] P/B (10)
+[/list]
+[*]1384/273/305 
+[list]
+[*][pet]Twilight Iguana[/pet] S/B (11)
+[*][pet]Lizard Hatchling[/pet] S/B (11)
+[/list]
+[*]1319/293/293 
+[list]
+[*][pet]Plains Monitor[/pet] B/B (3)
+[/list]
+[*]1319/260/341 
+[list]
+[*][pet]Spiky Lizard[/pet] S/S (5)
+[*][pet]Horned Lizard[/pet] S/S (5)
+[*][pet]Spiny Lizard[/pet] S/S (5)
+[*][pet]Twilight Iguana[/pet] S/S (5)
+[*][pet]Lizard Hatchling[/pet] S/S (5)
+[/list]
+[*]1238/276/341 
+[list]
+[*][pet]Plains Monitor[/pet] S/S (5)
+[/list]
+[/list]

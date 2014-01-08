@@ -1,0 +1,136 @@
+[B]Dragonkin [ability]Breath[/ability]|[ability]Tail Sweep[/ability]|[ability]Ancient Blessing[/ability]|[ability]Competitive Spirit[/ability]|[ability]Lift-Off[/ability]|[ability]Flamethrower[/ability][/B]
+[list]
+[*]1628/289/244 
+[list]
+[*][pet]Essence of Competition[/pet] H/P (7)
+[*][pet]Spirit of Competition[/pet] H/P (7)
+[/list]
+[/list]
+[B]Dragonkin [ability]Breath[/ability]|[ability]Tail Sweep[/ability]|[ability]Healing Flame[/ability]|[ability]Scorched Earth[/ability]|[ability]Lift-Off[/ability]|[ability]Deep Breath[/ability][/B]
+[list]
+[*]1628/322/208 
+[list]
+[*][pet]Onyxian Whelpling[/pet] P/B (10)
+[/list]
+[*]1465/305/257 
+[list]
+[*][pet]Spawn of Onyxia[/pet] P/B (10)
+[/list]
+[*]1400/341/244 
+[list]
+[*][pet]Spawn of Onyxia[/pet] P/P (4)
+[/list]
+[*]1400/305/273 
+[list]
+[*][pet]Spawn of Onyxia[/pet] P/S (8)
+[/list]
+[*]1319/276/325 
+[list]
+[*][pet]Wild Crimson Hatchling[/pet] S/S (5)
+[/list]
+[*]1238/322/289 
+[list]
+[*][pet]Crimson Whelpling[/pet] P/S (8)
+[/list]
+[/list]
+[B]Dragonkin [ability]Breath[/ability]|[ability]Tail Sweep[/ability]|[ability]Call Lightning[/ability]|[ability]Roar[/ability]|[ability]Cyclone[/ability]|[ability]Lift-Off[/ability][/B]
+[list]
+[*]1628/289/244 
+[list]
+[*][pet]Wild Jade Hatchling[/pet] H/P (7)
+[/list]
+[*]1481/341/228 
+[list]
+[*][pet]Thundering Serpent Hatchling[/pet] P/P (4)
+[/list]
+[*]1481/260/309 
+[list]
+[*][pet]Tiny Green Dragon[/pet] S/S (5)
+[/list]
+[*]1400/305/273 
+[list]
+[*][pet]Wild Golden Hatchling[/pet] P/S (8)
+[/list]
+[*]1319/305/289 
+[list]
+[*][pet]Tiny Red Dragon[/pet] P/S (8)
+[/list]
+[/list]
+[B]Dragonkin [ability]Claw[/ability]|[ability]Quills[/ability]|[ability]Rake[/ability]|[ability]Conflagrate[/ability]|[ability]Flame Breath[/ability]|[ability]Flamethrower[/ability][/B]
+[list]
+[*]1806/244/260 
+[list]
+[*][pet]Blue Dragonhawk Hatchling[/pet] H/H (6)
+[/list]
+[*]1563/260/276 
+[list]
+[*][pet]Blue Dragonhawk Hatchling[/pet] B/B (3)
+[/list]
+[*]1481/293/260 
+[list]
+[*][pet]Golden Dragonhawk Hatchling[/pet] B/B (3)
+[/list]
+[*]1481/273/289 
+[list]
+[*][pet]Blue Dragonhawk Hatchling[/pet] P/S (8)
+[/list]
+[*]1481/244/325 
+[list]
+[*][pet]Blue Dragonhawk Hatchling[/pet] S/S (5)
+[/list]
+[*]1400/293/276 
+[list]
+[*][pet]Red Dragonhawk Hatchling[/pet] B/B (3)
+[/list]
+[*]1400/276/309 
+[list]
+[*][pet]Golden Dragonhawk Hatchling[/pet] S/S (5)
+[/list]
+[*]1400/260/309 
+[list]
+[*][pet]Silver Dragonhawk Hatchling[/pet] B/B (3)
+[/list]
+[*]1384/257/322 
+[list]
+[*][pet]Silver Dragonhawk Hatchling[/pet] S/B (11)
+[/list]
+[*]1319/305/289 
+[list]
+[*][pet]Red Dragonhawk Hatchling[/pet] P/S (8)
+[/list]
+[*]1319/276/325 
+[list]
+[*][pet]Red Dragonhawk Hatchling[/pet] S/S (5)
+[/list]
+[*]1319/244/358 
+[list]
+[*][pet]Silver Dragonhawk Hatchling[/pet] S/S (5)
+[/list]
+[/list]
+[B]Dragonkin [ability]Slicing Wind[/ability]|[ability]Arcane Blast[/ability]|[ability]Evanescence[/ability]|[ability]Life Exchange[/ability]|[ability]Moonfire[/ability]|[ability]Cyclone[/ability][/B]
+[list]
+[*]1465/305/260 
+[list]
+[*][pet]Nether Faerie Dragon[/pet] H/P (7)
+[/list]
+[*]1400/276/309 
+[list]
+[*][pet]Sprite Darter Hatchling[/pet] S/S (5)
+[/list]
+[*]1384/305/273 
+[list]
+[*][pet]Nether Faerie Dragon[/pet] P/B (10)
+[/list]
+[*]1384/289/289 
+[list]
+[*][pet]Nether Faerie Dragon[/pet] S/B (11)
+[/list]
+[*]1319/341/260 
+[list]
+[*][pet]Nether Faerie Dragon[/pet] P/P (4)
+[/list]
+[*]1319/276/325 
+[list]
+[*][pet]Nether Faerie Dragon[/pet] S/S (5)
+[/list]
+[/list]
