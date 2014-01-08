@@ -6,6 +6,7 @@ opendir(D, "species") or die "$!";
 
 while (my $dent = readdir(D)) {
 	next if ( ( $dent eq '.' ) or ( $dent eq '..' ));
+	next if ( $dent eq '.svn' );
 
 	open(F, "species/$dent") or die "$!";
 	my $x = "";
@@ -23,6 +24,13 @@ while (my $dent = readdir(D)) {
 	}
 	if ($x =~ m/"name":"([^"]+)",/) {
 		$name = $1;
+	}
+
+	if ( $species eq "-1" ) {
+		die "unknown species: $dent";
+	}
+	if ( $name eq "-1" ) {
+		die "unknown species: $dent";
 	}
 
 	print "$species $name\n";
