@@ -4,16 +4,6 @@ use strict;
 
 use Digest::MD5 qw(md5 md5_hex md5_base64);
 
-#`rm -rf digest`;
-#mkdir("digest") or die "$!";
-
-##opendir(D, "digest") or die "$!";
-##while (my $dent = readdir(D)) {
-##	next if ( ( $dent eq '.' ) or ( $dent eq '..') );
-##	unlink("digest/$dent");
-##}
-##closedir(D) or die "$!";
-
 my @spells;
 my %spellSetName;
 
@@ -49,7 +39,6 @@ while (my $dent = readdir(D)) {
 		foreach my $s (split(/},{/, $spells)) {
 			$s =~ s/^{//;
 			$s =~ s/}$//;
-			# print "$s\n";
 			push(@spells, "$s");
 		}
 
@@ -57,17 +46,10 @@ while (my $dent = readdir(D)) {
 			if ( $s =~ m/"name":"([^"]+)"/ ) {
 				$spellSetName .= '|[ability]'.$1.'[/ability]';
 			}
-#			else {
-#				die;
-#			}
 			$ctx->add("$s\n");
 		}
 	}
 	my $digest = $ctx->hexdigest;
-
-#	#open(F, ">>digest/$digest") or die "$!";
-#	#print F "$species $name\n";
-#	#close(F) or die "$!";
 
 	$spells[$dent] = $digest;
 
@@ -115,16 +97,6 @@ while (my $line = <F>) {
 		$seenPetByName{$name} = $species;
 	}
 
-#	# print "$species; $breed; $name; $type; $health; $power; $speed; $spells[$species]\n";
-#	my $digest = $spells[$species];
-#	if ( ! -d "digest/$digest.$type" ) {
-#		mkdir("digest/$digest.$type") or die "$!";
-#	}
-
-#	open(F2, ">>digest/$digest.$type/$health-$power-$speed") or die "$!";
-#	print F2 "$species; $name; $breed\n";
-#	close(F2) or die "$!";
-
 	$pets{$type}{$spells[$species]}{"name"}{$species} += 1;
 	$pets{$type}{$spells[$species]}{"stat"}{$health.'/'.$power.'/'.$speed}{$name} = $breed;
 }
@@ -147,7 +119,6 @@ foreach my $type (sort keys %pets) {
 				next;
 			}
 
-			# print "$k $x\n";
 			print FT "[B]$type $spellSetName{$spellSet}".'[/B]'."\n";
 			print FT '[list]'."\n";
 			foreach my $kS ( reverse sort keys %{ $pets{$type}{$spellSet}{"stat"} } ) {
@@ -208,65 +179,7 @@ foreach my $type (sort keys %pets) {
 			}
 			print FT '[/list]'."\n";
 		}
-
-#{$health.'-'.$power.'-'.$speed}{$name} = $breed;
 	}
 	close(FT) or die "$!";
 
 }
-##my $in = -1;
-##foreach my $c (split("",$x)) {
-##	if ( $c eq '{' ) {
-##		print "\n";
-##		$in = $in + 1;
-##		print " " x ($in * 2);
-##		print "$in: $c";
-##	}
-##	elsif ( $c eq '}' ) {
-##		print "$c";
-##		$in = $in - 1;
-##	}
-##	else {
-##		print "$c";
-##	}
-##}
-##print "\n";
-
-##my @ability;
-##
-##my $work;
-##my $in = -1;
-##foreach my $c (split("",$x)) {
-##	if ( $c eq '{' ) {
-###		print "\n";
-##		$in = $in + 1;
-###		print " " x ($in * 2);
-###		print "$in: $c";
-##		$work = $c;
-##	}
-##	elsif ( $c eq '}' ) {
-###		print "$c";
-###		$in = $in - 1;
-##		$work .= $c;
-##
-##		print "$in: $work\n";
-##
-###		if ( $in == 0 ) {
-###			if ($work =~ m/"speciesId":(\d+),/) {
-###				$species = $1;
-###			}
-###			if ($work =~ m/"name":"([^"]+)",/) {
-###				$name = $1;
-###			}
-###		}
-###		else {
-###			$ability[$in] = $work;
-###		}
-##	}
-##	else {
-##		# print "$c";
-##		$work .= $c;
-##	}
-##}
-###print "\n";
-##
