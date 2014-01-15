@@ -110,17 +110,6 @@
 [*][pet]Arctic Hare[/pet] S/S (5)
 [/list]
 [/list]
-[B]Critter [ability]Smash[/ability]|[ability]Trample[/ability]|[ability]Trumpet Strike[/ability]|[ability]Survival[/ability]|[ability]Headbutt[/ability]|[ability]Stampede[/ability][/B]
-[list]
-[*]1725/260/260 
-[list]
-[*][pet]Peanut[/pet] H/H (6)
-[/list]
-[*]1628/305/228 
-[list]
-[*][pet]Pint-Sized Pink Pachyderm[/pet] H/P (7)
-[/list]
-[/list]
 [B]Critter [ability]Ooze Touch[/ability]|[ability]Absorb[/ability]|[ability]Acidic Goo[/ability]|[ability]Shell Shield[/ability]|[ability]Dive[/ability]|[ability]Headbutt[/ability][/B]
 [list]
 [*]1969/276/195 
@@ -338,17 +327,6 @@
 [*][pet]Twilight Beetle[/pet] P/P (4)
 [/list]
 [/list]
-[B]Critter [ability]Bite[/ability]|[ability]Peck[/ability]|[ability]Shell Shield[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Trample[/ability]|[ability]Feign Death[/ability][/B]
-[list]
-[*]1481/276/276 
-[list]
-[*][pet]Egbert[/pet] B/B (3)
-[/list]
-[*]1400/260/325 
-[list]
-[*][pet]Mulgore Hatchling[/pet] S/S (5)
-[/list]
-[/list]
 [B]Critter [ability]Hoof[/ability]|[ability]Stampede[/ability]|[ability]Tranquility[/ability]|[ability]Nature's Ward[/ability]|[ability]Bleat[/ability]|[ability]Headbutt[/ability][/B]
 [list]
 [*]1546/257/289 
@@ -533,19 +511,6 @@
 [*][pet]Mouse[/pet] S/S (5)
 [*][pet]Highlands Mouse[/pet] S/S (5)
 [*][pet]Carrion Rat[/pet] S/S (5)
-[/list]
-[/list]
-[B]Critter [ability]Hoof[/ability]|[ability]Diseased Bite[/ability]|[ability]Crouch[/ability]|[ability]Buried Treasure[/ability]|[ability]Uncanny Luck[/ability]|[ability]Headbutt[/ability][/B]
-[list]
-[*]1546/289/260 
-[list]
-[*][pet]Lucky[/pet] H/P (7)
-[*][pet]Golden Pig[/pet] H/P (7)
-[*][pet]Silver Pig[/pet] H/P (7)
-[/list]
-[*]1465/289/273 
-[list]
-[*][pet]Mr. Wiggles[/pet] P/B (10)
 [/list]
 [/list]
 [B]Critter [ability]Scratch[/ability]|[ability]Flurry[/ability]|[ability]Sting[/ability]|[ability]Survival[/ability]|[ability]Stampede[/ability]|[ability]Comeback[/ability][/B]
