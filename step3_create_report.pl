@@ -125,7 +125,7 @@ while (my $line = <F>) {
 #	print F2 "$species; $name; $breed\n";
 #	close(F2) or die "$!";
 
-	$pets{$type}{$spells[$species]}{"name"}{$species} = 1;
+	$pets{$type}{$spells[$species]}{"name"}{$species} += 1;
 	$pets{$type}{$spells[$species]}{"stat"}{$health.'/'.$power.'/'.$speed}{$name} = $breed;
 }
 close(F) or die "$!";
@@ -136,6 +136,17 @@ foreach my $type (sort keys %pets) {
 
 		my $count = keys %{ $pets{$type}{$spellSet}{"name"} };
 		if ( $count > 1 ) {
+
+			my $multipleBreeds = 0;
+			foreach my $species (keys %{ $pets{$type}{$spellSet}{"name"} }) {
+				if ( $pets{$type}{$spellSet}{"name"}{$species} > 1 ) {
+					$multipleBreeds = 1;
+				}
+			}
+			if ( $multipleBreeds == 0 ) {
+				next;
+			}
+
 			# print "$k $x\n";
 			print FT "[B]$type $spellSetName{$spellSet}".'[/B]'."\n";
 			print FT '[list]'."\n";
