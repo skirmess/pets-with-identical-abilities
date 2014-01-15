@@ -1,18 +1,3 @@
-[B]Elemental [ability]Stone Shot[/ability]|[ability]Stone Rush[/ability]|[ability]Sandstorm[/ability]|[ability]Rupture[/ability]|[ability]Rock Barrage[/ability]|[ability]Quake[/ability][/B]
-[list]
-[*]1969/260/211 
-[list]
-[*][pet]Pebble[/pet] H/H (6)
-[/list]
-[*]1628/289/244 
-[list]
-[*][pet]Grinder[/pet] H/P (7)
-[/list]
-[*]1546/273/273 
-[list]
-[*][pet]Lumpy[/pet] H/B (12)
-[/list]
-[/list]
 [B]Elemental [ability]Burn[/ability]|[ability]Flame Breath[/ability]|[ability]Immolate[/ability]|[ability]Scorched Earth[/ability]|[ability]Conflagrate[/ability]|[ability]Immolation[/ability][/B]
 [list]
 [*]1806/260/244 
@@ -139,17 +124,6 @@
 [*]1400/260/325 
 [list]
 [*][pet]Amethyst Shale Hatchling[/pet] S/S (5)
-[/list]
-[/list]
-[B]Elemental [ability]Lash[/ability]|[ability]Poison Lash[/ability]|[ability]Soothing Mists[/ability]|[ability]Plant[/ability]|[ability]Stun Seed[/ability]|[ability]Entangling Roots[/ability][/B]
-[list]
-[*]1481/276/276 
-[list]
-[*][pet]Ammen Vale Lashling[/pet] B/B (3)
-[/list]
-[*]1400/293/276 
-[list]
-[*][pet]Crimson Lasher[/pet] B/B (3)
 [/list]
 [/list]
 [B]Elemental [ability]Feedback[/ability]|[ability]Spark[/ability]|[ability]Crystal Overload[/ability]|[ability]Amplify Magic[/ability]|[ability]Stone Rush[/ability]|[ability]Elementium Bolt[/ability][/B]
