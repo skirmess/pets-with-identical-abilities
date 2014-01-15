@@ -134,33 +134,6 @@
 [*][pet]Pengu[/pet] S/B (11)
 [/list]
 [/list]
-[B]Aquatic [ability]Rip[/ability]|[ability]Consume[/ability]|[ability]Surge[/ability]|[ability]Water Jet[/ability]|[ability]Devour[/ability]|[ability]Blood in the Water[/ability][/B]
-[list]
-[*]1546/305/244 
-[list]
-[*][pet]Snarly[/pet] H/P (7)
-[/list]
-[*]1481/293/260 
-[list]
-[*][pet]Chuck[/pet] B/B (3)
-[*][pet]Muckbreath[/pet] B/B (3)
-[/list]
-[*]1400/305/273 
-[list]
-[*][pet]Toothy[/pet] P/S (8)
-[/list]
-[/list]
-[B]Aquatic [ability]Water Jet[/ability]|[ability]Surge[/ability]|[ability]Cleansing Rain[/ability]|[ability]Healing Wave[/ability]|[ability]Whirlpool[/ability]|[ability]Pump[/ability][/B]
-[list]
-[*]1546/273/273 
-[list]
-[*][pet]Fishy[/pet] H/B (12)
-[/list]
-[*]1465/273/289 
-[list]
-[*][pet]Tiny Goldfish[/pet] S/B (11)
-[/list]
-[/list]
 [B]Aquatic [ability]Bite[/ability]|[ability]Grasp[/ability]|[ability]Shell Shield[/ability]|[ability]Healing Wave[/ability]|[ability]Headbutt[/ability]|[ability]Powerball[/ability][/B]
 [list]
 [*]1888/244/244 
