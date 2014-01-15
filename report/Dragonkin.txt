@@ -1,11 +1,3 @@
-[B]Dragonkin [ability]Breath[/ability]|[ability]Tail Sweep[/ability]|[ability]Ancient Blessing[/ability]|[ability]Competitive Spirit[/ability]|[ability]Lift-Off[/ability]|[ability]Flamethrower[/ability][/B]
-[list]
-[*]1628/289/244 
-[list]
-[*][pet]Essence of Competition[/pet] H/P (7)
-[*][pet]Spirit of Competition[/pet] H/P (7)
-[/list]
-[/list]
 [B]Dragonkin [ability]Breath[/ability]|[ability]Tail Sweep[/ability]|[ability]Healing Flame[/ability]|[ability]Scorched Earth[/ability]|[ability]Lift-Off[/ability]|[ability]Deep Breath[/ability][/B]
 [list]
 [*]1628/322/208 
@@ -31,29 +23,6 @@
 [*]1238/322/289 
 [list]
 [*][pet]Crimson Whelpling[/pet] P/S (8)
-[/list]
-[/list]
-[B]Dragonkin [ability]Breath[/ability]|[ability]Tail Sweep[/ability]|[ability]Call Lightning[/ability]|[ability]Roar[/ability]|[ability]Cyclone[/ability]|[ability]Lift-Off[/ability][/B]
-[list]
-[*]1628/289/244 
-[list]
-[*][pet]Wild Jade Hatchling[/pet] H/P (7)
-[/list]
-[*]1481/341/228 
-[list]
-[*][pet]Thundering Serpent Hatchling[/pet] P/P (4)
-[/list]
-[*]1481/260/309 
-[list]
-[*][pet]Tiny Green Dragon[/pet] S/S (5)
-[/list]
-[*]1400/305/273 
-[list]
-[*][pet]Wild Golden Hatchling[/pet] P/S (8)
-[/list]
-[*]1319/305/289 
-[list]
-[*][pet]Tiny Red Dragon[/pet] P/S (8)
 [/list]
 [/list]
 [B]Dragonkin [ability]Claw[/ability]|[ability]Quills[/ability]|[ability]Rake[/ability]|[ability]Conflagrate[/ability]|[ability]Flame Breath[/ability]|[ability]Flamethrower[/ability][/B]
