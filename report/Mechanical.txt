@@ -1,14 +1,3 @@
-[B]Mechanical [ability]Zap[/ability]|[ability]Thrash[/ability]|[ability]Repair[/ability]|[ability]Heartbroken[/ability]|[ability]XE-321 Boombot[/ability]|[ability]Tympanic Tantrum[/ability][/B]
-[list]
-[*]1546/322/228 
-[list]
-[*][pet]Lil' XT[/pet] H/P (7)
-[/list]
-[*]1465/322/241 
-[list]
-[*][pet]Landro's Lil' XT[/pet] P/B (10)
-[/list]
-[/list]
 [B]Mechanical [ability]Peck[/ability]|[ability]Batter[/ability]|[ability]Overtune[/ability]|[ability]Rebuild[/ability]|[ability]Supercharge[/ability]|[ability]Wind-Up[/ability][/B]
 [list]
 [*]1806/244/260 
