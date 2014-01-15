@@ -1,12 +1,3 @@
-[B]Magic [ability]Beam[/ability]|[ability]Burn[/ability]|[ability]Illuminate[/ability]|[ability]Flash[/ability]|[ability]Soul Ward[/ability]|[ability]Light[/ability][/B]
-[list]
-[*]1481/276/276 
-[list]
-[*][pet]Lunar Lantern[/pet] B/B (3)
-[*][pet]Enchanted Lantern[/pet] B/B (3)
-[*][pet]Festival Lantern[/pet] B/B (3)
-[/list]
-[/list]
 [B]Magic [ability]Ooze Touch[/ability]|[ability]Absorb[/ability]|[ability]Corrosion[/ability]|[ability]Creeping Ooze[/ability]|[ability]Expunge[/ability]|[ability]Acidic Goo[/ability][/B]
 [list]
 [*]1806/260/244 
@@ -48,14 +39,6 @@
 [*]1481/276/276 
 [list]
 [*][pet]Oily Slimeling[/pet] B/B (3)
-[/list]
-[/list]
-[B]Magic [ability]Claw[/ability]|[ability]Rend[/ability]|[ability]Evanescence[/ability]|[ability]Spectral Strike[/ability]|[ability]Leap[/ability]|[ability]Prowl[/ability][/B]
-[list]
-[*]1319/305/289 
-[list]
-[*][pet]Spectral Tiger Cub[/pet] P/S (8)
-[*][pet]Spectral Cub[/pet] P/S (8)
 [/list]
 [/list]
 [B]Magic [ability]Feedback[/ability]|[ability]Flurry[/ability]|[ability]Drain Power[/ability]|[ability]Amplify Magic[/ability]|[ability]Mana Surge[/ability]|[ability]Deflection[/ability][/B]
