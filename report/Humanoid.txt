@@ -2,7 +2,8 @@
 [list]
 [*]1481/276/276 
 [list]
-[*][pet]Moonkin Hatchling[/pet] B/B (3)
+[*][pet]Moonkin Hatchling (Alliance)[/pet] B/B (3)
+[*][pet]Moonkin Hatchling (Horde)[/pet] B/B (3)
 [/list]
 [/list]
 [B]Humanoid [ability]Punch[/ability]|[ability]Flank[/ability]|[ability]Acid Touch[/ability]|[ability]Lucky Dance[/ability]|[ability]Clobber[/ability]|[ability]Stampede[/ability][/B]
