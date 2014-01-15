@@ -250,17 +250,6 @@
 [*][pet]Forest Spiderling[/pet] S/S (5)
 [/list]
 [/list]
-[B]Beast [ability]Bite[/ability]|[ability]Roar[/ability]|[ability]Bash[/ability]|[ability]Hibernate[/ability]|[ability]Maul[/ability]|[ability]Call Blizzard[/ability][/B]
-[list]
-[*]1546/289/260 
-[list]
-[*][pet]Baby Blizzard Bear[/pet] H/P (7)
-[/list]
-[*]1481/276/276 
-[list]
-[*][pet]Poley[/pet] B/B (3)
-[/list]
-[/list]
 [B]Beast [ability]Chomp[/ability]|[ability]Consume[/ability]|[ability]Acidic Goo[/ability]|[ability]Sticky Goo[/ability]|[ability]Leap[/ability]|[ability]Burrow[/ability][/B]
 [list]
 [*]1888/260/228 
