@@ -217,17 +217,6 @@
 [*][pet]White Tickbird Hatchling[/pet] S/S (5)
 [/list]
 [/list]
-[B]Flying [ability]Peck[/ability]|[ability]Quills[/ability]|[ability]Screech[/ability]|[ability]Rush[/ability]|[ability]Reckless Strike[/ability]|[ability]Lift-Off[/ability][/B]
-[list]
-[*]1563/260/276 
-[list]
-[*][pet]Cenarion Hatchling[/pet] B/B (3)
-[/list]
-[*]1481/276/276 
-[list]
-[*][pet]Hippogryph Hatchling[/pet] B/B (3)
-[/list]
-[/list]
 [B]Flying [ability]Slicing Wind[/ability]|[ability]Thrash[/ability]|[ability]Hawk Eye[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Lift-Off[/ability]|[ability]Cyclone[/ability][/B]
 [list]
 [*]1806/260/244 
