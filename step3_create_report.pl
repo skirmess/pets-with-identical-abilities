@@ -78,6 +78,8 @@ closedir(D) or die "$!";
 
 my %pets;
 
+my %seenPetById;
+my %seenPetByName;
 open(F, "BreedsPerPet.csv") or die "$!";
 while (my $line = <F>) {
 	chomp $line;
@@ -86,6 +88,33 @@ while (my $line = <F>) {
 	if ( $breed > 12 ) {
 		$breed = $breed - 10;
 	}
+	if ( $name eq "Moonkin Hatchling" ) {
+		if ( $species eq "296" ) {
+			$name = "$name (Alliance)";
+		}
+		elsif ( $species eq "298" ) {
+			$name = "$name (Horde)";
+		}
+	}
+
+	if ( defined $seenPetById{$species} ) {
+		if ( $name ne $seenPetById{$species} ) {
+			die "different name ($name, $seenPetById{$species} for same species ($species)";
+		}
+	}
+	else {
+		$seenPetById{$species} = $name;
+	}
+
+	if ( defined $seenPetByName{$name} ) {
+		if ( $species ne $seenPetByName{$name} ) {
+			die "different species ($species, $seenPetByName{$name}) for same name ($name)";
+		}
+	}
+	else {
+		$seenPetByName{$name} = $species;
+	}
+
 #	# print "$species; $breed; $name; $type; $health; $power; $speed; $spells[$species]\n";
 #	my $digest = $spells[$species];
 #	if ( ! -d "digest/$digest.$type" ) {
@@ -113,44 +142,56 @@ foreach my $type (sort keys %pets) {
 			foreach my $kS ( reverse sort keys %{ $pets{$type}{$spellSet}{"stat"} } ) {
 				print FT '[*]'."$kS\n";
 				print FT '[list]'."\n";
+				my $lastBreed = undef;
+				my $lastName;
 				foreach my $kN ( keys %{ $pets{$type}{$spellSet}{"stat"}{$kS} } ) {
 					print FT '[*][pet]'.$kN.'[/pet]';
 					my $breed = $pets{$type}{$spellSet}{stat}{$kS}{$kN};
+					my $breedName = "";
 					if ( $breed == 3 ) {
-						print FT " B/B";
+						$breedName = "B/B";
 					}
 					elsif ( $breed == 4 ) {
-						print FT " P/P";
+						$breedName = "P/P";
 					}
 					elsif ( $breed == 5 ) {
-						print FT " S/S";
+						$breedName = "S/S";
 					}
 					elsif ( $breed == 6 ) {
-						print FT " H/H";
+						$breedName = "H/H";
 					}
 					elsif ( $breed == 7 ) {
-						print FT " H/P";
+						$breedName = "H/P";
 					}
 					elsif ( $breed == 8 ) {
-						print FT " P/S";
+						$breedName = "P/S";
 					}
 					elsif ( $breed == 9 ) {
-						print FT " H/S";
+						$breedName = "H/S";
 					}
 					elsif ( $breed == 10 ) {
-						print FT " P/B";
+						$breedName = "P/B";
 					}
 					elsif ( $breed == 11 ) {
-						print FT " S/B";
+						$breedName = "S/B";
 					}
 					elsif ( $breed == 12 ) {
-						print FT " H/B";
+						$breedName = "H/B";
 					}
 					else {
 						die "unknown breed";
 					}
-					print FT " ($breed)";
-					print FT "\n";
+					print FT " $breedName ($breed)\n";
+
+					if ( ! defined $lastBreed ) {
+						$lastBreed = $breed;
+						$lastName = $kN;
+					}
+					else {
+						if ( $lastBreed ne $breed) {
+							# print "WARNING: Same stats for $breed ($kN) and $lastBreed ($lastName).\n";
+						}
+					}
 				}
 				print FT '[/list]'."\n";
 			}
