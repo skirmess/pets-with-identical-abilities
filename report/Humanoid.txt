@@ -1,25 +1,3 @@
-[B]Humanoid [ability]Punch[/ability]|[ability]Solar Beam[/ability]|[ability]Entangling Roots[/ability]|[ability]Clobber[/ability]|[ability]Cyclone[/ability]|[ability]Moonfire[/ability][/B]
-[list]
-[*]1481/276/276 
-[list]
-[*][pet]Moonkin Hatchling (Alliance)[/pet] B/B (3)
-[*][pet]Moonkin Hatchling (Horde)[/pet] B/B (3)
-[/list]
-[/list]
-[B]Humanoid [ability]Punch[/ability]|[ability]Flank[/ability]|[ability]Acid Touch[/ability]|[ability]Lucky Dance[/ability]|[ability]Clobber[/ability]|[ability]Stampede[/ability][/B]
-[list]
-[*]1546/273/273 
-[list]
-[*][pet]Murki[/pet] H/B (12)
-[*][pet]Terky[/pet] H/B (12)
-[*][pet]Lurky[/pet] H/B (12)
-[/list]
-[*]1481/276/276 
-[list]
-[*][pet]Murky[/pet] B/B (3)
-[*][pet]Gurky[/pet] B/B (3)
-[/list]
-[/list]
 [B]Humanoid [ability]Crush[/ability]|[ability]Tongue Lash[/ability]|[ability]Sticky Goo[/ability]|[ability]Poison Lash[/ability]|[ability]Backflip[/ability]|[ability]Dreadful Breath[/ability][/B]
 [list]
 [*]1465/273/289 
@@ -29,13 +7,5 @@
 [*]1400/260/325 
 [list]
 [*][pet]Hopling[/pet] S/S (5)
-[/list]
-[/list]
-[B]Humanoid [ability]Snowball[/ability]|[ability]Ice Lance[/ability]|[ability]Call Blizzard[/ability]|[ability]Eggnog[/ability]|[ability]Ice Tomb[/ability]|[ability]Gift of Winter's Veil[/ability][/B]
-[list]
-[*]1481/276/276 
-[list]
-[*][pet]Winter's Little Helper[/pet] B/B (3)
-[*][pet]Father Winter's Helper[/pet] B/B (3)
 [/list]
 [/list]
