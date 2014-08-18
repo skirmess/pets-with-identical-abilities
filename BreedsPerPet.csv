@@ -2281,3 +2281,5 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1351 ;7 ;Undead;Macabre Marionette;inv_misc_bone_humanskull_02;8.9;8.9;8;1546 ;289 ;260 
 1363 ;8 ;Beast;Alterac Brew-Pup;inv_cask_01;8;8.9;8.9;1400 ;289 ;289 
 1364 ;4 ;Humanoid;Murkalot;inv_mace_1h_pandung_c_01;8.3;9.9;7.8;1449 ;322 ;254 
+1365 ;9 ;Humanoid;Treasure Goblin;ability_racial_packhobgoblin;8.9;8;8.9;1546 ;260 ;289 
+1386 ;14 ;Flying;Dread Hatchling;ability_mount_pandarenphoenix_green;8.12;10.38;7.5;1420 ;337 ;244 
