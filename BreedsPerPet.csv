@@ -2302,7 +2302,7 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1435 ;16 ;Beast;Leatherhide Runt;inv_misc_foot_centaur;11;8.5;6.5;1888 ;276 ;211 
 1441 ;13 ;Aquatic;Mud Jumper;inv_pet_toad_brown;9;8;8.5;1563 ;260 ;276 
 1441 ;22 ;Aquatic;Mud Jumper;inv_pet_toad_brown;9.4;7.9;8.4;1628 ;257 ;273 
-1446 ;20 ;Beast;Wiesentramplerkalb;inv_pet_baby_elekk_green;8.4;8.9;8.4;1465 ;289 ;273 
+1446 ;20 ;Beast;Meadowstomper Calf;inv_pet_baby_elekk_green;8.4;8.9;8.4;1465 ;289 ;273 
 1447 ;14 ;Aquatic;Moonshell Crab;inv_jewelcrafting_truesilvercrab;8;10;8;1400 ;325 ;260 
 1447 ;16 ;Aquatic;Moonshell Crab;inv_jewelcrafting_truesilvercrab;10;8;8;1725 ;260 ;260 
 1447 ;17 ;Aquatic;Moonshell Crab;inv_jewelcrafting_truesilvercrab;8.9;8.9;8;1546 ;289 ;260 
@@ -2349,8 +2349,8 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1470 ;22 ;Flying;Axebeak Hatchling;inv_toucan_color1;8.52;8.65;8.52;1485 ;281 ;277 
 1478 ;17 ;Magic;Syd the Squid;inv_misc_fish_102;8.9;8.9;8;1546 ;289 ;260 
 1515 ;18 ;Mechanical;Stonegrinder;inv_eng_gizmo3;8;8.9;8.9;1400 ;289 ;289 
-1521 ;18 ;Undead;Verfluchte Birmakatze;trade_archaeology_catstatueemeraldeyes;8;8.9;8.9;1400 ;289 ;289 
-1523 ;5 ;Undead;Schrödingers Katze;inv_pet_cats_bombaycat;8;8;10;1400 ;260 ;325 
+1521 ;18 ;Undead;Cursed Birman;trade_archaeology_catstatueemeraldeyes;8;8.9;8.9;1400 ;289 ;289 
+1523 ;5 ;Undead;Widget the Departed;inv_pet_cats_bombaycat;8;8;10;1400 ;260 ;325 
 1524 ;17 ;Magic;Netherspawn, Spawn of Netherspawn;spell_nature_acid_01;8.9;8.9;8;1546 ;289 ;260 
 1524 ;19 ;Magic;Netherspawn, Spawn of Netherspawn;spell_nature_acid_01;8.9;8;8.9;1546 ;260 ;289 
 1530 ;14 ;Undead;Frostwolf Ghostpup;inv_jewelry_frostwolftrinket_02;8;10;8;1400 ;325 ;260 
@@ -2367,8 +2367,8 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1563 ;17 ;Dragonkin;Bronze Whelpling;inv_misc_head_dragon_bronze;8.9;8.9;8;1546 ;289 ;260 
 1563 ;19 ;Dragonkin;Bronze Whelpling;inv_misc_head_dragon_bronze;8.9;8;8.9;1546 ;260 ;289 
 1564 ;17 ;Elemental;Doom Bloom;inv_misc_herb_dreamingglory;8.9;8.9;8;1546 ;289 ;260 
-1565 ;21 ;Mechanical;;inv_eng_metalblingronear;8.4;8.4;8.9;1465 ;273 ;289 
-1566 ;15 ;Flying;;inv_pet_peacock_green;8;8;10;1400 ;260 ;325 
+1565 ;21 ;Mechanical;Mechanical Scorpid;inv_eng_metalblingronear;8.4;8.4;8.9;1465 ;273 ;289 
+1566 ;15 ;Flying;Everbloom Peachick;inv_pet_peacock_green;8;8;10;1400 ;260 ;325 
 1572 ;13 ;Flying;Brilliant Bloodfeather;inv_pet_peacock_blue;8.5;8.5;8.5;1481 ;276 ;276 
 1572 ;14 ;Flying;Brilliant Bloodfeather;inv_pet_peacock_blue;8;10;8;1400 ;325 ;260 
 1572 ;15 ;Flying;Brilliant Bloodfeather;inv_pet_peacock_blue;8;8;10;1400 ;260 ;325 
