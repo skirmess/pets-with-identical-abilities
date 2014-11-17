@@ -134,6 +134,23 @@
 [*][pet]Pengu[/pet] S/B (11)
 [/list]
 [/list]
+[B]Aquatic [ability]Rip[/ability]|[ability]Claw[/ability]|[ability]Spiny Carapace[/ability]|[ability]Shell Shield[/ability]|[ability]Dive[/ability]|[ability]Blood in the Water[/ability][/B]
+[list]
+[*]1644/293/244 
+[list]
+[*][pet]Zangar Crawler[/pet] H/H (6)
+[*][pet]Frostshell Pincher[/pet] H/H (6)
+[*][pet]Ironclaw Scuttler[/pet] H/H (6)
+[*][pet]Kelp Scuttler[/pet] H/H (6)
+[/list]
+[*]1319/358/244 
+[list]
+[*][pet]Zangar Crawler[/pet] P/P (4)
+[*][pet]Frostshell Pincher[/pet] P/P (4)
+[*][pet]Ironclaw Scuttler[/pet] P/P (4)
+[*][pet]Kelp Scuttler[/pet] P/P (4)
+[/list]
+[/list]
 [B]Aquatic [ability]Bite[/ability]|[ability]Grasp[/ability]|[ability]Shell Shield[/ability]|[ability]Healing Wave[/ability]|[ability]Headbutt[/ability]|[ability]Powerball[/ability][/B]
 [list]
 [*]1888/244/244 

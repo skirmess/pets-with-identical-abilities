@@ -1,31 +1,3 @@
-[B]Flying [ability]Peck[/ability]|[ability]Slicing Wind[/ability]|[ability]Squawk[/ability]|[ability]Gobble Strike[/ability]|[ability]Food Coma[/ability]|[ability]Flock[/ability][/B]
-[list]
-[*]1546/289/260 
-[list]
-[*][pet]Plump Turkey[/pet] H/P (7)
-[/list]
-[*]1546/273/273 
-[list]
-[*][pet]Turkey[/pet] H/B (12)
-[/list]
-[*]1546/260/289 
-[list]
-[*][pet]Highlands Turkey[/pet] H/S (9)
-[/list]
-[*]1481/276/276 
-[list]
-[*][pet]Turkey[/pet] B/B (3)
-[*][pet]Highlands Turkey[/pet] B/B (3)
-[/list]
-[*]1400/289/289 
-[list]
-[*][pet]Highlands Turkey[/pet] P/S (8)
-[/list]
-[*]1400/260/325 
-[list]
-[*][pet]Turkey[/pet] S/S (5)
-[/list]
-[/list]
 [B]Flying [ability]Peck[/ability]|[ability]Slicing Wind[/ability]|[ability]Squawk[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Egg Barrage[/ability]|[ability]Flock[/ability][/B]
 [list]
 [*]1546/273/273 
@@ -58,67 +30,6 @@
 [list]
 [*][pet]Szechuan Chicken[/pet] S/S (5)
 [*][pet]Chicken[/pet] S/S (5)
-[/list]
-[/list]
-[B]Flying [ability]Peck[/ability]|[ability]Quills[/ability]|[ability]Shriek[/ability]|[ability]Cyclone[/ability]|[ability]Nocturnal Strike[/ability]|[ability]Predatory Strike[/ability][/B]
-[list]
-[*]1725/260/260 
-[list]
-[*][pet]Great Horned Owl[/pet] H/H (6)
-[/list]
-[*]1546/289/260 
-[list]
-[*][pet]Great Horned Owl[/pet] H/P (7)
-[/list]
-[*]1481/276/276 
-[list]
-[*][pet]Great Horned Owl[/pet] B/B (3)
-[*][pet]Hawk Owl[/pet] B/B (3)
-[/list]
-[*]1465/289/273 
-[list]
-[*][pet]Crested Owl[/pet] H/B (12)
-[*][pet]Hawk Owl[/pet] P/B (10)
-[/list]
-[*]1465/276/289 
-[list]
-[*][pet]Crested Owl[/pet] H/S (9)
-[/list]
-[*]1465/228/338 
-[list]
-[*][pet]Miniwing[/pet] H/S (9)
-[/list]
-[*]1400/293/276 
-[list]
-[*][pet]Crested Owl[/pet] B/B (3)
-[/list]
-[*]1400/289/289 
-[list]
-[*][pet]Hawk Owl[/pet] P/S (8)
-[/list]
-[*]1400/260/309 
-[list]
-[*][pet]Snowy Owl[/pet] B/B (3)
-[/list]
-[*]1384/322/257 
-[list]
-[*][pet]Brilliant Kaliri[/pet] P/B (10)
-[/list]
-[*]1384/273/306 
-[list]
-[*][pet]Snowy Owl[/pet] P/B (10)
-[/list]
-[*]1384/257/322 
-[list]
-[*][pet]Snowy Owl[/pet] S/B (11)
-[/list]
-[*]1319/322/273 
-[list]
-[*][pet]Brilliant Kaliri[/pet] P/S (8)
-[/list]
-[*]1319/293/309 
-[list]
-[*][pet]Brilliant Kaliri[/pet] S/S (5)
 [/list]
 [/list]
 [B]Flying [ability]Slicing Wind[/ability]|[ability]Thrash[/ability]|[ability]Cyclone[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Hawk Eye[/ability]|[ability]Lift-Off[/ability][/B]
@@ -294,6 +205,193 @@
 [*]1238/260/358 
 [list]
 [*][pet]Polly[/pet] S/S (5)
+[/list]
+[/list]
+[B]Flying [ability]Bite[/ability]|[ability]Leech Life[/ability]|[ability]Screech[/ability]|[ability]Hawk Eye[/ability]|[ability]Reckless Strike[/ability]|[ability]Nocturnal Strike[/ability][/B]
+[list]
+[*]1628/276/257 
+[list]
+[*][pet]Tirisfal Batling[/pet] H/S (9)
+[/list]
+[*]1563/293/244 
+[list]
+[*][pet]Tirisfal Batling[/pet] B/B (3)
+[/list]
+[*]1546/289/257 
+[list]
+[*][pet]Tirisfal Batling[/pet] S/B (11)
+[/list]
+[*]1465/289/276 
+[list]
+[*][pet]Bat[/pet] H/P (7)
+[/list]
+[*]1384/289/289 
+[list]
+[*][pet]Bat[/pet] P/B (10)
+[/list]
+[*]1384/273/305 
+[list]
+[*][pet]Bat[/pet] S/B (11)
+[/list]
+[*]1319/325/276 
+[list]
+[*][pet]Bat[/pet] P/P (4)
+[/list]
+[*]1319/289/305 
+[list]
+[*][pet]Bat[/pet] P/S (8)
+[/list]
+[*]1319/260/341 
+[list]
+[*][pet]Bat[/pet] S/S (5)
+[/list]
+[/list]
+[B]Flying [ability]Peck[/ability]|[ability]Slicing Wind[/ability]|[ability]Squawk[/ability]|[ability]Gobble Strike[/ability]|[ability]Food Coma[/ability]|[ability]Flock[/ability][/B]
+[list]
+[*]1546/289/260 
+[list]
+[*][pet]Plump Turkey[/pet] H/P (7)
+[/list]
+[*]1546/273/273 
+[list]
+[*][pet]Turkey[/pet] H/B (12)
+[/list]
+[*]1546/260/289 
+[list]
+[*][pet]Highlands Turkey[/pet] H/S (9)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Turkey[/pet] B/B (3)
+[*][pet]Highlands Turkey[/pet] B/B (3)
+[/list]
+[*]1400/289/289 
+[list]
+[*][pet]Highlands Turkey[/pet] P/S (8)
+[/list]
+[*]1400/260/325 
+[list]
+[*][pet]Turkey[/pet] S/S (5)
+[/list]
+[/list]
+[B]Flying [ability]Slicing Wind[/ability]|[ability]Peck[/ability]|[ability]Rain Dance[/ability]|[ability]Flyby[/ability]|[ability]Lift-Off[/ability]|[ability]Nocturnal Strike[/ability][/B]
+[list]
+[*]1485/297/264 
+[list]
+[*][pet]Axebeak Hatchling[/pet] H/P (7)
+[*][pet]Junglebeak[/pet] H/P (7)
+[/list]
+[*]1485/281/277 
+[list]
+[*][pet]Axebeak Hatchling[/pet] H/B (12)
+[*][pet]Junglebeak[/pet] H/B (12)
+[/list]
+[*]1420/284/280 
+[list]
+[*][pet]Axebeak Hatchling[/pet] B/B (3)
+[*][pet]Junglebeak[/pet] B/B (3)
+[/list]
+[*]1404/297/277 
+[list]
+[*][pet]Axebeak Hatchling[/pet] P/B (10)
+[*][pet]Junglebeak[/pet] P/B (10)
+[/list]
+[*]1339/333/264 
+[list]
+[*][pet]Axebeak Hatchling[/pet] P/P (4)
+[*][pet]Junglebeak[/pet] P/P (4)
+[/list]
+[/list]
+[B]Flying [ability]Peck[/ability]|[ability]Quills[/ability]|[ability]Shriek[/ability]|[ability]Cyclone[/ability]|[ability]Nocturnal Strike[/ability]|[ability]Predatory Strike[/ability][/B]
+[list]
+[*]1725/260/260 
+[list]
+[*][pet]Great Horned Owl[/pet] H/H (6)
+[/list]
+[*]1546/289/260 
+[list]
+[*][pet]Great Horned Owl[/pet] H/P (7)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Great Horned Owl[/pet] B/B (3)
+[*][pet]Hawk Owl[/pet] B/B (3)
+[/list]
+[*]1465/289/273 
+[list]
+[*][pet]Crested Owl[/pet] H/B (12)
+[*][pet]Hawk Owl[/pet] P/B (10)
+[/list]
+[*]1465/276/289 
+[list]
+[*][pet]Crested Owl[/pet] H/S (9)
+[/list]
+[*]1465/228/338 
+[list]
+[*][pet]Miniwing[/pet] H/S (9)
+[/list]
+[*]1400/293/276 
+[list]
+[*][pet]Crested Owl[/pet] B/B (3)
+[/list]
+[*]1400/289/289 
+[list]
+[*][pet]Hawk Owl[/pet] P/S (8)
+[/list]
+[*]1400/260/309 
+[list]
+[*][pet]Snowy Owl[/pet] B/B (3)
+[/list]
+[*]1384/322/257 
+[list]
+[*][pet]Brilliant Kaliri[/pet] P/B (10)
+[/list]
+[*]1384/273/306 
+[list]
+[*][pet]Snowy Owl[/pet] P/B (10)
+[/list]
+[*]1384/257/322 
+[list]
+[*][pet]Snowy Owl[/pet] S/B (11)
+[/list]
+[*]1319/322/273 
+[list]
+[*][pet]Brilliant Kaliri[/pet] P/S (8)
+[/list]
+[*]1319/293/309 
+[list]
+[*][pet]Brilliant Kaliri[/pet] S/S (5)
+[/list]
+[/list]
+[B]Flying [ability]Barbed Stinger[/ability]|[ability]Bite[/ability]|[ability]Focus[/ability]|[ability]Predatory Strike[/ability]|[ability]Puncture Wound[/ability]|[ability]Ravage[/ability][/B]
+[list]
+[*]1546/273/273 
+[list]
+[*][pet]Bloodsting Wasp[/pet] H/B (12)
+[*][pet]Amberbarb Wasp[/pet] H/B (12)
+[*][pet]Twilight Wasp[/pet] H/B (12)
+[*][pet]Wood Wasp[/pet] H/B (12)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Bloodsting Wasp[/pet] B/B (3)
+[*][pet]Amberbarb Wasp[/pet] B/B (3)
+[*][pet]Twilight Wasp[/pet] B/B (3)
+[*][pet]Wood Wasp[/pet] B/B (3)
+[/list]
+[*]1465/289/273 
+[list]
+[*][pet]Bloodsting Wasp[/pet] P/B (10)
+[*][pet]Amberbarb Wasp[/pet] P/B (10)
+[*][pet]Twilight Wasp[/pet] P/B (10)
+[*][pet]Wood Wasp[/pet] P/B (10)
+[/list]
+[*]1465/273/289 
+[list]
+[*][pet]Bloodsting Wasp[/pet] S/B (11)
+[*][pet]Amberbarb Wasp[/pet] S/B (11)
+[*][pet]Twilight Wasp[/pet] S/B (11)
+[*][pet]Wood Wasp[/pet] S/B (11)
 [/list]
 [/list]
 [B]Flying [ability]Slicing Wind[/ability]|[ability]Alpha Strike[/ability]|[ability]Cocoon Strike[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Moth Balls[/ability]|[ability]Moth Dust[/ability][/B]
@@ -511,45 +609,6 @@
 [*]1319/260/341 
 [list]
 [*][pet]Firefly[/pet] S/S (5)
-[/list]
-[/list]
-[B]Flying [ability]Bite[/ability]|[ability]Leech Life[/ability]|[ability]Screech[/ability]|[ability]Hawk Eye[/ability]|[ability]Reckless Strike[/ability]|[ability]Nocturnal Strike[/ability][/B]
-[list]
-[*]1628/276/257 
-[list]
-[*][pet]Tirisfal Batling[/pet] H/S (9)
-[/list]
-[*]1563/293/244 
-[list]
-[*][pet]Tirisfal Batling[/pet] B/B (3)
-[/list]
-[*]1546/289/257 
-[list]
-[*][pet]Tirisfal Batling[/pet] S/B (11)
-[/list]
-[*]1465/289/276 
-[list]
-[*][pet]Bat[/pet] H/P (7)
-[/list]
-[*]1384/289/289 
-[list]
-[*][pet]Bat[/pet] P/B (10)
-[/list]
-[*]1384/273/305 
-[list]
-[*][pet]Bat[/pet] S/B (11)
-[/list]
-[*]1319/325/276 
-[list]
-[*][pet]Bat[/pet] P/P (4)
-[/list]
-[*]1319/289/305 
-[list]
-[*][pet]Bat[/pet] P/S (8)
-[/list]
-[*]1319/260/341 
-[list]
-[*][pet]Bat[/pet] S/S (5)
 [/list]
 [/list]
 [B]Flying [ability]Bite[/ability]|[ability]Arcane Blast[/ability]|[ability]Tail Sweep[/ability]|[ability]Slicing Wind[/ability]|[ability]Shadow Shock[/ability]|[ability]Lash[/ability][/B]

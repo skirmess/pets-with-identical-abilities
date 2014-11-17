@@ -1,0 +1,72 @@
+There are many pets with identical abilities. It would make sense to collect different breeds of the different pets instead of 20 S/S rabbits with the exact same stats. I've created a list of all pets with the same abilities which should make it easier to pick different breeds for different pets.
+
+[list]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71282#p71282]Aquatic[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71283#p71283]Beast[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71284#p71284]Critter[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71286#p71286]Dragonkin[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71287#p71287]Elemental[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71288#p71288]Flying[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71289#p71289]Humanoid[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71290#p71290]Magic[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71291#p71291]Mechanical[/url]
+[*][url=http://www.warcraftpets.com/community/forum/viewtopic.php?p=71292#p71292]Undead[/url][/list]
+
+[b]Changes[/b]
+[list]
+[*]2014-11-17 - Added WoD pets.
+[list]
+[*]Aquatic
+[list]
+[*][pet]Zangar Crawler[/pet]/[pet]Frostshell Pincher[/pet]/[pet]Ironclaw Scuttler[/pet]/[pet]Kelp Scuttler[/pet][/list]
+[*]Beast
+[list]
+[*][pet]Mudback Calf[/pet]/[pet]Flat-Tooth Calf[/pet]
+[*][pet]Mossbite Skitterer[/pet]/[pet]Icespine Hatchling[/pet]/[pet]Thicket Skitterer[/pet]
+[*][pet]Leatherhide Runt[/pet]/[pet]Clefthoof Runt[/pet][/list]
+[*]Flying
+[list]
+[*][pet]Axebeak Hatchling[/pet]/[pet]Junglebeak[/pet]
+[*][pet]Bloodsting Wasp[/pet]/[pet]Amberbarb Wasp[/pet]/[pet]Twilight Wasp[/pet]/[pet]Wood Wasp[/pet][/list][/list]
+
+[*]2014-01-15 - Removed all entries where every pet exists in only one breed.
+[list]
+[*]Aquatic
+[list]
+[*][pet]Snarly[/pet]/[pet]Chuck[/pet]/[pet]Muckbreath[/pet]/[pet]Toothy[/pet]
+[*][pet]Fishy[/pet]/[pet]Tiny Goldfish[/pet][/list]
+[*]Beast
+[list]
+[*][pet]Baby Blizzard Bear[/pet]/[pet]Poley[/pet][/list]
+[*]Critter
+[list]
+[*][pet]Peanut[/pet]/[pet]Pint-Sized Pink Pachyderm[/pet]
+[*][pet]Egbert[/pet]/[pet]Mulgore Hatchling[/pet]
+[*][pet]Lucky[/pet]/[pet]Golden Pig[/pet]/[pet]Silver Pig[/pet]/[pet]Mr. Wiggles[/pet][/list]
+[*]Dragonkin
+[list]
+[*][pet]Essence of Competition[/pet]/[pet]Spirit of Competition[/pet]
+[*][pet]Wild Jade Hatchling[/pet]/[pet]Thundering Serpent Hatchling[/pet]/[pet]Tiny Green Dragon[/pet]/[pet]Wild Golden Hatchling[/pet]/[pet]Tiny Red Dragon[/pet][/list]
+[*]Elemental
+[list]
+[*][pet]Pebble[/pet]/[pet]Grinder[/pet]/[pet]Lumpy[/pet]
+[*][pet]Ammen Vale Lashling[/pet]/[pet]Crimson Lasher[/pet][/list]
+[*]Flying
+[list]
+[*][pet]Cenarion Hatchling[/pet]/[pet]Hippogryph Hatchling[/pet][/list]
+[*]Humanoid
+[list]
+[*][pet]Moonkin Hatchling Alliance[/pet]/[pet]Horde[/pet]
+[*][pet]Murki[/pet]/[pet]Terky[/pet]/[pet]Lurky[/pet]/[pet]Murky[/pet]/[pet]Gurky[/pet]
+[*][pet]Winter's Little Helper[/pet]/[pet]Father Winter's Helper[/pet][/list]
+[*]Magic
+[list]
+[*][pet]Lunar Lantern[/pet]/[pet]Enchanted Lantern[/pet]/[pet]Festival Lantern[/pet]
+[*][pet]Spectral Tiger Cub[/pet]/[pet]Spectral Cub[/pet][/list]
+[*]Mechanical
+[list]
+[*][pet]Lil' XT[/pet]/[pet]Landro's Lil' XT[/pet][/list]
+[*]Undead
+[list]
+[*][pet]Sen'jin Fetish[/pet]/[pet]Fetish Shaman[/pet]/[pet]Voodoo Figurine[/pet]
+[*][pet]Landro's Lichling[/pet]/[pet]Lil' K.T.[/pet][/list][/list][/list]

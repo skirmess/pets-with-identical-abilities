@@ -281,6 +281,56 @@
 [*][pet]Jungle Grub[/pet] H/S (9)
 [/list]
 [/list]
+[B]Beast [ability]Bite[/ability]|[ability]Water Jet[/ability]|[ability]Takedown[/ability]|[ability]Stoneskin[/ability]|[ability]Clobber[/ability]|[ability]Headbutt[/ability][/B]
+[list]
+[*]1725/260/260 
+[list]
+[*][pet]Mudback Calf[/pet] H/H (6)
+[*][pet]Flat-Tooth Calf[/pet] H/H (6)
+[/list]
+[*]1546/289/260 
+[list]
+[*][pet]Mudback Calf[/pet] H/P (7)
+[*][pet]Flat-Tooth Calf[/pet] H/P (7)
+[/list]
+[*]1546/260/289 
+[list]
+[*][pet]Mudback Calf[/pet] H/S (9)
+[*][pet]Flat-Tooth Calf[/pet] H/S (9)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Mudback Calf[/pet] B/B (3)
+[*][pet]Flat-Tooth Calf[/pet] B/B (3)
+[/list]
+[/list]
+[B]Beast [ability]Gnaw[/ability]|[ability]Bite[/ability]|[ability]Ravage[/ability]|[ability]Body Slam[/ability]|[ability]Puncture Wound[/ability]|[ability]Takedown[/ability][/B]
+[list]
+[*]1546/273/273 
+[list]
+[*][pet]Mossbite Skitterer[/pet] H/B (12)
+[*][pet]Icespine Hatchling[/pet] H/B (12)
+[*][pet]Thicket Skitterer[/pet] H/B (12)
+[/list]
+[*]1481/276/276 
+[list]
+[*][pet]Mossbite Skitterer[/pet] B/B (3)
+[*][pet]Icespine Hatchling[/pet] B/B (3)
+[*][pet]Thicket Skitterer[/pet] B/B (3)
+[/list]
+[*]1465/289/273 
+[list]
+[*][pet]Mossbite Skitterer[/pet] P/B (10)
+[*][pet]Icespine Hatchling[/pet] P/B (10)
+[*][pet]Thicket Skitterer[/pet] P/B (10)
+[/list]
+[*]1465/273/289 
+[list]
+[*][pet]Mossbite Skitterer[/pet] S/B (11)
+[*][pet]Icespine Hatchling[/pet] S/B (11)
+[*][pet]Thicket Skitterer[/pet] S/B (11)
+[/list]
+[/list]
 [B]Beast [ability]Trihorn Charge[/ability]|[ability]Trample[/ability]|[ability]Horn Attack[/ability]|[ability]Stampede[/ability]|[ability]Primal Cry[/ability]|[ability]Trihorn Shield[/ability][/B]
 [list]
 [*]1766/260/252 
@@ -311,6 +361,19 @@
 [*]1441/289/281 
 [list]
 [*][pet]Pygmy Direhorn[/pet] P/S (8)
+[/list]
+[/list]
+[B]Beast [ability]Smash[/ability]|[ability]Trample[/ability]|[ability]Survival[/ability]|[ability]Trumpet Strike[/ability]|[ability]Horn Attack[/ability]|[ability]Stampede[/ability][/B]
+[list]
+[*]1888/276/211 
+[list]
+[*][pet]Leatherhide Runt[/pet] H/H (6)
+[*][pet]Clefthoof Runt[/pet] H/H (6)
+[/list]
+[*]1644/293/228 
+[list]
+[*][pet]Leatherhide Runt[/pet] B/B (3)
+[*][pet]Clefthoof Runt[/pet] B/B (3)
 [/list]
 [/list]
 [B]Beast [ability]Bite[/ability]|[ability]Flurry[/ability]|[ability]Crouch[/ability]|[ability]Howl[/ability]|[ability]Leap[/ability]|[ability]Dazzling Dance[/ability][/B]
