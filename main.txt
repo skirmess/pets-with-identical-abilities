@@ -14,6 +14,18 @@ There are many pets with identical abilities. It would make sense to collect dif
 
 [b]Changes[/b]
 [list]
+[*]2014-12-01 - Added more WoD pets.
+[list]
+[*]Beast
+[list]
+[*][pet]Albino River Calf[/pet][/list]
+[*]Dragonkin
+[list]
+[*][pet]Albino Chimaeraling[/pet][/list]
+[*]Flying
+[list]
+[pet]Fruit Hunter[/pet][/list][/list]
+
 [*]2014-11-17 - Added WoD pets.
 [list]
 [*]Aquatic

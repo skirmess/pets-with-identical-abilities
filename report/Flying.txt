@@ -286,6 +286,10 @@
 [*][pet]Axebeak Hatchling[/pet] H/B (12)
 [*][pet]Junglebeak[/pet] H/B (12)
 [/list]
+[*]1465/289/273 
+[list]
+[*][pet]Fruit Hunter[/pet] P/B (10)
+[/list]
 [*]1420/284/280 
 [list]
 [*][pet]Axebeak Hatchling[/pet] B/B (3)

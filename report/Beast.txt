@@ -287,21 +287,25 @@
 [list]
 [*][pet]Mudback Calf[/pet] H/H (6)
 [*][pet]Flat-Tooth Calf[/pet] H/H (6)
+[*][pet]Albino River Calf[/pet] H/H (6)
 [/list]
 [*]1546/289/260 
 [list]
 [*][pet]Mudback Calf[/pet] H/P (7)
 [*][pet]Flat-Tooth Calf[/pet] H/P (7)
+[*][pet]Albino River Calf[/pet] H/P (7)
 [/list]
 [*]1546/260/289 
 [list]
 [*][pet]Mudback Calf[/pet] H/S (9)
 [*][pet]Flat-Tooth Calf[/pet] H/S (9)
+[*][pet]Albino River Calf[/pet] H/S (9)
 [/list]
 [*]1481/276/276 
 [list]
 [*][pet]Mudback Calf[/pet] B/B (3)
 [*][pet]Flat-Tooth Calf[/pet] B/B (3)
+[*][pet]Albino River Calf[/pet] B/B (3)
 [/list]
 [/list]
 [B]Beast [ability]Gnaw[/ability]|[ability]Bite[/ability]|[ability]Ravage[/ability]|[ability]Body Slam[/ability]|[ability]Puncture Wound[/ability]|[ability]Takedown[/ability][/B]
