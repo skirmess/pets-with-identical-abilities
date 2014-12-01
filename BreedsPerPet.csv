@@ -2282,14 +2282,29 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1363 ;8 ;Beast;Alterac Brew-Pup;inv_cask_01;8;8.9;8.9;1400 ;289 ;289 
 1364 ;4 ;Humanoid;Murkalot;inv_mace_1h_pandung_c_01;8.3;9.9;7.8;1449 ;322 ;254 
 1365 ;9 ;Humanoid;Treasure Goblin;ability_racial_packhobgoblin;8.9;8;8.9;1546 ;260 ;289 
+1385 ;13 ;Dragonkin;Albino Chimaeraling;ability_hunter_pet_chimera;8.5;8.5;8.5;1481 ;276 ;276 
+1385 ;14 ;Dragonkin;Albino Chimaeraling;ability_hunter_pet_chimera;8;10;8;1400 ;325 ;260 
+1385 ;18 ;Dragonkin;Albino Chimaeraling;ability_hunter_pet_chimera;8;8.9;8.9;1400 ;289 ;289 
 1386 ;14 ;Flying;Dread Hatchling;ability_mount_pandarenphoenix_green;8.12;10.38;7.5;1420 ;337 ;244 
 1387 ;14 ;Mechanical;Iron Starlette;ability_siege_engineer_detonate;8;10.5;7.5;1400 ;341 ;244 
 1387 ;16 ;Mechanical;Iron Starlette;ability_siege_engineer_detonate;10;8.5;7.5;1725 ;276 ;244 
 1387 ;17 ;Mechanical;Iron Starlette;ability_siege_engineer_detonate;8.9;9.4;7.5;1546 ;305 ;244 
 1387 ;18 ;Mechanical;Iron Starlette;ability_siege_engineer_detonate;8;9.4;8.4;1400 ;305 ;273 
 1387 ;20 ;Mechanical;Iron Starlette;ability_siege_engineer_detonate;8.4;9.4;7.9;1465 ;305 ;257 
+1394 ;16 ;Undead;Weebomination;spell_shadow_abominationexplosion;10.5;8;7.5;1806 ;260 ;244 
+1395 ;16 ;Magic;Lil' Leftovers;inv_misc_fork&knife;10;8;8;1725 ;260 ;260 
+1396 ;8 ;Elemental;Crazy Carrot;inv_misc_food_54;8.5;8.9;8.4;1481 ;289 ;273 
+1403 ;14 ;Flying;Mechanical Axebeak;inv_box_birdcage_01;8;10;8;1400 ;325 ;260 
+1403 ;15 ;Flying;Mechanical Axebeak;inv_box_birdcage_01;8;8;10;1400 ;260 ;325 
+1403 ;17 ;Flying;Mechanical Axebeak;inv_box_birdcage_01;8.9;8.9;8;1546 ;289 ;260 
+1403 ;20 ;Flying;Mechanical Axebeak;inv_box_birdcage_01;8.4;8.9;8.4;1465 ;289 ;273 
+1403 ;21 ;Flying;Mechanical Axebeak;inv_box_birdcage_01;8.4;8.4;8.9;1465 ;273 ;289 
 1411 ;20 ;Flying;Royal Peacock;inv_pet_peacock_gold;8.4;8.9;8.4;1465 ;289 ;273 
+1412 ;14 ;Mechanical;Lifelike Mechanical Frostboar;inv_misc_boarshead;8;10;8;1400 ;325 ;260 
+1412 ;15 ;Mechanical;Lifelike Mechanical Frostboar;inv_misc_boarshead;8;8;10;1400 ;260 ;325 
+1412 ;16 ;Mechanical;Lifelike Mechanical Frostboar;inv_misc_boarshead;10;8;8;1725 ;260 ;260 
 1416 ;17 ;Flying;Teroclaw Hatchling;inv_feather_08;8.9;8.9;8;1546 ;289 ;260 
+1426 ;6 ;Magic;Elekk Plushie;inv_tailoring_elekkplushie;15;8;5.5;2538 ;260 ;179 
 1427 ;13 ;Critter;Frostfur Rat;inv_misc_monstertail_03;8.12;8.38;9;1420 ;272 ;293 
 1427 ;14 ;Critter;Frostfur Rat;inv_misc_monstertail_03;7.62;9.88;8.5;1339 ;321 ;276 
 1427 ;15 ;Critter;Frostfur Rat;inv_misc_monstertail_03;7.62;7.88;10.5;1339 ;256 ;341 
@@ -2298,15 +2313,36 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1427 ;18 ;Critter;Frostfur Rat;inv_misc_monstertail_03;7.62;8.77;9.4;1339 ;285 ;305 
 1427 ;22 ;Critter;Frostfur Rat;inv_misc_monstertail_03;8.52;8.28;8.9;1485 ;269 ;289 
 1428 ;17 ;Undead;Zomstrok;inv_misc_food_92_lobster;8.9;8.9;8;1546 ;289 ;260 
+1430 ;13 ;Elemental;Forest Sproutling;inv_misc_herb_wldsteelbloom_petal;8.5;8.5;8.5;1481 ;276 ;276 
+1430 ;16 ;Elemental;Forest Sproutling;inv_misc_herb_wldsteelbloom_petal;10;8;8;1725 ;260 ;260 
+1430 ;18 ;Elemental;Forest Sproutling;inv_misc_herb_wldsteelbloom_petal;8;8.9;8.9;1400 ;289 ;289 
+1430 ;19 ;Elemental;Forest Sproutling;inv_misc_herb_wldsteelbloom_petal;8.9;8;8.9;1546 ;260 ;289 
+1430 ;20 ;Elemental;Forest Sproutling;inv_misc_herb_wldsteelbloom_petal;8.4;8.9;8.4;1465 ;289 ;273 
+1432 ;13 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8.5;8.5;8.5;1481 ;276 ;276 
+1432 ;14 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8;10;8;1400 ;325 ;260 
+1432 ;15 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8;8;10;1400 ;260 ;325 
+1432 ;16 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;10;8;8;1725 ;260 ;260 
+1432 ;17 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8.9;8.9;8;1546 ;289 ;260 
+1432 ;18 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8;8.9;8.9;1400 ;289 ;289 
+1432 ;19 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8.9;8;8.9;1546 ;260 ;289 
+1432 ;20 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8.4;8.9;8.4;1465 ;289 ;273 
+1432 ;21 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8.4;8.4;8.9;1465 ;273 ;289 
+1432 ;22 ;Elemental;Nightshade Sproutling;inv_misc_herb_wldsteelbloom_petal;8.9;8.4;8.4;1546 ;273 ;273 
+1434 ;14 ;Elemental;Sun Sproutling;inv_misc_herb_wldsteelbloom_petal;8;10;8;1400 ;325 ;260 
+1434 ;22 ;Elemental;Sun Sproutling;inv_misc_herb_wldsteelbloom_petal;8.9;8.4;8.4;1546 ;273 ;273 
 1435 ;13 ;Beast;Leatherhide Runt;inv_misc_foot_centaur;9.5;9;7;1644 ;293 ;228 
 1435 ;16 ;Beast;Leatherhide Runt;inv_misc_foot_centaur;11;8.5;6.5;1888 ;276 ;211 
 1441 ;13 ;Aquatic;Mud Jumper;inv_pet_toad_brown;9;8;8.5;1563 ;260 ;276 
 1441 ;22 ;Aquatic;Mud Jumper;inv_pet_toad_brown;9.4;7.9;8.4;1628 ;257 ;273 
+1442 ;16 ;Undead;Ghastly Kid;inv_pet_goat;10;8;8;1725 ;260 ;260 
 1446 ;20 ;Beast;Meadowstomper Calf;inv_pet_baby_elekk_green;8.4;8.9;8.4;1465 ;289 ;273 
 1447 ;14 ;Aquatic;Moonshell Crab;inv_jewelcrafting_truesilvercrab;8;10;8;1400 ;325 ;260 
 1447 ;16 ;Aquatic;Moonshell Crab;inv_jewelcrafting_truesilvercrab;10;8;8;1725 ;260 ;260 
 1447 ;17 ;Aquatic;Moonshell Crab;inv_jewelcrafting_truesilvercrab;8.9;8.9;8;1546 ;289 ;260 
 1447 ;18 ;Aquatic;Moonshell Crab;inv_jewelcrafting_truesilvercrab;8;8.9;8.9;1400 ;289 ;289 
+1449 ;14 ;Beast;Deathwatch Hatchling;inv_ravager2pet_black;8;10;8;1400 ;325 ;260 
+1450 ;18 ;Mechanical;Draenei Micro Defender;inv_eng_gizmo2;8;8.9;8.9;1400 ;289 ;289 
+1451 ;15 ;Elemental;Molten Corgi;inv_moltencorgi;8;8;10;1400 ;260 ;325 
 1455 ;13 ;Beast;Mossbite Skitterer;inv_ravager2pet_white;8.5;8.5;8.5;1481 ;276 ;276 
 1455 ;20 ;Beast;Mossbite Skitterer;inv_ravager2pet_white;8.4;8.9;8.4;1465 ;289 ;273 
 1455 ;21 ;Beast;Mossbite Skitterer;inv_ravager2pet_white;8.4;8.4;8.9;1465 ;273 ;289 
@@ -2319,6 +2355,7 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1457 ;20 ;Beast;Icespine Hatchling;inv_ravager2pet_blue;8.4;8.9;8.4;1465 ;289 ;273 
 1457 ;21 ;Beast;Icespine Hatchling;inv_ravager2pet_blue;8.4;8.4;8.9;1465 ;273 ;289 
 1457 ;22 ;Beast;Icespine Hatchling;inv_ravager2pet_blue;8.9;8.4;8.4;1546 ;273 ;273 
+1458 ;13 ;Flying;Bone Wasp;inv_dragonflypet_bone;8.5;8.5;8.5;1481 ;276 ;276 
 1462 ;13 ;Flying;Bloodsting Wasp;inv_dragonflypet_red;8.5;8.5;8.5;1481 ;276 ;276 
 1462 ;20 ;Flying;Bloodsting Wasp;inv_dragonflypet_red;8.4;8.9;8.4;1465 ;289 ;273 
 1462 ;21 ;Flying;Bloodsting Wasp;inv_dragonflypet_red;8.4;8.4;8.9;1465 ;273 ;289 
@@ -2347,8 +2384,15 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1470 ;17 ;Flying;Axebeak Hatchling;inv_toucan_color1;8.52;9.15;8.12;1485 ;297 ;264 
 1470 ;20 ;Flying;Axebeak Hatchling;inv_toucan_color1;8.03;9.15;8.52;1404 ;297 ;277 
 1470 ;22 ;Flying;Axebeak Hatchling;inv_toucan_color1;8.52;8.65;8.52;1485 ;281 ;277 
+1471 ;20 ;Flying;Fruit Hunter;inv_misc_food_41;8.4;8.9;8.4;1465 ;289 ;273 
 1478 ;17 ;Magic;Syd the Squid;inv_misc_fish_102;8.9;8.9;8;1546 ;289 ;260 
+1495 ;3 ;Humanoid;Ore Eater;inv_misc_leather_shellfragment;8.25;8.25;9;1441 ;268 ;293 
+1495 ;4 ;Humanoid;Ore Eater;inv_misc_leather_shellfragment;7.75;9.75;8.5;1359 ;317 ;276 
+1495 ;5 ;Humanoid;Ore Eater;inv_misc_leather_shellfragment;7.75;7.75;10.5;1359 ;252 ;341 
+1495 ;10 ;Humanoid;Ore Eater;inv_misc_leather_shellfragment;8.15;8.65;8.9;1424 ;281 ;289 
+1495 ;11 ;Humanoid;Ore Eater;inv_misc_leather_shellfragment;8.15;8.15;9.4;1424 ;265 ;305 
 1515 ;18 ;Mechanical;Stonegrinder;inv_eng_gizmo3;8;8.9;8.9;1400 ;289 ;289 
+1516 ;20 ;Critter;Bush Chicken;inv_feather_13;8.4;8.9;8.4;1465 ;289 ;273 
 1521 ;18 ;Undead;Cursed Birman;trade_archaeology_catstatueemeraldeyes;8;8.9;8.9;1400 ;289 ;289 
 1523 ;5 ;Undead;Widget the Departed;inv_pet_cats_bombaycat;8;8;10;1400 ;260 ;325 
 1524 ;17 ;Magic;Netherspawn, Spawn of Netherspawn;spell_nature_acid_01;8.9;8.9;8;1546 ;289 ;260 
@@ -2357,18 +2401,38 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1531 ;17 ;Mechanical;Ancient Nest Guardian;inv_eng_clockworkegg;9.4;7.9;8.5;1628 ;257 ;276 
 1532 ;8 ;Flying;Ikky;inv_feather_01;7.5;9.9;8.4;1319 ;322 ;273 
 1532 ;18 ;Flying;Ikky;inv_feather_01;7.5;9.9;8.4;1319 ;322 ;273 
+1533 ;8 ;Dragonkin;Lanticore Spawnling;achievement_dungeon_blackwingdescent_raid_chimaron;8.5;9.9;7.4;1481 ;322 ;241 
 1537 ;6 ;Flying;Crimson Spore;priest_icon_chakra_red;10;8;8;1725 ;260 ;260 
 1538 ;5 ;Flying;Umbrafen Spore;priest_icon_chakra_blue;8;8;10;1400 ;260 ;325 
 1540 ;8 ;Flying;Brilliant Spore;inv_elemental_primal_shadow;8;8.9;8.9;1400 ;289 ;289 
 1541 ;20 ;Aquatic;Hydraling;trade_archaeology_whitehydrafigurine;8.4;8.9;8.4;1465 ;289 ;273 
+1542 ;18 ;Beast;Frostwolf Pup;inv_frostwolfpup;8;8.9;8.9;1400 ;289 ;289 
+1543 ;17 ;Critter;Pygmy Cow;spell_nature_polymorph_cow;9.9;8.9;7;1709 ;289 ;228 
+1544 ;20 ;Elemental;Hatespark the Tiny;spell_fire_ragnaros_supernova;8.4;8.9;8.4;1465 ;289 ;273 
+1545 ;13 ;Flying;Firewing;ability_mount_fireravengodmount;8.5;8.5;8.5;1481 ;276 ;276 
+1545 ;21 ;Flying;Firewing;ability_mount_fireravengodmount;8.4;8.4;8.9;1465 ;273 ;289 
+1545 ;22 ;Flying;Firewing;ability_mount_fireravengodmount;8.9;8.4;8.4;1546 ;273 ;273 
 1546 ;20 ;Flying;Stormwing;ability_mount_stormcrowmount;8.4;8.9;8.4;1465 ;289 ;273 
 1563 ;14 ;Dragonkin;Bronze Whelpling;inv_misc_head_dragon_bronze;8;10;8;1400 ;325 ;260 
 1563 ;15 ;Dragonkin;Bronze Whelpling;inv_misc_head_dragon_bronze;8;8;10;1400 ;260 ;325 
 1563 ;17 ;Dragonkin;Bronze Whelpling;inv_misc_head_dragon_bronze;8.9;8.9;8;1546 ;289 ;260 
 1563 ;19 ;Dragonkin;Bronze Whelpling;inv_misc_head_dragon_bronze;8.9;8;8.9;1546 ;260 ;289 
 1564 ;17 ;Elemental;Doom Bloom;inv_misc_herb_dreamingglory;8.9;8.9;8;1546 ;289 ;260 
+1565 ;14 ;Mechanical;Mechanical Scorpid;inv_eng_metalblingronear;8;10;8;1400 ;325 ;260 
+1565 ;15 ;Mechanical;Mechanical Scorpid;inv_eng_metalblingronear;8;8;10;1400 ;260 ;325 
+1565 ;17 ;Mechanical;Mechanical Scorpid;inv_eng_metalblingronear;8.9;8.9;8;1546 ;289 ;260 
+1565 ;20 ;Mechanical;Mechanical Scorpid;inv_eng_metalblingronear;8.4;8.9;8.4;1465 ;289 ;273 
 1565 ;21 ;Mechanical;Mechanical Scorpid;inv_eng_metalblingronear;8.4;8.4;8.9;1465 ;273 ;289 
 1566 ;15 ;Flying;Everbloom Peachick;inv_pet_peacock_green;8;8;10;1400 ;260 ;325 
+1567 ;18 ;Flying;Sentinel's Companion;inv_jewelcrafting_jadeowl;7.5;9.4;8.9;1319 ;306 ;289 
+1568 ;8 ;Aquatic;Puddle Terror;ability_shawaterelemental_reform;8;8.9;8.9;1400 ;289 ;289 
+1569 ;17 ;Elemental;Soul of the Forge;6bf_explosive_shard;10.65;8.15;7;1831 ;265 ;228 
+1570 ;8 ;Flying;Sunfire Kaliri;inv_feather_06;7.5;9.9;8.4;1319 ;322 ;273 
+1570 ;18 ;Flying;Sunfire Kaliri;inv_feather_06;7.5;9.9;8.4;1319 ;322 ;273 
+1571 ;13 ;Beast;Albino River Calf;inv_babyhippo01_white;8.5;8.5;8.5;1481 ;276 ;276 
+1571 ;16 ;Beast;Albino River Calf;inv_babyhippo01_white;10;8;8;1725 ;260 ;260 
+1571 ;17 ;Beast;Albino River Calf;inv_babyhippo01_white;8.9;8.9;8;1546 ;289 ;260 
+1571 ;19 ;Beast;Albino River Calf;inv_babyhippo01_white;8.9;8;8.9;1546 ;260 ;289 
 1572 ;13 ;Flying;Brilliant Bloodfeather;inv_pet_peacock_blue;8.5;8.5;8.5;1481 ;276 ;276 
 1572 ;14 ;Flying;Brilliant Bloodfeather;inv_pet_peacock_blue;8;10;8;1400 ;325 ;260 
 1572 ;15 ;Flying;Brilliant Bloodfeather;inv_pet_peacock_blue;8;8;10;1400 ;260 ;325 
@@ -2379,6 +2443,8 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1573 ;15 ;Flying;Golden Dawnfeather;inv_pet_peacock_blue;8;8;10;1400 ;260 ;325 
 1573 ;19 ;Flying;Golden Dawnfeather;inv_pet_peacock_blue;8.9;8;8.9;1546 ;260 ;289 
 1573 ;20 ;Flying;Golden Dawnfeather;inv_pet_peacock_blue;8.4;8.9;8.4;1465 ;289 ;273 
+1574 ;18 ;Undead;Son of Sethe;inv_misc_boilingblood;7.5;10.4;7.9;1319 ;338 ;257 
+1576 ;14 ;Magic;Eye of Observation;achievement_boss_cthun;6.75;11.25;8;1197 ;366 ;260 
 1578 ;14 ;Aquatic;Frostshell Pincher;ability_hunter_pet_crab;7.5;11;7.5;1319 ;358 ;244 
 1578 ;16 ;Aquatic;Frostshell Pincher;ability_hunter_pet_crab;9.5;9;7.5;1644 ;293 ;244 
 1579 ;14 ;Aquatic;Ironclaw Scuttler;ability_hunter_pet_crab;7.5;11;7.5;1319 ;358 ;244 
@@ -2413,6 +2479,7 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1599 ;13 ;Flying;Shadow Sporebat;ability_hunter_pet_sporebat;9.5;8;8;1644 ;260 ;260 
 1599 ;16 ;Flying;Shadow Sporebat;ability_hunter_pet_sporebat;11;7.5;7.5;1888 ;244 ;244 
 1599 ;19 ;Flying;Shadow Sporebat;ability_hunter_pet_sporebat;9.9;7.5;8.4;1709 ;244 ;273 
+1601 ;14 ;Magic;Servant of Demidos;spell_shadow_summonvoidwalker;6.75;11.25;8;1197 ;366 ;260 
 1602 ;8 ;Humanoid;Grommloc;inv_grommloc;6.75;10.15;8.9;1197 ;330 ;289 
 1615 ;13 ;Beast;Parched Lizard;trade_archaeology_trolllizardfootcharm;8;8.5;9;1400 ;276 ;293 
 1615 ;15 ;Beast;Parched Lizard;trade_archaeology_trolllizardfootcharm;7.5;8;10.5;1319 ;260 ;341 
