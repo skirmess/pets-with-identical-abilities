@@ -35,6 +35,10 @@
 [list]
 [*][pet]Albino Chimaeraling[/pet] B/B (3)
 [/list]
+[*]1465/289/273 
+[list]
+[*][pet]Albino Chimaeraling[/pet] P/B (10)
+[/list]
 [*]1400/325/260 
 [list]
 [*][pet]Albino Chimaeraling[/pet] P/P (4)
@@ -42,6 +46,10 @@
 [*]1400/289/289 
 [list]
 [*][pet]Albino Chimaeraling[/pet] P/S (8)
+[/list]
+[*]1400/260/325 
+[list]
+[*][pet]Albino Chimaeraling[/pet] S/S (5)
 [/list]
 [/list]
 [B]Dragonkin [ability]Claw[/ability]|[ability]Quills[/ability]|[ability]Rake[/ability]|[ability]Conflagrate[/ability]|[ability]Flame Breath[/ability]|[ability]Flamethrower[/ability][/B]
