@@ -16,7 +16,7 @@ done
 
 rm -f log.txt
 
-diff -u <(sed -n -e '2,$p' BreedsPerPet.csv | awk -F';' '{print $1,$4}' | sed -e 's,  *, ,g' | sort -u) <(./step2_download_species_lib.pl | sort)
+diff -u <(sed -n -e '2,$p' BreedsPerPet.csv | awk -F';' '{print $1,$4}' | sed -e 's,  *, ,g' | sort -u) <(./step3_download_species_lib.pl | sort)
 
 echo "OK."
 exit 0
