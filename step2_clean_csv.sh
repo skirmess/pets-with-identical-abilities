@@ -12,6 +12,8 @@ cat -v BreedsPerPet.csv \
 	-e 's,Verfluchte Birmakatze,Cursed Birman,' \
 	-e 's,SchrM-vdingers Katze,Widget the Departed,' \
 	-e 's,Sonnenfeuerkaliri,Sunfire Kaliri,' \
+	-e 's,[ 	]*$,,' \
+	-e 's,"inv_misc_fork&amp;knife",inv_misc_fork\&knife,' \
 	> BreedsPerPet.csv.tmp
 
 mv BreedsPerPet.csv.tmp BreedsPerPet.csv

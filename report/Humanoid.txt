@@ -1,10 +1,10 @@
 [B]Humanoid [ability]Crush[/ability]|[ability]Tongue Lash[/ability]|[ability]Sticky Goo[/ability]|[ability]Poison Lash[/ability]|[ability]Backflip[/ability]|[ability]Dreadful Breath[/ability][/B]
 [list]
-[*]1465/273/289 
+[*]1465/273/289
 [list]
 [*][pet]Feral Vermling[/pet] S/B (11)
 [/list]
-[*]1400/260/325 
+[*]1400/260/325
 [list]
 [*][pet]Hopling[/pet] S/S (5)
 [/list]

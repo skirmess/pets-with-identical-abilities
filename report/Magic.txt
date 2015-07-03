@@ -1,62 +1,62 @@
 [B]Magic [ability]Ooze Touch[/ability]|[ability]Absorb[/ability]|[ability]Corrosion[/ability]|[ability]Creeping Ooze[/ability]|[ability]Expunge[/ability]|[ability]Acidic Goo[/ability][/B]
 [list]
-[*]1806/260/244 
+[*]1806/260/244
 [list]
 [*][pet]Jade Oozeling[/pet] H/H (6)
 [/list]
-[*]1725/260/260 
+[*]1725/260/260
 [list]
 [*][pet]Oily Slimeling[/pet] H/H (6)
 [/list]
-[*]1628/289/241 
+[*]1628/289/241
 [list]
 [*][pet]Disgusting Oozeling[/pet] H/B (12)
 [/list]
-[*]1628/260/273 
+[*]1628/260/273
 [list]
 [*][pet]Jade Oozeling[/pet] H/S (9)
 [/list]
-[*]1563/293/244 
+[*]1563/293/244
 [list]
 [*][pet]Toxic Wasteling[/pet] B/B (3)
 [/list]
-[*]1563/276/260 
+[*]1563/276/260
 [list]
 [*][pet]Jade Oozeling[/pet] B/B (3)
 [/list]
-[*]1546/289/260 
+[*]1546/289/260
 [list]
 [*][pet]Oily Slimeling[/pet] H/P (7)
 [/list]
-[*]1546/260/289 
+[*]1546/260/289
 [list]
 [*][pet]Oily Slimeling[/pet] H/S (9)
 [/list]
-[*]1481/325/244 
+[*]1481/325/244
 [list]
 [*][pet]Jade Oozeling[/pet] P/P (4)
 [/list]
-[*]1481/276/276 
+[*]1481/276/276
 [list]
 [*][pet]Oily Slimeling[/pet] B/B (3)
 [/list]
 [/list]
 [B]Magic [ability]Feedback[/ability]|[ability]Flurry[/ability]|[ability]Drain Power[/ability]|[ability]Amplify Magic[/ability]|[ability]Mana Surge[/ability]|[ability]Deflection[/ability][/B]
 [list]
-[*]1546/289/260 
+[*]1546/289/260
 [list]
 [*][pet]Mana Wyrmling[/pet] H/P (7)
 [/list]
-[*]1546/273/273 
+[*]1546/273/273
 [list]
 [*][pet]Mana Wyrmling[/pet] H/B (12)
 [/list]
-[*]1481/276/276 
+[*]1481/276/276
 [list]
 [*][pet]Shimmering Wyrmling[/pet] B/B (3)
 [*][pet]Mana Wyrmling[/pet] B/B (3)
 [/list]
-[*]1465/289/273 
+[*]1465/289/273
 [list]
 [*][pet]Mana Wyrmling[/pet] P/B (10)
 [/list]

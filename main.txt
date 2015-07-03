@@ -14,6 +14,28 @@ There are many pets with identical abilities. It would make sense to collect dif
 
 [b]Changes[/b]
 [list]
+[*]2015-07-03 - Added pets from 6.2.
+[list]
+[*]Aquatic
+[list]
+[*][pet]Fen Crab[/pet][/list]
+[*]Beast
+[list]
+[*][pet]Savage Cub[/pet]
+[*][pet]Bloodthorn Hatchling[/pet][/list]
+[*]Flying
+[list]
+[*][pet]Sapphire Firefly[/pet]
+[*][pet]Violet Firefly[/pet]
+[*][pet]Darkmoon Glowfly[/pet]
+[*][pet]Blazing Firehawk[/pet]
+[*][pet]Sunfire Kaliri[/pet]
+[*][pet]Bloodbeak[/pet]
+[*][pet]Cerulean Moth[/pet]
+[*][pet]Crimsonwing Moth[/pet]
+[*][pet]Dusty Sporewing[/pet]
+[*][pet]Skywisp Moth[/pet][/list][/list]
+
 [*]2014-12-01 - Added more WoD pets.
 [list]
 [*]Beast
