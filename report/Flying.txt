@@ -2,15 +2,15 @@
 [list]
 [*]1546/257/289
 [list]
+[*][pet]Darkmoon Glowfly[/pet] H/B (12)
 [*][pet]Sapphire Firefly[/pet] H/B (12)
 [*][pet]Violet Firefly[/pet] H/B (12)
-[*][pet]Darkmoon Glowfly[/pet] H/B (12)
 [/list]
 [*]1546/244/305
 [list]
+[*][pet]Darkmoon Glowfly[/pet] H/S (9)
 [*][pet]Sapphire Firefly[/pet] H/S (9)
 [*][pet]Violet Firefly[/pet] H/S (9)
-[*][pet]Darkmoon Glowfly[/pet] H/S (9)
 [/list]
 [*]1481/260/293
 [list]
@@ -23,43 +23,43 @@
 [/list]
 [*]1465/273/289
 [list]
+[*][pet]Darkmoon Glowfly[/pet] P/B (10)
 [*][pet]Sapphire Firefly[/pet] P/B (10)
 [*][pet]Violet Firefly[/pet] P/B (10)
-[*][pet]Darkmoon Glowfly[/pet] P/B (10)
 [/list]
 [/list]
 [B]Flying [ability]Peck[/ability]|[ability]Slicing Wind[/ability]|[ability]Squawk[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Egg Barrage[/ability]|[ability]Flock[/ability][/B]
 [list]
 [*]1546/273/273
 [list]
+[*][pet]Ancona Chicken[/pet] H/B (12)
+[*][pet]Chicken[/pet] H/B (12)
 [*][pet]Szechuan Chicken[/pet] H/B (12)
 [*][pet]Westfall Chicken[/pet] H/B (12)
-[*][pet]Chicken[/pet] H/B (12)
-[*][pet]Ancona Chicken[/pet] H/B (12)
 [/list]
 [*]1481/276/276
 [list]
+[*][pet]Ancona Chicken[/pet] B/B (3)
+[*][pet]Chicken[/pet] B/B (3)
 [*][pet]Szechuan Chicken[/pet] B/B (3)
 [*][pet]Westfall Chicken[/pet] B/B (3)
-[*][pet]Chicken[/pet] B/B (3)
-[*][pet]Ancona Chicken[/pet] B/B (3)
 [/list]
 [*]1465/289/273
 [list]
-[*][pet]Westfall Chicken[/pet] P/B (10)
 [*][pet]Ancona Chicken[/pet] P/B (10)
+[*][pet]Westfall Chicken[/pet] P/B (10)
 [/list]
 [*]1465/273/289
 [list]
+[*][pet]Ancona Chicken[/pet] S/B (11)
+[*][pet]Chicken[/pet] S/B (11)
 [*][pet]Szechuan Chicken[/pet] S/B (11)
 [*][pet]Westfall Chicken[/pet] S/B (11)
-[*][pet]Chicken[/pet] S/B (11)
-[*][pet]Ancona Chicken[/pet] S/B (11)
 [/list]
 [*]1400/260/325
 [list]
-[*][pet]Szechuan Chicken[/pet] S/S (5)
 [*][pet]Chicken[/pet] S/S (5)
+[*][pet]Szechuan Chicken[/pet] S/S (5)
 [/list]
 [/list]
 [B]Flying [ability]Slicing Wind[/ability]|[ability]Thrash[/ability]|[ability]Cyclone[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Hawk Eye[/ability]|[ability]Lift-Off[/ability][/B]
@@ -162,8 +162,8 @@
 [list]
 [*]1806/260/244
 [list]
-[*][pet]Fledgling Buzzard[/pet] H/H (6)
 [*][pet]Dragonbone Hatchling[/pet] H/H (6)
+[*][pet]Fledgling Buzzard[/pet] H/H (6)
 [/list]
 [*]1644/244/276
 [list]
@@ -171,8 +171,8 @@
 [/list]
 [*]1628/289/244
 [list]
-[*][pet]Fledgling Buzzard[/pet] H/P (7)
 [*][pet]Dragonbone Hatchling[/pet] H/P (7)
+[*][pet]Fledgling Buzzard[/pet] H/P (7)
 [/list]
 [*]1628/273/257
 [list]
@@ -184,8 +184,8 @@
 [/list]
 [*]1563/276/260
 [list]
-[*][pet]Fledgling Buzzard[/pet] B/B (3)
 [*][pet]Dragonbone Hatchling[/pet] B/B (3)
+[*][pet]Fledgling Buzzard[/pet] B/B (3)
 [*][pet]Senegal[/pet] B/B (3)
 [/list]
 [*]1481/325/244
@@ -303,8 +303,8 @@
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Turkey[/pet] B/B (3)
 [*][pet]Highlands Turkey[/pet] B/B (3)
+[*][pet]Turkey[/pet] B/B (3)
 [/list]
 [*]1400/289/289
 [list]
@@ -320,14 +320,14 @@
 [*]1485/297/264
 [list]
 [*][pet]Axebeak Hatchling[/pet] H/P (7)
-[*][pet]Junglebeak[/pet] H/P (7)
 [*][pet]Bloodbeak[/pet] H/P (7)
+[*][pet]Junglebeak[/pet] H/P (7)
 [/list]
 [*]1485/281/277
 [list]
 [*][pet]Axebeak Hatchling[/pet] H/B (12)
-[*][pet]Junglebeak[/pet] H/B (12)
 [*][pet]Bloodbeak[/pet] H/B (12)
+[*][pet]Junglebeak[/pet] H/B (12)
 [/list]
 [*]1465/289/273
 [list]
@@ -336,20 +336,20 @@
 [*]1420/284/280
 [list]
 [*][pet]Axebeak Hatchling[/pet] B/B (3)
-[*][pet]Junglebeak[/pet] B/B (3)
 [*][pet]Bloodbeak[/pet] B/B (3)
+[*][pet]Junglebeak[/pet] B/B (3)
 [/list]
 [*]1404/297/277
 [list]
 [*][pet]Axebeak Hatchling[/pet] P/B (10)
-[*][pet]Junglebeak[/pet] P/B (10)
 [*][pet]Bloodbeak[/pet] P/B (10)
+[*][pet]Junglebeak[/pet] P/B (10)
 [/list]
 [*]1339/333/264
 [list]
 [*][pet]Axebeak Hatchling[/pet] P/P (4)
-[*][pet]Junglebeak[/pet] P/P (4)
 [*][pet]Bloodbeak[/pet] P/P (4)
+[*][pet]Junglebeak[/pet] P/P (4)
 [/list]
 [/list]
 [B]Flying [ability]Peck[/ability]|[ability]Quills[/ability]|[ability]Shriek[/ability]|[ability]Cyclone[/ability]|[ability]Nocturnal Strike[/ability]|[ability]Predatory Strike[/ability][/B]
@@ -417,29 +417,29 @@
 [list]
 [*]1546/273/273
 [list]
-[*][pet]Bloodsting Wasp[/pet] H/B (12)
 [*][pet]Amberbarb Wasp[/pet] H/B (12)
+[*][pet]Bloodsting Wasp[/pet] H/B (12)
 [*][pet]Twilight Wasp[/pet] H/B (12)
 [*][pet]Wood Wasp[/pet] H/B (12)
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Bloodsting Wasp[/pet] B/B (3)
 [*][pet]Amberbarb Wasp[/pet] B/B (3)
+[*][pet]Bloodsting Wasp[/pet] B/B (3)
 [*][pet]Twilight Wasp[/pet] B/B (3)
 [*][pet]Wood Wasp[/pet] B/B (3)
 [/list]
 [*]1465/289/273
 [list]
-[*][pet]Bloodsting Wasp[/pet] P/B (10)
 [*][pet]Amberbarb Wasp[/pet] P/B (10)
+[*][pet]Bloodsting Wasp[/pet] P/B (10)
 [*][pet]Twilight Wasp[/pet] P/B (10)
 [*][pet]Wood Wasp[/pet] P/B (10)
 [/list]
 [*]1465/273/289
 [list]
-[*][pet]Bloodsting Wasp[/pet] S/B (11)
 [*][pet]Amberbarb Wasp[/pet] S/B (11)
+[*][pet]Bloodsting Wasp[/pet] S/B (11)
 [*][pet]Twilight Wasp[/pet] S/B (11)
 [*][pet]Wood Wasp[/pet] S/B (11)
 [/list]
@@ -486,8 +486,8 @@
 [*]1628/260/273
 [list]
 [*][pet]Forest Moth[/pet] H/S (9)
-[*][pet]Tainted Moth[/pet] H/S (9)
 [*][pet]Swamp Moth[/pet] H/S (9)
+[*][pet]Tainted Moth[/pet] H/S (9)
 [/list]
 [*]1628/257/273
 [list]
@@ -500,8 +500,8 @@
 [*]1563/276/260
 [list]
 [*][pet]Forest Moth[/pet] B/B (3)
-[*][pet]Tainted Moth[/pet] B/B (3)
 [*][pet]Swamp Moth[/pet] B/B (3)
+[*][pet]Tainted Moth[/pet] B/B (3)
 [/list]
 [*]1563/260/276
 [list]
@@ -517,10 +517,10 @@
 [/list]
 [*]1546/289/257
 [list]
-[*][pet]Yellow Moth[/pet] H/B (12)
 [*][pet]Crimson Moth[/pet] H/B (12)
 [*][pet]Gilded Moth[/pet] H/B (12)
 [*][pet]Oasis Moth[/pet] S/B (11)
+[*][pet]Yellow Moth[/pet] H/B (12)
 [/list]
 [*]1546/276/273
 [list]
@@ -534,14 +534,14 @@
 [/list]
 [*]1546/260/289
 [list]
-[*][pet]Luyu Moth[/pet] H/S (9)
 [*][pet]Grey Moth[/pet] H/S (9)
+[*][pet]Luyu Moth[/pet] H/S (9)
 [/list]
 [*]1481/293/260
 [list]
-[*][pet]Yellow Moth[/pet] B/B (3)
 [*][pet]Crimson Moth[/pet] B/B (3)
 [*][pet]Gilded Moth[/pet] B/B (3)
+[*][pet]Yellow Moth[/pet] B/B (3)
 [/list]
 [*]1481/289/273
 [list]
@@ -553,8 +553,8 @@
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Luyu Moth[/pet] B/B (3)
 [*][pet]Grey Moth[/pet] B/B (3)
+[*][pet]Luyu Moth[/pet] B/B (3)
 [/list]
 [*]1481/228/341
 [list]
@@ -605,8 +605,8 @@
 [/list]
 [*]1400/260/309
 [list]
-[*][pet]White Moth[/pet] B/B (3)
 [*][pet]Silky Moth[/pet] B/B (3)
+[*][pet]White Moth[/pet] B/B (3)
 [/list]
 [*]1384/257/322
 [list]

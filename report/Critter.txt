@@ -25,32 +25,32 @@
 [/list]
 [*]1546/257/293
 [list]
-[*][pet]Snowshoe Hare[/pet] H/P (7)
-[*][pet]Hare[/pet] H/P (7)
-[*][pet]Tolai Hare[/pet] H/P (7)
-[*][pet]Rabbit[/pet] H/P (7)
 [*][pet]Alpine Hare[/pet] H/P (7)
 [*][pet]Arctic Hare[/pet] H/P (7)
+[*][pet]Hare[/pet] H/P (7)
+[*][pet]Rabbit[/pet] H/P (7)
+[*][pet]Snowshoe Hare[/pet] H/P (7)
+[*][pet]Tolai Hare[/pet] H/P (7)
 [/list]
 [*]1546/241/306
 [list]
-[*][pet]Snowshoe Hare[/pet] H/B (12)
-[*][pet]Hare[/pet] H/B (12)
-[*][pet]Tolai Hare Pup[/pet] H/B (12)
-[*][pet]Tolai Hare[/pet] H/B (12)
-[*][pet]Rabbit[/pet] H/B (12)
 [*][pet]Arctic Hare[/pet] H/B (12)
+[*][pet]Hare[/pet] H/B (12)
+[*][pet]Rabbit[/pet] H/B (12)
+[*][pet]Snowshoe Hare[/pet] H/B (12)
+[*][pet]Tolai Hare[/pet] H/B (12)
+[*][pet]Tolai Hare Pup[/pet] H/B (12)
 [/list]
 [*]1546/228/322
 [list]
-[*][pet]Snowshoe Hare[/pet] H/S (9)
-[*][pet]Tolai Hare Pup[/pet] H/S (9)
-[*][pet]Tolai Hare[/pet] H/S (9)
-[*][pet]Rabbit[/pet] H/S (9)
-[*][pet]Mountain Cottontail[/pet] H/S (9)
-[*][pet]Hare[/pet] H/S (9)
 [*][pet]Alpine Hare[/pet] H/S (9)
 [*][pet]Arctic Hare[/pet] H/S (9)
+[*][pet]Hare[/pet] H/S (9)
+[*][pet]Mountain Cottontail[/pet] H/S (9)
+[*][pet]Rabbit[/pet] H/S (9)
+[*][pet]Snowshoe Hare[/pet] H/S (9)
+[*][pet]Tolai Hare[/pet] H/S (9)
+[*][pet]Tolai Hare Pup[/pet] H/S (9)
 [/list]
 [*]1481/276/276
 [list]
@@ -58,15 +58,15 @@
 [/list]
 [*]1481/244/309
 [list]
-[*][pet]Snowshoe Hare[/pet] B/B (3)
-[*][pet]Tolai Hare Pup[/pet] B/B (3)
-[*][pet]Tolai Hare[/pet] B/B (3)
-[*][pet]Rabbit[/pet] B/B (3)
-[*][pet]Brown Rabbit[/pet] B/B (3)
-[*][pet]Snowshoe Rabbit[/pet] B/B (3)
-[*][pet]Mountain Cottontail[/pet] B/B (3)
-[*][pet]Hare[/pet] B/B (3)
 [*][pet]Arctic Hare[/pet] B/B (3)
+[*][pet]Brown Rabbit[/pet] B/B (3)
+[*][pet]Hare[/pet] B/B (3)
+[*][pet]Mountain Cottontail[/pet] B/B (3)
+[*][pet]Rabbit[/pet] B/B (3)
+[*][pet]Snowshoe Hare[/pet] B/B (3)
+[*][pet]Snowshoe Rabbit[/pet] B/B (3)
+[*][pet]Tolai Hare[/pet] B/B (3)
+[*][pet]Tolai Hare Pup[/pet] B/B (3)
 [/list]
 [*]1481/228/325
 [list]
@@ -78,14 +78,14 @@
 [/list]
 [*]1465/241/322
 [list]
-[*][pet]Snowshoe Hare[/pet] S/B (11)
-[*][pet]Tolai Hare Pup[/pet] S/B (11)
-[*][pet]Tolai Hare[/pet] S/B (11)
-[*][pet]Rabbit[/pet] S/B (11)
-[*][pet]Brown Rabbit[/pet] S/B (11)
-[*][pet]Snowshoe Rabbit[/pet] S/B (11)
-[*][pet]Hare[/pet] S/B (11)
 [*][pet]Arctic Hare[/pet] S/B (11)
+[*][pet]Brown Rabbit[/pet] S/B (11)
+[*][pet]Hare[/pet] S/B (11)
+[*][pet]Rabbit[/pet] S/B (11)
+[*][pet]Snowshoe Hare[/pet] S/B (11)
+[*][pet]Snowshoe Rabbit[/pet] S/B (11)
+[*][pet]Tolai Hare[/pet] S/B (11)
+[*][pet]Tolai Hare Pup[/pet] S/B (11)
 [/list]
 [*]1465/224/338
 [list]
@@ -97,17 +97,17 @@
 [/list]
 [*]1400/228/358
 [list]
-[*][pet]Snowshoe Hare[/pet] S/S (5)
-[*][pet]Tolai Hare Pup[/pet] S/S (5)
-[*][pet]Tolai Hare[/pet] S/S (5)
-[*][pet]Rabbit[/pet] S/S (5)
-[*][pet]Brown Rabbit[/pet] S/S (5)
-[*][pet]Snowshoe Rabbit[/pet] S/S (5)
-[*][pet]Mountain Cottontail[/pet] S/S (5)
-[*][pet]Hare[/pet] S/S (5)
 [*][pet]Alpine Hare[/pet] S/S (5)
-[*][pet]Spring Rabbit[/pet] S/S (5)
 [*][pet]Arctic Hare[/pet] S/S (5)
+[*][pet]Brown Rabbit[/pet] S/S (5)
+[*][pet]Hare[/pet] S/S (5)
+[*][pet]Mountain Cottontail[/pet] S/S (5)
+[*][pet]Rabbit[/pet] S/S (5)
+[*][pet]Snowshoe Hare[/pet] S/S (5)
+[*][pet]Snowshoe Rabbit[/pet] S/S (5)
+[*][pet]Spring Rabbit[/pet] S/S (5)
+[*][pet]Tolai Hare[/pet] S/S (5)
+[*][pet]Tolai Hare Pup[/pet] S/S (5)
 [/list]
 [/list]
 [B]Critter [ability]Ooze Touch[/ability]|[ability]Absorb[/ability]|[ability]Acidic Goo[/ability]|[ability]Shell Shield[/ability]|[ability]Dive[/ability]|[ability]Headbutt[/ability][/B]
@@ -123,8 +123,8 @@
 [/list]
 [*]1790/289/208
 [list]
-[*][pet]Rusty Snail[/pet] H/B (12)
 [*][pet]Rapana Whelk[/pet] H/B (12)
+[*][pet]Rusty Snail[/pet] H/B (12)
 [/list]
 [*]1790/276/224
 [list]
@@ -133,9 +133,9 @@
 [/list]
 [*]1725/293/211
 [list]
+[*][pet]Rapana Whelk[/pet] B/B (3)
 [*][pet]Rusty Snail[/pet] B/B (3)
 [*][pet]Shimmershell Snail[/pet] B/B (3)
-[*][pet]Rapana Whelk[/pet] B/B (3)
 [*][pet]Silkbead Snail[/pet] B/B (3)
 [/list]
 [*]1644/276/260
@@ -155,13 +155,13 @@
 [/list]
 [*]1806/228/276
 [list]
-[*][pet]Deepholm Cockroach[/pet] H/H (6)
-[*][pet]Tainted Cockroach[/pet] H/H (6)
-[*][pet]Undercity Cockroach[/pet] H/H (6)
 [*][pet]Cockroach[/pet] H/H (6)
+[*][pet]Deepholm Cockroach[/pet] H/H (6)
+[*][pet]Fire-Proof Roach[/pet] H/H (6)
 [*][pet]Resilient Roach[/pet] H/H (6)
 [*][pet]Roach[/pet] H/H (6)
-[*][pet]Fire-Proof Roach[/pet] H/H (6)
+[*][pet]Tainted Cockroach[/pet] H/H (6)
+[*][pet]Undercity Cockroach[/pet] H/H (6)
 [/list]
 [*]1725/276/244
 [list]
@@ -182,11 +182,11 @@
 [*]1644/276/260
 [list]
 [*][pet]Creepy Crawly[/pet] H/H (6)
-[*][pet]Savory Beetle[/pet] H/H (6)
 [*][pet]Crystal Beetle[/pet] H/H (6)
+[*][pet]Dung Beetle[/pet] H/H (6)
+[*][pet]Savory Beetle[/pet] H/H (6)
 [*][pet]Scarab Hatchling[/pet] H/H (6)
 [*][pet]Tol'vir Scarab[/pet] H/H (6)
-[*][pet]Dung Beetle[/pet] H/H (6)
 [/list]
 [*]1628/273/260
 [list]
@@ -194,12 +194,12 @@
 [/list]
 [*]1628/257/276
 [list]
-[*][pet]Deepholm Cockroach[/pet] H/P (7)
-[*][pet]Tainted Cockroach[/pet] H/P (7)
 [*][pet]Cockroach[/pet] H/P (7)
+[*][pet]Deepholm Cockroach[/pet] H/P (7)
+[*][pet]Fire-Proof Roach[/pet] H/P (7)
 [*][pet]Resilient Roach[/pet] H/P (7)
 [*][pet]Roach[/pet] H/P (7)
-[*][pet]Fire-Proof Roach[/pet] H/P (7)
+[*][pet]Tainted Cockroach[/pet] H/P (7)
 [/list]
 [*]1628/244/289
 [list]
@@ -207,10 +207,10 @@
 [/list]
 [*]1628/241/289
 [list]
-[*][pet]Tainted Cockroach[/pet] H/B (12)
 [*][pet]Cockroach[/pet] H/B (12)
 [*][pet]Resilient Roach[/pet] H/B (12)
 [*][pet]Roach[/pet] H/B (12)
+[*][pet]Tainted Cockroach[/pet] H/B (12)
 [/list]
 [*]1628/240/289
 [list]
@@ -218,13 +218,13 @@
 [/list]
 [*]1628/228/305
 [list]
-[*][pet]Deepholm Cockroach[/pet] H/S (9)
-[*][pet]Tainted Cockroach[/pet] H/S (9)
-[*][pet]Undercity Cockroach[/pet] H/S (9)
 [*][pet]Cockroach[/pet] H/S (9)
+[*][pet]Deepholm Cockroach[/pet] H/S (9)
+[*][pet]Fire-Proof Roach[/pet] H/S (9)
 [*][pet]Resilient Roach[/pet] H/S (9)
 [*][pet]Roach[/pet] H/S (9)
-[*][pet]Fire-Proof Roach[/pet] H/S (9)
+[*][pet]Tainted Cockroach[/pet] H/S (9)
+[*][pet]Undercity Cockroach[/pet] H/S (9)
 [/list]
 [*]1563/276/276
 [list]
@@ -258,12 +258,12 @@
 [/list]
 [*]1481/228/341
 [list]
-[*][pet]Deepholm Cockroach[/pet] S/S (5)
-[*][pet]Undercity Cockroach[/pet] S/S (5)
 [*][pet]Cockroach[/pet] S/S (5)
+[*][pet]Deepholm Cockroach[/pet] S/S (5)
+[*][pet]Fire-Proof Roach[/pet] S/S (5)
 [*][pet]Resilient Roach[/pet] S/S (5)
 [*][pet]Roach[/pet] S/S (5)
-[*][pet]Fire-Proof Roach[/pet] S/S (5)
+[*][pet]Undercity Cockroach[/pet] S/S (5)
 [/list]
 [*]1465/305/260
 [list]
@@ -272,26 +272,26 @@
 [/list]
 [*]1465/289/273
 [list]
-[*][pet]Savory Beetle[/pet] H/B (12)
 [*][pet]Crystal Beetle[/pet] H/B (12)
+[*][pet]Savory Beetle[/pet] H/B (12)
 [*][pet]Scarab Hatchling[/pet] H/B (12)
 [*][pet]Tol'vir Scarab[/pet] H/B (12)
 [/list]
 [*]1465/276/289
 [list]
 [*][pet]Creepy Crawly[/pet] H/S (9)
-[*][pet]Savory Beetle[/pet] H/S (9)
 [*][pet]Crystal Beetle[/pet] H/S (9)
+[*][pet]Dung Beetle[/pet] H/S (9)
+[*][pet]Locust[/pet] H/S (9)
+[*][pet]Savory Beetle[/pet] H/S (9)
 [*][pet]Scarab Hatchling[/pet] H/S (9)
 [*][pet]Tol'vir Scarab[/pet] H/S (9)
-[*][pet]Locust[/pet] H/S (9)
-[*][pet]Dung Beetle[/pet] H/S (9)
 [/list]
 [*]1400/293/276
 [list]
 [*][pet]Creepy Crawly[/pet] B/B (3)
-[*][pet]Locust[/pet] B/B (3)
 [*][pet]Dung Beetle[/pet] B/B (3)
+[*][pet]Locust[/pet] B/B (3)
 [/list]
 [*]1400/276/309
 [list]
@@ -319,8 +319,8 @@
 [/list]
 [*]1319/276/325
 [list]
-[*][pet]Savory Beetle[/pet] S/S (5)
 [*][pet]Locust[/pet] S/S (5)
+[*][pet]Savory Beetle[/pet] S/S (5)
 [/list]
 [*]1238/341/276
 [list]
@@ -383,8 +383,8 @@
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Grizzly Squirrel[/pet] B/B (3)
 [*][pet]Alpine Chipmunk[/pet] B/B (3)
+[*][pet]Grizzly Squirrel[/pet] B/B (3)
 [*][pet]Red-Tailed Chipmunk[/pet] B/B (3)
 [/list]
 [*]1481/260/293
@@ -393,16 +393,16 @@
 [/list]
 [*]1465/289/273
 [list]
-[*][pet]Grizzly Squirrel[/pet] P/B (10)
 [*][pet]Alpine Chipmunk[/pet] P/B (10)
+[*][pet]Grizzly Squirrel[/pet] P/B (10)
 [*][pet]Red-Tailed Chipmunk[/pet] P/B (10)
 [/list]
 [*]1465/273/289
 [list]
-[*][pet]Grizzly Squirrel[/pet] S/B (11)
 [*][pet]Alpine Chipmunk[/pet] S/B (11)
-[*][pet]Squirrel[/pet] P/B (10)
+[*][pet]Grizzly Squirrel[/pet] S/B (11)
 [*][pet]Red-Tailed Chipmunk[/pet] S/B (11)
+[*][pet]Squirrel[/pet] P/B (10)
 [/list]
 [*]1465/257/305
 [list]
@@ -410,13 +410,13 @@
 [/list]
 [*]1400/289/289
 [list]
-[*][pet]Nuts[/pet] P/S (8)
 [*][pet]Grizzly Squirrel[/pet] P/S (8)
+[*][pet]Nuts[/pet] P/S (8)
 [/list]
 [*]1400/260/325
 [list]
-[*][pet]Grizzly Squirrel[/pet] S/S (5)
 [*][pet]Alpine Chipmunk[/pet] S/S (5)
+[*][pet]Grizzly Squirrel[/pet] S/S (5)
 [*][pet]Red-Tailed Chipmunk[/pet] S/S (5)
 [/list]
 [*]1400/244/341
@@ -432,63 +432,63 @@
 [/list]
 [*]1546/257/289
 [list]
-[*][pet]Stormwind Rat[/pet] H/B (12)
-[*][pet]Long-tailed Mole[/pet] H/B (12)
+[*][pet]Carrion Rat[/pet] H/B (12)
 [*][pet]Fjord Rat[/pet] H/B (12)
+[*][pet]Highlands Mouse[/pet] H/B (12)
+[*][pet]Long-tailed Mole[/pet] H/B (12)
+[*][pet]Mouse[/pet] H/B (12)
+[*][pet]Stormwind Rat[/pet] H/B (12)
 [*][pet]Stowaway Rat[/pet] H/B (12)
 [*][pet]Yakrat[/pet] H/B (12)
-[*][pet]Mouse[/pet] H/B (12)
-[*][pet]Highlands Mouse[/pet] H/B (12)
-[*][pet]Carrion Rat[/pet] H/B (12)
 [/list]
 [*]1546/244/305
 [list]
-[*][pet]Yakrat[/pet] H/S (9)
-[*][pet]Wharf Rat[/pet] H/S (9)
-[*][pet]Redridge Rat[/pet] H/S (9)
-[*][pet]Rat[/pet] H/S (9)
 [*][pet]Black Rat[/pet] H/S (9)
+[*][pet]Rat[/pet] H/S (9)
+[*][pet]Redridge Rat[/pet] H/S (9)
 [*][pet]Undercity Rat[/pet] H/S (9)
+[*][pet]Wharf Rat[/pet] H/S (9)
+[*][pet]Yakrat[/pet] H/S (9)
 [/list]
 [*]1481/260/293
 [list]
-[*][pet]Stormwind Rat[/pet] B/B (3)
-[*][pet]Wharf Rat[/pet] B/B (3)
-[*][pet]Rat[/pet] B/B (3)
-[*][pet]Long-tailed Mole[/pet] B/B (3)
 [*][pet]Black Rat[/pet] B/B (3)
+[*][pet]Carrion Rat[/pet] B/B (3)
 [*][pet]Fjord Rat[/pet] B/B (3)
+[*][pet]Highlands Mouse[/pet] B/B (3)
+[*][pet]Long-tailed Mole[/pet] B/B (3)
+[*][pet]Mouse[/pet] B/B (3)
+[*][pet]Rat[/pet] B/B (3)
+[*][pet]Redridge Rat[/pet] B/B (3)
+[*][pet]Stormwind Rat[/pet] B/B (3)
 [*][pet]Stowaway Rat[/pet] B/B (3)
 [*][pet]Undercity Rat[/pet] B/B (3)
+[*][pet]Wharf Rat[/pet] B/B (3)
 [*][pet]Yakrat[/pet] B/B (3)
-[*][pet]Redridge Rat[/pet] B/B (3)
-[*][pet]Mouse[/pet] B/B (3)
-[*][pet]Highlands Mouse[/pet] B/B (3)
-[*][pet]Carrion Rat[/pet] B/B (3)
 [/list]
 [*]1465/273/289
 [list]
-[*][pet]Yakrat[/pet] P/B (10)
-[*][pet]Stormwind Rat[/pet] P/B (10)
-[*][pet]Highlands Mouse[/pet] P/B (10)
 [*][pet]Carrion Rat[/pet] P/B (10)
 [*][pet]Fjord Rat[/pet] P/B (10)
+[*][pet]Highlands Mouse[/pet] P/B (10)
+[*][pet]Stormwind Rat[/pet] P/B (10)
 [*][pet]Stowaway Rat[/pet] P/B (10)
+[*][pet]Yakrat[/pet] P/B (10)
 [/list]
 [*]1465/257/305
 [list]
-[*][pet]Stormwind Rat[/pet] S/B (11)
-[*][pet]Wharf Rat[/pet] S/B (11)
-[*][pet]Rat[/pet] S/B (11)
 [*][pet]Black Rat[/pet] S/B (11)
+[*][pet]Carrion Rat[/pet] S/B (11)
 [*][pet]Fjord Rat[/pet] S/B (11)
+[*][pet]Highlands Mouse[/pet] S/B (11)
+[*][pet]Mouse[/pet] S/B (11)
+[*][pet]Rat[/pet] S/B (11)
+[*][pet]Redridge Rat[/pet] S/B (11)
+[*][pet]Stormwind Rat[/pet] S/B (11)
 [*][pet]Stowaway Rat[/pet] S/B (11)
 [*][pet]Undercity Rat[/pet] S/B (11)
+[*][pet]Wharf Rat[/pet] S/B (11)
 [*][pet]Yakrat[/pet] S/B (11)
-[*][pet]Redridge Rat[/pet] S/B (11)
-[*][pet]Mouse[/pet] S/B (11)
-[*][pet]Highlands Mouse[/pet] S/B (11)
-[*][pet]Carrion Rat[/pet] S/B (11)
 [/list]
 [*]1400/341/244
 [list]
@@ -500,17 +500,17 @@
 [/list]
 [*]1400/244/341
 [list]
-[*][pet]Stormwind Rat[/pet] S/S (5)
-[*][pet]Wharf Rat[/pet] S/S (5)
-[*][pet]Rat[/pet] S/S (5)
 [*][pet]Black Rat[/pet] S/S (5)
+[*][pet]Carrion Rat[/pet] S/S (5)
 [*][pet]Fjord Rat[/pet] S/S (5)
+[*][pet]Highlands Mouse[/pet] S/S (5)
+[*][pet]Mouse[/pet] S/S (5)
+[*][pet]Rat[/pet] S/S (5)
+[*][pet]Redridge Rat[/pet] S/S (5)
+[*][pet]Stormwind Rat[/pet] S/S (5)
 [*][pet]Stowaway Rat[/pet] S/S (5)
 [*][pet]Undercity Rat[/pet] S/S (5)
-[*][pet]Redridge Rat[/pet] S/S (5)
-[*][pet]Mouse[/pet] S/S (5)
-[*][pet]Highlands Mouse[/pet] S/S (5)
-[*][pet]Carrion Rat[/pet] S/S (5)
+[*][pet]Wharf Rat[/pet] S/S (5)
 [/list]
 [/list]
 [B]Critter [ability]Scratch[/ability]|[ability]Flurry[/ability]|[ability]Sting[/ability]|[ability]Survival[/ability]|[ability]Stampede[/ability]|[ability]Comeback[/ability][/B]
@@ -566,8 +566,8 @@
 [list]
 [*]1888/244/244
 [list]
-[*][pet]Stone Armadillo[/pet] H/H (6)
 [*][pet]Armadillo Pup[/pet] H/H (6)
+[*][pet]Stone Armadillo[/pet] H/H (6)
 [/list]
 [*]1709/273/244
 [list]
@@ -575,8 +575,8 @@
 [/list]
 [*]1709/244/273
 [list]
-[*][pet]Stone Armadillo[/pet] H/S (9)
 [*][pet]Armadillo Pup[/pet] H/S (9)
+[*][pet]Stone Armadillo[/pet] H/S (9)
 [/list]
 [/list]
 [B]Critter [ability]Chomp[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Leap[/ability]|[ability]Crouch[/ability]|[ability]Burrow[/ability]|[ability]Comeback[/ability][/B]
@@ -630,8 +630,8 @@
 [/list]
 [*]1465/273/289
 [list]
-[*][pet]Brown Marmot[/pet] S/B (11)
 [*][pet]Borean Marmot[/pet] P/B (10)
+[*][pet]Brown Marmot[/pet] S/B (11)
 [/list]
 [*]1465/257/305
 [list]
@@ -686,20 +686,20 @@
 [*]1546/273/273
 [list]
 [*][pet]Highlands Skunk[/pet] H/B (12)
-[*][pet]Skunk[/pet] H/B (12)
 [*][pet]Mountain Skunk[/pet] H/B (12)
+[*][pet]Skunk[/pet] H/B (12)
 [/list]
 [*]1546/260/289
 [list]
 [*][pet]Highlands Skunk[/pet] H/S (9)
-[*][pet]Skunk[/pet] H/S (9)
 [*][pet]Mountain Skunk[/pet] H/S (9)
+[*][pet]Skunk[/pet] H/S (9)
 [/list]
 [*]1481/276/276
 [list]
 [*][pet]Highlands Skunk[/pet] B/B (3)
-[*][pet]Skunk[/pet] B/B (3)
 [*][pet]Mountain Skunk[/pet] B/B (3)
+[*][pet]Skunk[/pet] B/B (3)
 [/list]
 [*]1465/273/289
 [list]
@@ -718,11 +718,11 @@
 [list]
 [*]1481/276/276
 [list]
-[*][pet]Shy Bandicoon[/pet] B/B (3)
-[*][pet]Masked Tanuki[/pet] B/B (3)
 [*][pet]Bandicoon[/pet] B/B (3)
-[*][pet]Masked Tanuki Pup[/pet] B/B (3)
 [*][pet]Bandicoon Kit[/pet] B/B (3)
+[*][pet]Masked Tanuki[/pet] B/B (3)
+[*][pet]Masked Tanuki Pup[/pet] B/B (3)
+[*][pet]Shy Bandicoon[/pet] B/B (3)
 [/list]
 [*]1465/289/273
 [list]
@@ -734,14 +734,14 @@
 [/list]
 [*]1400/289/289
 [list]
-[*][pet]Shy Bandicoon[/pet] P/S (8)
 [*][pet]Bandicoon[/pet] P/S (8)
+[*][pet]Shy Bandicoon[/pet] P/S (8)
 [/list]
 [*]1400/260/325
 [list]
-[*][pet]Shy Bandicoon[/pet] S/S (5)
 [*][pet]Bandicoon[/pet] S/S (5)
 [*][pet]Bandicoon Kit[/pet] S/S (5)
+[*][pet]Shy Bandicoon[/pet] S/S (5)
 [/list]
 [/list]
 [B]Critter [ability]Hoof[/ability]|[ability]Chew[/ability]|[ability]Comeback[/ability]|[ability]Soothe[/ability]|[ability]Bleat[/ability]|[ability]Stampede[/ability][/B]
@@ -787,13 +787,13 @@
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Marsh Fiddler[/pet] B/B (3)
 [*][pet]Grassland Hopper[/pet] B/B (3)
+[*][pet]Marsh Fiddler[/pet] B/B (3)
 [/list]
 [*]1465/273/289
 [list]
-[*][pet]Marsh Fiddler[/pet] S/B (11)
 [*][pet]Grassland Hopper[/pet] S/B (11)
+[*][pet]Marsh Fiddler[/pet] S/B (11)
 [/list]
 [*]1400/260/325
 [list]

@@ -53,8 +53,8 @@
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Shimmering Wyrmling[/pet] B/B (3)
 [*][pet]Mana Wyrmling[/pet] B/B (3)
+[*][pet]Shimmering Wyrmling[/pet] B/B (3)
 [/list]
 [*]1465/289/273
 [list]

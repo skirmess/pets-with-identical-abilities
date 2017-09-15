@@ -18,8 +18,8 @@
 [/list]
 [*]1481/273/289
 [list]
-[*][pet]Robo-Chick[/pet] P/S (8)
 [*][pet]Mechanical Chicken[/pet] P/S (8)
+[*][pet]Robo-Chick[/pet] P/S (8)
 [/list]
 [*]1481/244/325
 [list]

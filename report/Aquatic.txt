@@ -6,8 +6,8 @@
 [/list]
 [*]1709/273/244
 [list]
-[*][pet]Huge Toad[/pet] H/P (7)
 [*][pet]Biletoad[/pet] H/P (7)
+[*][pet]Huge Toad[/pet] H/P (7)
 [/list]
 [*]1709/257/257
 [list]
@@ -16,9 +16,9 @@
 [/list]
 [*]1644/260/260
 [list]
+[*][pet]Biletoad[/pet] B/B (3)
 [*][pet]Huge Toad[/pet] B/B (3)
 [*][pet]Yellow-Bellied Bullfrog[/pet] B/B (3)
-[*][pet]Biletoad[/pet] B/B (3)
 [/list]
 [*]1628/273/260
 [list]
@@ -26,15 +26,15 @@
 [/list]
 [*]1628/257/273
 [list]
+[*][pet]Frog[/pet] H/B (12)
+[*][pet]Garden Frog[/pet] H/B (12)
+[*][pet]Horny Toad[/pet] H/B (12)
 [*][pet]Jungle Darter[/pet] H/B (12)
 [*][pet]Leopard Tree Frog[/pet] H/B (12)
-[*][pet]Frog[/pet] H/B (12)
-[*][pet]Tree Frog[/pet] H/B (12)
-[*][pet]Toad[/pet] H/B (12)
-[*][pet]Horny Toad[/pet] H/B (12)
 [*][pet]Mac Frog[/pet] H/B (12)
-[*][pet]Garden Frog[/pet] H/B (12)
 [*][pet]Spotted Bell Frog[/pet] H/B (12)
+[*][pet]Toad[/pet] H/B (12)
+[*][pet]Tree Frog[/pet] H/B (12)
 [/list]
 [*]1628/244/289
 [list]
@@ -51,15 +51,15 @@
 [/list]
 [*]1563/260/276
 [list]
+[*][pet]Frog[/pet] B/B (3)
+[*][pet]Garden Frog[/pet] B/B (3)
+[*][pet]Horny Toad[/pet] B/B (3)
 [*][pet]Jungle Darter[/pet] B/B (3)
 [*][pet]Leopard Tree Frog[/pet] B/B (3)
-[*][pet]Frog[/pet] B/B (3)
-[*][pet]Small Frog[/pet] B/B (3)
-[*][pet]Toad[/pet] B/B (3)
-[*][pet]Horny Toad[/pet] B/B (3)
 [*][pet]Mac Frog[/pet] B/B (3)
-[*][pet]Garden Frog[/pet] B/B (3)
+[*][pet]Small Frog[/pet] B/B (3)
 [*][pet]Spotted Bell Frog[/pet] B/B (3)
+[*][pet]Toad[/pet] B/B (3)
 [/list]
 [*]1546/273/273
 [list]
@@ -78,19 +78,19 @@
 [list]
 [*]1644/293/244
 [list]
-[*][pet]Zangar Crawler[/pet] H/H (6)
+[*][pet]Fen Crab[/pet] H/H (6)
 [*][pet]Frostshell Pincher[/pet] H/H (6)
 [*][pet]Ironclaw Scuttler[/pet] H/H (6)
 [*][pet]Kelp Scuttler[/pet] H/H (6)
-[*][pet]Fen Crab[/pet] H/H (6)
+[*][pet]Zangar Crawler[/pet] H/H (6)
 [/list]
 [*]1319/358/244
 [list]
-[*][pet]Zangar Crawler[/pet] P/P (4)
+[*][pet]Fen Crab[/pet] P/P (4)
 [*][pet]Frostshell Pincher[/pet] P/P (4)
 [*][pet]Ironclaw Scuttler[/pet] P/P (4)
 [*][pet]Kelp Scuttler[/pet] P/P (4)
-[*][pet]Fen Crab[/pet] P/P (4)
+[*][pet]Zangar Crawler[/pet] P/P (4)
 [/list]
 [/list]
 [B]Aquatic [ability]Bite[/ability]|[ability]Grasp[/ability]|[ability]Shell Shield[/ability]|[ability]Healing Wave[/ability]|[ability]Headbutt[/ability]|[ability]Powerball[/ability][/B]
@@ -105,14 +105,14 @@
 [/list]
 [*]1709/244/273
 [list]
-[*][pet]Spiny Terrapin[/pet] H/S (9)
 [*][pet]Softshell Snapling[/pet] H/S (9)
+[*][pet]Spiny Terrapin[/pet] H/S (9)
 [*][pet]Turquoise Turtle[/pet] H/S (9)
 [/list]
 [*]1644/260/260
 [list]
-[*][pet]Spiny Terrapin[/pet] B/B (3)
 [*][pet]Softshell Snapling[/pet] B/B (3)
+[*][pet]Spiny Terrapin[/pet] B/B (3)
 [*][pet]Turquoise Turtle[/pet] B/B (3)
 [/list]
 [*]1400/260/325
@@ -124,25 +124,25 @@
 [list]
 [*]1481/276/276
 [list]
-[*][pet]Sifang Otter[/pet] B/B (3)
 [*][pet]Golden Civet Kitten[/pet] B/B (3)
+[*][pet]Sifang Otter[/pet] B/B (3)
 [*][pet]Sifang Otter Pup[/pet] B/B (3)
 [/list]
 [*]1465/273/289
 [list]
-[*][pet]Sifang Otter[/pet] S/B (11)
 [*][pet]Golden Civet[/pet] S/B (11)
 [*][pet]Golden Civet Kitten[/pet] S/B (11)
-[*][pet]Sifang Otter Pup[/pet] S/B (11)
 [*][pet]Kuitan Mongoose[/pet] S/B (11)
+[*][pet]Sifang Otter[/pet] S/B (11)
+[*][pet]Sifang Otter Pup[/pet] S/B (11)
 [/list]
 [*]1400/260/325
 [list]
-[*][pet]Sifang Otter[/pet] S/S (5)
 [*][pet]Golden Civet[/pet] S/S (5)
 [*][pet]Golden Civet Kitten[/pet] S/S (5)
-[*][pet]Sifang Otter Pup[/pet] S/S (5)
 [*][pet]Kuitan Mongoose[/pet] S/S (5)
+[*][pet]Sifang Otter[/pet] S/S (5)
+[*][pet]Sifang Otter Pup[/pet] S/S (5)
 [/list]
 [*]1238/289/322
 [list]
@@ -189,8 +189,8 @@
 [*]1806/260/244
 [list]
 [*][pet]Shore Crab[/pet] H/H (6)
-[*][pet]Strand Crab[/pet] H/H (6)
 [*][pet]Spirebound Crab[/pet] H/H (6)
+[*][pet]Strand Crab[/pet] H/H (6)
 [*][pet]Strand Crawler[/pet] H/H (6)
 [/list]
 [*]1628/289/244
@@ -235,8 +235,8 @@
 [/list]
 [*]1465/257/305
 [list]
-[*][pet]Eternal Strider[/pet] S/B (11)
 [*][pet]Dancing Water Skimmer[/pet] S/B (11)
+[*][pet]Eternal Strider[/pet] S/B (11)
 [/list]
 [*]1465/244/322
 [list]

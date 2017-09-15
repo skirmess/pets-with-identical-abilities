@@ -26,9 +26,9 @@
 [/list]
 [*]1319/293/293
 [list]
+[*][pet]Cat[/pet] B/B (3)
 [*][pet]Darkmoon Cub[/pet] B/B (3)
 [*][pet]Silver Tabby Cat[/pet] B/B (3)
-[*][pet]Cat[/pet] B/B (3)
 [/list]
 [*]1303/322/276
 [list]
@@ -40,9 +40,9 @@
 [/list]
 [*]1303/289/305
 [list]
-[*][pet]Winterspring Cub[/pet] S/B (11)
 [*][pet]Cat[/pet] S/B (11)
 [*][pet]Panther Cub[/pet] S/B (11)
+[*][pet]Winterspring Cub[/pet] S/B (11)
 [/list]
 [*]1238/341/276
 [list]
@@ -54,9 +54,9 @@
 [/list]
 [*]1238/305/305
 [list]
-[*][pet]Darkmoon Cub[/pet] P/S (8)
 [*][pet]Bombay Cat[/pet] P/S (8)
 [*][pet]Cat[/pet] P/S (8)
+[*][pet]Darkmoon Cub[/pet] P/S (8)
 [/list]
 [*]1238/293/325
 [list]
@@ -64,9 +64,9 @@
 [/list]
 [*]1238/276/341
 [list]
-[*][pet]Siamese Cat[/pet] S/S (5)
-[*][pet]Nightsaber Cub[/pet] S/S (5)
 [*][pet]Cat[/pet] S/S (5)
+[*][pet]Nightsaber Cub[/pet] S/S (5)
+[*][pet]Siamese Cat[/pet] S/S (5)
 [/list]
 [*]1075/260/390
 [list]
@@ -81,13 +81,13 @@
 [/list]
 [*]1546/289/260
 [list]
-[*][pet]Dun Morogh Cub[/pet] H/P (7)
 [*][pet]Darkshore Cub[/pet] H/P (7)
+[*][pet]Dun Morogh Cub[/pet] H/P (7)
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Panda Cub[/pet] B/B (3)
 [*][pet]Darkshore Cub[/pet] B/B (3)
+[*][pet]Panda Cub[/pet] B/B (3)
 [/list]
 [*]1400/325/260
 [list]
@@ -103,23 +103,23 @@
 [*]1481/276/276
 [list]
 [*][pet]Crunchy Scorpion[/pet] B/B (3)
+[*][pet]Leopard Scorpid[/pet] B/B (3)
+[*][pet]Scorpid[/pet] B/B (3)
 [*][pet]Scorpling[/pet] B/B (3)
 [*][pet]Stripe-Tailed Scorpid[/pet] B/B (3)
-[*][pet]Scorpid[/pet] B/B (3)
-[*][pet]Leopard Scorpid[/pet] B/B (3)
 [/list]
 [*]1400/289/289
 [list]
 [*][pet]Durotar Scorpion[/pet] P/S (8)
+[*][pet]Leopard Scorpid[/pet] P/S (8)
+[*][pet]Scorpid[/pet] P/S (8)
 [*][pet]Scorpling[/pet] P/S (8)
 [*][pet]Stripe-Tailed Scorpid[/pet] P/S (8)
-[*][pet]Scorpid[/pet] P/S (8)
-[*][pet]Leopard Scorpid[/pet] P/S (8)
 [/list]
 [*]1400/260/325
 [list]
-[*][pet]Scorpling[/pet] S/S (5)
 [*][pet]Leopard Scorpid[/pet] S/S (5)
+[*][pet]Scorpling[/pet] S/S (5)
 [/list]
 [/list]
 [B]Beast [ability]Bite[/ability]|[ability]Flank[/ability]|[ability]Leap[/ability]|[ability]Screech[/ability]|[ability]Devour[/ability]|[ability]Exposed Wounds[/ability][/B]
@@ -142,8 +142,8 @@
 [/list]
 [*]1303/305/289
 [list]
-[*][pet]Leaping Hatchling[/pet] P/B (10)
 [*][pet]Gundrak Hatchling[/pet] P/B (10)
+[*][pet]Leaping Hatchling[/pet] P/B (10)
 [/list]
 [*]1303/289/305
 [list]
@@ -159,8 +159,8 @@
 [list]
 [*]1481/276/276
 [list]
-[*][pet]Bananas[/pet] B/B (3)
 [*][pet]Baby Ape[/pet] B/B (3)
+[*][pet]Bananas[/pet] B/B (3)
 [/list]
 [*]1465/289/273
 [list]
@@ -191,9 +191,9 @@
 [/list]
 [*]1384/305/276
 [list]
+[*][pet]Amethyst Spiderling[/pet] H/P (7)
 [*][pet]Smolderweb Hatchling[/pet] H/P (7)
 [*][pet]Twilight Spider[/pet] H/P (7)
-[*][pet]Amethyst Spiderling[/pet] H/P (7)
 [/list]
 [*]1384/289/289
 [list]
@@ -201,23 +201,23 @@
 [/list]
 [*]1384/276/305
 [list]
-[*][pet]Venomspitter Hatchling[/pet] H/S (9)
-[*][pet]Ash Spiderling[/pet] H/S (9)
-[*][pet]Widow Spiderling[/pet] H/S (9)
 [*][pet]Amethyst Spiderling[/pet] H/S (9)
+[*][pet]Ash Spiderling[/pet] H/S (9)
 [*][pet]Jumping Spider[/pet] H/S (9)
+[*][pet]Venomspitter Hatchling[/pet] H/S (9)
+[*][pet]Widow Spiderling[/pet] H/S (9)
 [/list]
 [*]1319/293/293
 [list]
-[*][pet]Venomspitter Hatchling[/pet] B/B (3)
 [*][pet]Ash Spiderling[/pet] B/B (3)
 [*][pet]Desert Spider[/pet] B/B (3)
-[*][pet]Spider[/pet] B/B (3)
-[*][pet]Widow Spiderling[/pet] B/B (3)
-[*][pet]Twilight Spider[/pet] B/B (3)
-[*][pet]Forest Spiderling[/pet] B/B (3)
 [*][pet]Feverbite Hatchling[/pet] B/B (3)
+[*][pet]Forest Spiderling[/pet] B/B (3)
 [*][pet]Jumping Spider[/pet] B/B (3)
+[*][pet]Spider[/pet] B/B (3)
+[*][pet]Twilight Spider[/pet] B/B (3)
+[*][pet]Venomspitter Hatchling[/pet] B/B (3)
+[*][pet]Widow Spiderling[/pet] B/B (3)
 [/list]
 [*]1303/305/289
 [list]
@@ -225,33 +225,33 @@
 [/list]
 [*]1303/289/305
 [list]
-[*][pet]Venomspitter Hatchling[/pet] S/B (11)
 [*][pet]Desert Spider[/pet] S/B (11)
-[*][pet]Spider[/pet] S/B (11)
-[*][pet]Widow Spiderling[/pet] S/B (11)
-[*][pet]Twilight Spider[/pet] S/B (11)
-[*][pet]Forest Spiderling[/pet] S/B (11)
 [*][pet]Dusk Spiderling[/pet] S/B (11)
 [*][pet]Feverbite Hatchling[/pet] S/B (11)
+[*][pet]Forest Spiderling[/pet] S/B (11)
 [*][pet]Jumping Spider[/pet] S/B (11)
+[*][pet]Spider[/pet] S/B (11)
+[*][pet]Twilight Spider[/pet] S/B (11)
+[*][pet]Venomspitter Hatchling[/pet] S/B (11)
+[*][pet]Widow Spiderling[/pet] S/B (11)
 [/list]
 [*]1238/341/276
 [list]
-[*][pet]Widow Spiderling[/pet] P/P (4)
-[*][pet]Twilight Spider[/pet] P/P (4)
 [*][pet]Feverbite Hatchling[/pet] P/P (4)
+[*][pet]Twilight Spider[/pet] P/P (4)
+[*][pet]Widow Spiderling[/pet] P/P (4)
 [/list]
 [*]1238/305/305
 [list]
 [*][pet]Desert Spider[/pet] P/S (8)
-[*][pet]Forest Spiderling[/pet] P/S (8)
 [*][pet]Dusk Spiderling[/pet] P/S (8)
+[*][pet]Forest Spiderling[/pet] P/S (8)
 [/list]
 [*]1238/276/341
 [list]
 [*][pet]Desert Spider[/pet] S/S (5)
-[*][pet]Spider[/pet] S/S (5)
 [*][pet]Forest Spiderling[/pet] S/S (5)
+[*][pet]Spider[/pet] S/S (5)
 [/list]
 [/list]
 [B]Beast [ability]Chomp[/ability]|[ability]Consume[/ability]|[ability]Acidic Goo[/ability]|[ability]Sticky Goo[/ability]|[ability]Leap[/ability]|[ability]Burrow[/ability][/B]
@@ -289,57 +289,57 @@
 [list]
 [*]1725/260/260
 [list]
-[*][pet]Mudback Calf[/pet] H/H (6)
-[*][pet]Flat-Tooth Calf[/pet] H/H (6)
 [*][pet]Albino River Calf[/pet] H/H (6)
+[*][pet]Flat-Tooth Calf[/pet] H/H (6)
+[*][pet]Mudback Calf[/pet] H/H (6)
 [/list]
 [*]1546/289/260
 [list]
-[*][pet]Mudback Calf[/pet] H/P (7)
-[*][pet]Flat-Tooth Calf[/pet] H/P (7)
 [*][pet]Albino River Calf[/pet] H/P (7)
+[*][pet]Flat-Tooth Calf[/pet] H/P (7)
+[*][pet]Mudback Calf[/pet] H/P (7)
 [/list]
 [*]1546/260/289
 [list]
-[*][pet]Mudback Calf[/pet] H/S (9)
-[*][pet]Flat-Tooth Calf[/pet] H/S (9)
 [*][pet]Albino River Calf[/pet] H/S (9)
+[*][pet]Flat-Tooth Calf[/pet] H/S (9)
+[*][pet]Mudback Calf[/pet] H/S (9)
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Mudback Calf[/pet] B/B (3)
-[*][pet]Flat-Tooth Calf[/pet] B/B (3)
 [*][pet]Albino River Calf[/pet] B/B (3)
+[*][pet]Flat-Tooth Calf[/pet] B/B (3)
+[*][pet]Mudback Calf[/pet] B/B (3)
 [/list]
 [/list]
 [B]Beast [ability]Gnaw[/ability]|[ability]Bite[/ability]|[ability]Ravage[/ability]|[ability]Body Slam[/ability]|[ability]Puncture Wound[/ability]|[ability]Takedown[/ability][/B]
 [list]
 [*]1546/273/273
 [list]
-[*][pet]Mossbite Skitterer[/pet] H/B (12)
 [*][pet]Bloodthorn Hatchling[/pet] H/B (12)
 [*][pet]Icespine Hatchling[/pet] H/B (12)
+[*][pet]Mossbite Skitterer[/pet] H/B (12)
 [*][pet]Thicket Skitterer[/pet] H/B (12)
 [/list]
 [*]1481/276/276
 [list]
-[*][pet]Mossbite Skitterer[/pet] B/B (3)
 [*][pet]Bloodthorn Hatchling[/pet] B/B (3)
 [*][pet]Icespine Hatchling[/pet] B/B (3)
+[*][pet]Mossbite Skitterer[/pet] B/B (3)
 [*][pet]Thicket Skitterer[/pet] B/B (3)
 [/list]
 [*]1465/289/273
 [list]
-[*][pet]Mossbite Skitterer[/pet] P/B (10)
 [*][pet]Bloodthorn Hatchling[/pet] P/B (10)
 [*][pet]Icespine Hatchling[/pet] P/B (10)
+[*][pet]Mossbite Skitterer[/pet] P/B (10)
 [*][pet]Thicket Skitterer[/pet] P/B (10)
 [/list]
 [*]1465/273/289
 [list]
-[*][pet]Mossbite Skitterer[/pet] S/B (11)
 [*][pet]Bloodthorn Hatchling[/pet] S/B (11)
 [*][pet]Icespine Hatchling[/pet] S/B (11)
+[*][pet]Mossbite Skitterer[/pet] S/B (11)
 [*][pet]Thicket Skitterer[/pet] S/B (11)
 [/list]
 [/list]
@@ -363,8 +363,8 @@
 [/list]
 [*]1506/289/265
 [list]
-[*][pet]Pygmy Direhorn[/pet] P/B (10)
 [*][pet]Direhorn Runt[/pet] P/B (10)
+[*][pet]Pygmy Direhorn[/pet] P/B (10)
 [/list]
 [*]1441/325/252
 [list]
@@ -379,13 +379,13 @@
 [list]
 [*]1888/276/211
 [list]
-[*][pet]Leatherhide Runt[/pet] H/H (6)
 [*][pet]Clefthoof Runt[/pet] H/H (6)
+[*][pet]Leatherhide Runt[/pet] H/H (6)
 [/list]
 [*]1644/293/228
 [list]
-[*][pet]Leatherhide Runt[/pet] B/B (3)
 [*][pet]Clefthoof Runt[/pet] B/B (3)
+[*][pet]Leatherhide Runt[/pet] B/B (3)
 [/list]
 [/list]
 [B]Beast [ability]Bite[/ability]|[ability]Flurry[/ability]|[ability]Crouch[/ability]|[ability]Howl[/ability]|[ability]Leap[/ability]|[ability]Dazzling Dance[/ability][/B]
@@ -439,8 +439,8 @@
 [/list]
 [*]1465/289/276
 [list]
-[*][pet]Tree Python[/pet] H/P (7)
 [*][pet]Emerald Boa[/pet] H/P (7)
+[*][pet]Tree Python[/pet] H/P (7)
 [/list]
 [*]1465/289/273
 [list]
@@ -452,9 +452,9 @@
 [/list]
 [*]1465/260/305
 [list]
-[*][pet]Rattlesnake[/pet] H/S (9)
 [*][pet]Emerald Boa[/pet] H/S (9)
 [*][pet]King Snake[/pet] H/S (9)
+[*][pet]Rattlesnake[/pet] H/S (9)
 [/list]
 [*]1400/293/276
 [list]
@@ -462,16 +462,16 @@
 [/list]
 [*]1400/276/293
 [list]
-[*][pet]Water Snake[/pet] B/B (3)
-[*][pet]Rat Snake[/pet] B/B (3)
-[*][pet]Snake[/pet] B/B (3)
-[*][pet]Sidewinder[/pet] B/B (3)
-[*][pet]Rock Viper[/pet] B/B (3)
-[*][pet]Tree Python[/pet] B/B (3)
-[*][pet]Coral Adder[/pet] B/B (3)
 [*][pet]Adder[/pet] B/B (3)
 [*][pet]Ash Viper[/pet] B/B (3)
+[*][pet]Coral Adder[/pet] B/B (3)
 [*][pet]Grove Viper[/pet] B/B (3)
+[*][pet]Rat Snake[/pet] B/B (3)
+[*][pet]Rock Viper[/pet] B/B (3)
+[*][pet]Sidewinder[/pet] B/B (3)
+[*][pet]Snake[/pet] B/B (3)
+[*][pet]Tree Python[/pet] B/B (3)
+[*][pet]Water Snake[/pet] B/B (3)
 [/list]
 [*]1384/305/276
 [list]
@@ -480,8 +480,8 @@
 [*]1384/289/289
 [list]
 [*][pet]Adder[/pet] P/B (10)
-[*][pet]Temple Snake[/pet] P/B (10)
 [*][pet]Ash Viper[/pet] P/B (10)
+[*][pet]Temple Snake[/pet] P/B (10)
 [/list]
 [*]1384/276/305
 [list]
@@ -489,8 +489,8 @@
 [/list]
 [*]1384/273/305
 [list]
-[*][pet]Water Snake[/pet] S/B (11)
 [*][pet]Sidewinder[/pet] S/B (11)
+[*][pet]Water Snake[/pet] S/B (11)
 [/list]
 [*]1384/257/322
 [list]
@@ -506,12 +506,12 @@
 [/list]
 [*]1319/289/305
 [list]
-[*][pet]Rat Snake[/pet] P/S (8)
-[*][pet]Rattlesnake[/pet] P/S (8)
-[*][pet]Coral Adder[/pet] P/S (8)
-[*][pet]Cobra Hatchling[/pet] P/S (8)
 [*][pet]Adder[/pet] P/S (8)
 [*][pet]Ash Viper[/pet] P/S (8)
+[*][pet]Cobra Hatchling[/pet] P/S (8)
+[*][pet]Coral Adder[/pet] P/S (8)
+[*][pet]Rat Snake[/pet] P/S (8)
+[*][pet]Rattlesnake[/pet] P/S (8)
 [/list]
 [*]1319/276/325
 [list]
@@ -520,13 +520,13 @@
 [/list]
 [*]1319/260/341
 [list]
-[*][pet]Rat Snake[/pet] S/S (5)
-[*][pet]Snake[/pet] S/S (5)
 [*][pet]Coral Adder[/pet] S/S (5)
-[*][pet]Sidewinder[/pet] S/S (5)
-[*][pet]Temple Snake[/pet] S/S (5)
-[*][pet]Rock Viper[/pet] S/S (5)
 [*][pet]Grove Viper[/pet] S/S (5)
+[*][pet]Rat Snake[/pet] S/S (5)
+[*][pet]Rock Viper[/pet] S/S (5)
+[*][pet]Sidewinder[/pet] S/S (5)
+[*][pet]Snake[/pet] S/S (5)
+[*][pet]Temple Snake[/pet] S/S (5)
 [/list]
 [/list]
 [B]Beast [ability]Hoof[/ability]|[ability]Chew[/ability]|[ability]Comeback[/ability]|[ability]Soothe[/ability]|[ability]Headbutt[/ability]|[ability]Stampede[/ability][/B]
@@ -560,8 +560,8 @@
 [/list]
 [*]1465/289/276
 [list]
-[*][pet]Spiky Lizard[/pet] H/P (7)
 [*][pet]Horned Lizard[/pet] H/P (7)
+[*][pet]Spiky Lizard[/pet] H/P (7)
 [*][pet]Spiny Lizard[/pet] H/P (7)
 [*][pet]Twilight Iguana[/pet] H/P (7)
 [/list]
@@ -571,12 +571,12 @@
 [/list]
 [*]1400/276/293
 [list]
-[*][pet]Spiky Lizard[/pet] B/B (3)
+[*][pet]Ash Lizard[/pet] B/B (3)
 [*][pet]Horned Lizard[/pet] B/B (3)
+[*][pet]Lizard Hatchling[/pet] B/B (3)
+[*][pet]Spiky Lizard[/pet] B/B (3)
 [*][pet]Spiny Lizard[/pet] B/B (3)
 [*][pet]Twilight Iguana[/pet] B/B (3)
-[*][pet]Ash Lizard[/pet] B/B (3)
-[*][pet]Lizard Hatchling[/pet] B/B (3)
 [/list]
 [*]1384/305/276
 [list]
@@ -588,8 +588,8 @@
 [/list]
 [*]1384/273/305
 [list]
-[*][pet]Twilight Iguana[/pet] S/B (11)
 [*][pet]Lizard Hatchling[/pet] S/B (11)
+[*][pet]Twilight Iguana[/pet] S/B (11)
 [/list]
 [*]1319/293/293
 [list]
@@ -597,11 +597,11 @@
 [/list]
 [*]1319/260/341
 [list]
-[*][pet]Spiky Lizard[/pet] S/S (5)
 [*][pet]Horned Lizard[/pet] S/S (5)
+[*][pet]Lizard Hatchling[/pet] S/S (5)
+[*][pet]Spiky Lizard[/pet] S/S (5)
 [*][pet]Spiny Lizard[/pet] S/S (5)
 [*][pet]Twilight Iguana[/pet] S/S (5)
-[*][pet]Lizard Hatchling[/pet] S/S (5)
 [/list]
 [*]1238/276/341
 [list]
