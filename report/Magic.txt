@@ -43,6 +43,22 @@
 [/list]
 [B]Magic [ability]Feedback[/ability]|[ability]Flurry[/ability]|[ability]Drain Power[/ability]|[ability]Amplify Magic[/ability]|[ability]Mana Surge[/ability]|[ability]Deflection[/ability][/B]
 [list]
+[*]425/0/0
+[list]
+[*][pet]Arcane Gorger[/pet] H/H (6)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Arcane Gorger[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Arcane Gorger[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Arcane Gorger[/pet] S/B (11)
+[/list]
 [*]1546/289/260
 [list]
 [*][pet]Mana Wyrmling[/pet] H/P (7)
@@ -59,5 +75,13 @@
 [*]1465/289/273
 [list]
 [*][pet]Mana Wyrmling[/pet] P/B (10)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Untethered Wyrmling[/pet] P/P (4)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Arcane Gorger[/pet] S/S (5)
 [/list]
 [/list]

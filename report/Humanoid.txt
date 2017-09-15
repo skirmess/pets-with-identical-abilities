@@ -9,3 +9,26 @@
 [*][pet]Hopling[/pet] S/S (5)
 [/list]
 [/list]
+[B]Humanoid [ability]Scratch[/ability]|[ability]Bite[/ability]|[ability]Frolick[/ability]|[ability]Barkskin[/ability]|[ability]Kick[/ability]|[ability]Dazzling Dance[/ability][/B]
+[list]
+[*]246/0/29
+[list]
+[*][pet]Thistleleaf Adventurer[/pet] H/S (9)
+[/list]
+[*]1546/260/289
+[list]
+[*][pet]Dandelion Frolicker[/pet] H/S (9)
+[/list]
+[*]1465/273/289
+[list]
+[*][pet]Dandelion Frolicker[/pet] S/B (11)
+[/list]
+[*]1400/289/289
+[list]
+[*][pet]Dandelion Frolicker[/pet] P/S (8)
+[/list]
+[*]1400/260/325
+[list]
+[*][pet]Dandelion Frolicker[/pet] S/S (5)
+[/list]
+[/list]

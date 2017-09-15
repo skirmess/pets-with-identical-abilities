@@ -287,6 +287,10 @@
 [/list]
 [B]Beast [ability]Bite[/ability]|[ability]Water Jet[/ability]|[ability]Takedown[/ability]|[ability]Stoneskin[/ability]|[ability]Clobber[/ability]|[ability]Headbutt[/ability][/B]
 [list]
+[*]246/0/29
+[list]
+[*][pet]River Calf[/pet] H/S (9)
+[/list]
 [*]1725/260/260
 [list]
 [*][pet]Albino River Calf[/pet] H/H (6)
@@ -390,9 +394,19 @@
 [/list]
 [B]Beast [ability]Bite[/ability]|[ability]Flurry[/ability]|[ability]Crouch[/ability]|[ability]Howl[/ability]|[ability]Leap[/ability]|[ability]Dazzling Dance[/ability][/B]
 [list]
+[*]181/16/16
+[list]
+[*][pet]Black-Footed Fox Kit[/pet] B/B (3)
+[*][pet]Mist Fox Kit[/pet] B/B (3)
+[/list]
 [*]1725/260/260
 [list]
 [*][pet]Worg Pup[/pet] H/H (6)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Black-Footed Fox Kit[/pet] S/B (11)
+[*][pet]Mist Fox Kit[/pet] S/B (11)
 [/list]
 [*]1546/289/260
 [list]
@@ -429,6 +443,14 @@
 [/list]
 [B]Beast [ability]Bite[/ability]|[ability]Poison Fang[/ability]|[ability]Hiss[/ability]|[ability]Counterstrike[/ability]|[ability]Burrow[/ability]|[ability]Vicious Fang[/ability][/B]
 [list]
+[*]181/16/16
+[list]
+[*][pet]Slithering Brownscale[/pet] B/B (3)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Slithering Brownscale[/pet] S/B (11)
+[/list]
 [*]1644/260/276
 [list]
 [*][pet]King Snake[/pet] H/H (6)
@@ -528,6 +550,14 @@
 [*][pet]Snake[/pet] S/S (5)
 [*][pet]Temple Snake[/pet] S/S (5)
 [/list]
+[*]100/29/29
+[list]
+[*][pet]Slithering Brownscale[/pet] P/S (8)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Slithering Brownscale[/pet] S/S (5)
+[/list]
 [/list]
 [B]Beast [ability]Hoof[/ability]|[ability]Chew[/ability]|[ability]Comeback[/ability]|[ability]Soothe[/ability]|[ability]Headbutt[/ability]|[ability]Stampede[/ability][/B]
 [list]
@@ -606,5 +636,91 @@
 [*]1238/276/341
 [list]
 [*][pet]Plains Monitor[/pet] S/S (5)
+[/list]
+[/list]
+[B]Beast [ability]Chomp[/ability]|[ability]Diseased Bite[/ability]|[ability]Acidic Goo[/ability]|[ability]Spiked Skin[/ability]|[ability]Plagued Blood[/ability]|[ability]Burrow[/ability][/B]
+[list]
+[*]425/0/0
+[list]
+[*][pet]Bile Larva[/pet] H/H (6)
+[/list]
+[*]246/29/0
+[list]
+[*][pet]Antoran Bile Larva[/pet] H/P (7)
+[*][pet]Bile Larva[/pet] H/P (7)
+[/list]
+[*]246/13/13
+[list]
+[*][pet]Bile Larva[/pet] H/B (12)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Bile Larva[/pet] H/S (9)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Antoran Bile Larva[/pet] P/B (10)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Fossorial Bile Larva[/pet] P/P (4)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Antoran Bile Larva[/pet] P/S (8)
+[/list]
+[/list]
+[B]Beast [ability]Claw[/ability]|[ability]Blinkstrike[/ability]|[ability]Screech[/ability]|[ability]Triple Snap[/ability]|[ability]Ravage[/ability]|[ability]Comeback[/ability][/B]
+[list]
+[*]181/16/16
+[list]
+[*][pet]Voidstalker Runt[/pet] B/B (3)
+[*][pet]Warpstalker Runt[/pet] B/B (3)
+[/list]
+[*]1481/276/276
+[list]
+[*][pet]Warpstalker Hatchling[/pet] B/B (3)
+[/list]
+[*]1400/289/289
+[list]
+[*][pet]Warpstalker Hatchling[/pet] P/S (8)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Voidstalker Runt[/pet] P/S (8)
+[*][pet]Warpstalker Runt[/pet] P/S (8)
+[/list]
+[/list]
+[B]Beast [ability]Rend[/ability]|[ability]Skitter[/ability]|[ability]Drain Blood[/ability]|[ability]Brittle Webbing[/ability]|[ability]Burrow[/ability]|[ability]Spiderling Swarm[/ability][/B]
+[list]
+[*]425/0/0
+[list]
+[*][pet]Crystalline Broodling[/pet] H/H (6)
+[/list]
+[*]246/29/0
+[list]
+[*][pet]Thornclaw Broodling[/pet] H/P (7)
+[/list]
+[*]246/13/13
+[list]
+[*][pet]Crystalline Broodling[/pet] H/B (12)
+[*][pet]Leyline Broodling[/pet] H/B (12)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Crystalline Broodling[/pet] B/B (3)
+[*][pet]Thornclaw Broodling[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Vicious Broodling[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Crystalline Broodling[/pet] S/B (11)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Crystalline Broodling[/pet] P/S (8)
 [/list]
 [/list]

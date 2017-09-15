@@ -64,6 +64,22 @@
 [/list]
 [B]Flying [ability]Slicing Wind[/ability]|[ability]Thrash[/ability]|[ability]Cyclone[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Hawk Eye[/ability]|[ability]Lift-Off[/ability][/B]
 [list]
+[*]246/13/13
+[list]
+[*][pet]Albatross Chick[/pet] H/B (12)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Albatross Chick[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Albatross Chick[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Albatross Chick[/pet] S/B (11)
+[/list]
 [*]1644/244/276
 [list]
 [*][pet]Sandy Petrel[/pet] B/B (3)
@@ -250,6 +266,27 @@
 [/list]
 [B]Flying [ability]Bite[/ability]|[ability]Leech Life[/ability]|[ability]Screech[/ability]|[ability]Hawk Eye[/ability]|[ability]Reckless Strike[/ability]|[ability]Nocturnal Strike[/ability][/B]
 [list]
+[*]246/29/0
+[list]
+[*][pet]Hog-Nosed Bat[/pet] H/P (7)
+[/list]
+[*]246/13/13
+[list]
+[*][pet]Hog-Nosed Bat[/pet] H/B (12)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Echo Batling[/pet] H/S (9)
+[*][pet]Hog-Nosed Bat[/pet] H/S (9)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Echo Batling[/pet] B/B (3)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Echo Batling[/pet] S/B (11)
+[/list]
 [*]1628/276/257
 [list]
 [*][pet]Tirisfal Batling[/pet] H/S (9)
@@ -285,6 +322,14 @@
 [*]1319/260/341
 [list]
 [*][pet]Bat[/pet] S/S (5)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Hog-Nosed Bat[/pet] P/P (4)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Echo Batling[/pet] P/S (8)
 [/list]
 [/list]
 [B]Flying [ability]Peck[/ability]|[ability]Slicing Wind[/ability]|[ability]Squawk[/ability]|[ability]Gobble Strike[/ability]|[ability]Food Coma[/ability]|[ability]Flock[/ability][/B]
@@ -350,6 +395,10 @@
 [*][pet]Axebeak Hatchling[/pet] P/P (4)
 [*][pet]Bloodbeak[/pet] P/P (4)
 [*][pet]Junglebeak[/pet] P/P (4)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Crackers[/pet] P/P (4)
 [/list]
 [/list]
 [B]Flying [ability]Peck[/ability]|[ability]Quills[/ability]|[ability]Shriek[/ability]|[ability]Cyclone[/ability]|[ability]Nocturnal Strike[/ability]|[ability]Predatory Strike[/ability][/B]
@@ -446,6 +495,14 @@
 [/list]
 [B]Flying [ability]Slicing Wind[/ability]|[ability]Reckless Strike[/ability]|[ability]Cocoon Strike[/ability]|[ability]Counterspell[/ability]|[ability]Moth Dust[/ability]|[ability]Call Lightning[/ability][/B]
 [list]
+[*]246/29/0
+[list]
+[*][pet]Vale Flitter[/pet] H/P (7)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Vale Flitter[/pet] B/B (3)
+[/list]
 [*]1546/260/289
 [list]
 [*][pet]Cerulean Moth[/pet] H/S (9)
@@ -466,6 +523,14 @@
 [*][pet]Crimsonwing Moth[/pet] P/S (8)
 [*][pet]Dusty Sporewing[/pet] P/S (8)
 [*][pet]Skywisp Moth[/pet] P/S (8)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Vale Flitter[/pet] P/P (4)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Vale Flitter[/pet] P/S (8)
 [/list]
 [/list]
 [B]Flying [ability]Slicing Wind[/ability]|[ability]Alpha Strike[/ability]|[ability]Cocoon Strike[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Moth Balls[/ability]|[ability]Moth Dust[/ability][/B]
@@ -706,5 +771,185 @@
 [*]1303/322/273
 [list]
 [*][pet]Fledgling Nether Ray[/pet] P/B (10)
+[/list]
+[/list]
+[B]Flying [ability]Barbed Stinger[/ability]|[ability]Alpha Strike[/ability]|[ability]Healing Stream[/ability]|[ability]Puncture Wound[/ability]|[ability]Lift-Off[/ability]|[ability]Dodge[/ability][/B]
+[list]
+[*]246/13/13
+[list]
+[*][pet]Shimmering Aquafly[/pet] H/B (12)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Shimmering Aquafly[/pet] H/S (9)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Shimmering Aquafly[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Shimmering Aquafly[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Shimmering Aquafly[/pet] S/B (11)
+[/list]
+[*]1546/257/289
+[list]
+[*][pet]Waterfly[/pet] H/B (12)
+[/list]
+[*]1546/244/305
+[list]
+[*][pet]Waterfly[/pet] H/S (9)
+[/list]
+[*]1481/260/292
+[list]
+[*][pet]Waterfly[/pet] B/B (3)
+[/list]
+[*]1465/273/289
+[list]
+[*][pet]Waterfly[/pet] P/B (10)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Shimmering Aquafly[/pet] P/S (8)
+[/list]
+[/list]
+[B]Flying [ability]Bone Bite[/ability]|[ability]Poison Spit[/ability]|[ability]Reckless Strike[/ability]|[ability]Confusing Sting[/ability]|[ability]Drain Blood[/ability]|[ability]Consume Corpse[/ability][/B]
+[list]
+[*]425/0/0
+[list]
+[*][pet]Bilescourge[/pet] H/H (6)
+[/list]
+[*]246/29/0
+[list]
+[*][pet]Antoran Bilescourge[/pet] H/P (7)
+[*][pet]Bilescourge[/pet] H/P (7)
+[/list]
+[*]246/13/13
+[list]
+[*][pet]Antoran Bilescourge[/pet] H/B (12)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Antoran Bilescourge[/pet] H/S (9)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Antoran Bilescourge[/pet] B/B (3)
+[*][pet]Bilescourge[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Antoran Bilescourge[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Antoran Bilescourge[/pet] S/B (11)
+[*][pet]Bilescourge[/pet] S/B (11)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Bilescourge[/pet] P/P (4)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Bilescourge[/pet] P/S (8)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Antoran Bilescourge[/pet] S/S (5)
+[/list]
+[/list]
+[B]Flying [ability]Savage Talon[/ability]|[ability]Quills[/ability]|[ability]Call Darkness[/ability]|[ability]Cyclone[/ability]|[ability]Nocturnal Strike[/ability]|[ability]Predatory Strike[/ability][/B]
+[list]
+[*]181/16/16
+[list]
+[*][pet]Long-Eared Owl[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Long-Eared Owl[/pet] P/B (10)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Fledgling Warden Owl[/pet] P/P (4)
+[*][pet]Long-Eared Owl[/pet] P/P (4)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Long-Eared Owl[/pet] P/S (8)
+[*][pet]Nightwatch Swooper[/pet] P/S (8)
+[*][pet]Northern Hawk Owl[/pet] P/S (8)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Long-Eared Owl[/pet] S/S (5)
+[/list]
+[/list]
+[B]Flying [ability]Slicing Wind[/ability]|[ability]Thrash[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Preen[/ability]|[ability]Cyclone[/ability]|[ability]Lift-Off[/ability][/B]
+[list]
+[*]181/16/16
+[list]
+[*][pet]Fledgling Kingfeather[/pet] B/B (3)
+[*][pet]Fledgling Oliveback[/pet] B/B (3)
+[*][pet]Golden Eaglet[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Fledgling Kingfeather[/pet] P/B (10)
+[*][pet]Fledgling Oliveback[/pet] P/B (10)
+[*][pet]Golden Eaglet[/pet] P/B (10)
+[*][pet]Skyhorn Nestling[/pet] P/B (10)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Fledgling Kingfeather[/pet] P/P (4)
+[*][pet]Fledgling Oliveback[/pet] P/P (4)
+[*][pet]Golden Eaglet[/pet] P/P (4)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Fledgling Kingfeather[/pet] P/S (8)
+[*][pet]Fledgling Oliveback[/pet] P/S (8)
+[*][pet]Golden Eaglet[/pet] P/S (8)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Fledgling Kingfeather[/pet] S/S (5)
+[*][pet]Fledgling Oliveback[/pet] S/S (5)
+[*][pet]Golden Eaglet[/pet] S/S (5)
+[/list]
+[/list]
+[B]Flying [ability]Slicing Wind[/ability]|[ability]Wild Winds[/ability]|[ability]Glowing Toxin[/ability]|[ability]Wild Magic[/ability]|[ability]Predatory Strike[/ability]|[ability]Wing Buffet[/ability][/B]
+[list]
+[*]425/0/0
+[list]
+[*][pet]Docile Skyfin[/pet] H/H (6)
+[/list]
+[*]246/13/13
+[list]
+[*][pet]Skyfin Juvenile[/pet] H/B (12)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Skyfin Juvenile[/pet] H/S (9)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Skyfin Juvenile[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Skyfin Juvenile[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Skyfin Juvenile[/pet] S/B (11)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Skyfin Juvenile[/pet] P/S (8)
 [/list]
 [/list]

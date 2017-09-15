@@ -426,6 +426,7 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 380 ;22 ;Beast;Bucktooth Flapper;inv_pet_beaver;8.9;8.4;8.4;1546 ;273 ;273
 381 ;9 ;Critter;Porcupette;inv_pet_porcupine;8.9;8;8.9;1546 ;260 ;289
 381 ;19 ;Critter;Porcupette;inv_pet_porcupine;8.9;8;8.9;1546 ;260 ;289
+382 ;13 ;Humanoid;Sun Darter Hatchling;inv_faeriedragon2_orange;0.5;0.5;0.5;181 ;16 ;16
 383 ;8 ;Aquatic;Eternal Strider;inv_pet_waterstrider;8;8.4;9.4;1400 ;273 ;305
 383 ;11 ;Aquatic;Eternal Strider;inv_pet_waterstrider;8.4;7.9;9.4;1465 ;257 ;305
 383 ;18 ;Aquatic;Eternal Strider;inv_pet_waterstrider;8;8.4;9.4;1400 ;273 ;305
@@ -1569,6 +1570,7 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 650 ;8 ;Elemental;Terrible Turnip;inv_pet_turnippet;8.5;8.9;8.4;1481 ;289 ;273
 652 ;21 ;Aquatic;Tiny Goldfish;inv_misc_fish_36;8.4;8.4;8.9;1465 ;273 ;289
 665 ;11 ;Critter;Sand Scarab;inv_scarab_clay;7.9;8.9;8.9;1384 ;289 ;289
+666 ;7 ;Humanoid;Micronax;inv_legionadventure;0.9;0.9;0;246 ;29 ;0
 671 ;8 ;Critter;Lucky Quilen Cub;inv_quilinpet;8;8.9;8.9;1400 ;289 ;289
 671 ;18 ;Critter;Lucky Quilen Cub;inv_quilinpet;8;8.9;8.9;1400 ;289 ;289
 675 ;3 ;Critter;Stormwind Rat;inv_misc_monstertail_03;8.5;8;9;1481 ;260 ;293
@@ -2169,6 +2171,7 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1245 ;6 ;Magic;Filthling;spell_yorsahj_bloodboil_yellow;10;8;8;1725 ;260 ;260
 1245 ;9 ;Magic;Filthling;spell_yorsahj_bloodboil_yellow;8.9;8;8.9;1546 ;260 ;289
 1248 ;3 ;Elemental;Blossoming Ancient;inv_pet_ancientprotector;8.75;8.5;8.25;1522 ;276 ;268
+1255 ;7 ;Magic;Zeradar;inv_archonpet;8.9;8.9;8;1546 ;289 ;260
 1256 ;10 ;Mechanical;Rascal-Bot;inv_worserobot;8.4;8.9;8.4;1465 ;289 ;273
 1256 ;11 ;Mechanical;Rascal-Bot;inv_worserobot;8.4;8.4;8.9;1465 ;273 ;289
 1266 ;4 ;Beast;Xu-Fu, Cub of Xuen;inv_pet_tigergodcub;8;10.25;7.75;1400 ;333 ;252
@@ -2283,6 +2286,7 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1363 ;8 ;Beast;Alterac Brew-Pup;inv_cask_01;8;8.9;8.9;1400 ;289 ;289
 1364 ;4 ;Humanoid;Murkalot;inv_mace_1h_pandung_c_01;8.3;9.9;7.8;1449 ;322 ;254
 1365 ;9 ;Humanoid;Treasure Goblin;ability_racial_packhobgoblin;8.9;8;8.9;1546 ;260 ;289
+1384 ;7 ;Humanoid;Hogs;inv_misc_head_gnoll_01;8.9;9.65;7.25;1546 ;314 ;236
 1385 ;13 ;Dragonkin;Albino Chimaeraling;ability_hunter_pet_chimera;8.5;8.5;8.5;1481 ;276 ;276
 1385 ;14 ;Dragonkin;Albino Chimaeraling;ability_hunter_pet_chimera;8;10;8;1400 ;325 ;260
 1385 ;15 ;Dragonkin;Albino Chimaeraling;ability_hunter_pet_chimera;8;8;10;1400 ;260 ;325
@@ -2316,6 +2320,16 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1427 ;18 ;Critter;Frostfur Rat;inv_misc_monstertail_03;7.62;8.77;9.4;1339 ;285 ;305
 1427 ;22 ;Critter;Frostfur Rat;inv_misc_monstertail_03;8.52;8.28;8.9;1485 ;269 ;289
 1428 ;17 ;Undead;Zomstrok;inv_misc_food_92_lobster;8.9;8.9;8;1546 ;289 ;260
+1429 ;13 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0.5;0.5;0.5;181 ;16 ;16
+1429 ;14 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0;2;0;100 ;65 ;0
+1429 ;15 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0;0;2;100 ;0 ;65
+1429 ;16 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;2;0;0;425 ;0 ;0
+1429 ;17 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0.9;0.9;0;246 ;29 ;0
+1429 ;18 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0;0.9;0.9;100 ;29 ;29
+1429 ;19 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0.9;0;0.9;246 ;0 ;29
+1429 ;20 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0.4;0.9;0.4;165 ;29 ;13
+1429 ;21 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0.4;0.4;0.9;165 ;13 ;29
+1429 ;22 ;Humanoid;Autumnal Sproutling;inv_misc_herb_wldsteelbloom_petal;0.9;0.4;0.4;246 ;13 ;13
 1430 ;13 ;Elemental;Forest Sproutling;inv_misc_herb_wldsteelbloom_petal;8.5;8.5;8.5;1481 ;276 ;276
 1430 ;14 ;Elemental;Forest Sproutling;inv_misc_herb_wldsteelbloom_petal;8;10;8;1400 ;325 ;260
 1430 ;15 ;Elemental;Forest Sproutling;inv_misc_herb_wldsteelbloom_petal;8;8;10;1400 ;260 ;325
@@ -2363,6 +2377,8 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1449 ;14 ;Beast;Deathwatch Hatchling;inv_ravager2pet_black;8;10;8;1400 ;325 ;260
 1450 ;18 ;Mechanical;Draenei Micro Defender;inv_eng_gizmo2;8;8.9;8.9;1400 ;289 ;289
 1451 ;15 ;Elemental;Molten Corgi;inv_moltencorgi;8;8;10;1400 ;260 ;325
+1453 ;19 ;Humanoid;River Calf;inv_babyhippo01_blue;0.9;0;0.9;246 ;0 ;29
+1454 ;3 ;Humanoid;Murkidan;inv_dhmurloc;8.5;8.5;8.5;1481 ;276 ;276
 1455 ;13 ;Beast;Mossbite Skitterer;inv_ravager2pet_white;8.5;8.5;8.5;1481 ;276 ;276
 1455 ;20 ;Beast;Mossbite Skitterer;inv_ravager2pet_white;8.4;8.9;8.4;1465 ;289 ;273
 1455 ;21 ;Beast;Mossbite Skitterer;inv_ravager2pet_white;8.4;8.4;8.9;1465 ;273 ;289
@@ -2395,6 +2411,7 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1465 ;20 ;Flying;Amberbarb Wasp;inv_dragonflypet_yellow;8.4;8.9;8.4;1465 ;289 ;273
 1465 ;21 ;Flying;Amberbarb Wasp;inv_dragonflypet_yellow;8.4;8.4;8.9;1465 ;273 ;289
 1465 ;22 ;Flying;Amberbarb Wasp;inv_dragonflypet_yellow;8.9;8.4;8.4;1546 ;273 ;273
+1466 ;21 ;Magic;Brightpaw;inv_pet_mysticmanakitty;8.4;8.4;8.9;1465 ;273 ;289
 1467 ;14 ;Mechanical;Sky-Bo;ability_mount_shreddermount;8;10;8;1400 ;325 ;260
 1467 ;15 ;Mechanical;Sky-Bo;ability_mount_shreddermount;8;8;10;1400 ;260 ;325
 1468 ;13 ;Flying;Bloodbeak;inv_toucan_color3;8.12;8.75;8.62;1420 ;284 ;280
@@ -2424,6 +2441,8 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1516 ;20 ;Critter;Bush Chicken;inv_feather_13;8.4;8.9;8.4;1465 ;289 ;273
 1517 ;4 ;Elemental;Blazing Cindercrawler;inv_helm_circlet_firelands_d_01;8;10.5;7.5;1400 ;341 ;244
 1517 ;14 ;Elemental;Blazing Cindercrawler;inv_helm_circlet_firelands_d_01;8;10.5;7.5;1400 ;341 ;244
+1518 ;4 ;Elemental;Stout Alemental;inv_pet_pandarenelementa_fire;8;10.5;7.5;1400 ;341 ;244
+1518 ;14 ;Elemental;Stout Alemental;inv_pet_pandarenelementa_fire;8;10.5;7.5;1400 ;341 ;244
 1521 ;18 ;Undead;Cursed Birman;trade_archaeology_catstatueemeraldeyes;8;8.9;8.9;1400 ;289 ;289
 1523 ;5 ;Undead;Widget the Departed;inv_pet_cats_bombaycat;8;8;10;1400 ;260 ;325
 1524 ;17 ;Magic;Netherspawn, Spawn of Netherspawn;spell_nature_acid_01;8.9;8.9;8;1546 ;289 ;260
@@ -2610,11 +2629,535 @@ SpeciesId;BreedId;PetType;Name;Icon;BaseHealth;BasePower;BaseSpeed;Level25Health
 1663 ;16 ;Beast;Periwinkle Calf;inv_babyhippo01;10.5;8;7.5;1806 ;260 ;244
 1663 ;17 ;Beast;Periwinkle Calf;inv_babyhippo01;9.4;8.9;7.5;1628 ;289 ;244
 1664 ;3 ;Magic;Nightmare Bell;inv_misc_bell_01;8;9;8.5;1400 ;293 ;276
+1665 ;9 ;Aquatic;Ghostshell Crab;inv_jewelcrafting_azurecrab;9.65;8;8.15;1668 ;260 ;265
 1672 ;6 ;Mechanical;Corrupted Nest Guardian;ability_felarakkoa_feldetonation_green;10.5;8.75;6.75;1806 ;284 ;219
 1687 ;3 ;Aquatic;Left Shark;inv_pet_babyshark;8.25;9;8.25;1441 ;293 ;268
 1688 ;4 ;Humanoid;Crusher;achievement_boss_oregorger;8.25;10.25;7.5;1441 ;333 ;244
 1688 ;6 ;Humanoid;Crusher;achievement_boss_oregorger;10.25;8.25;7.5;1766 ;268 ;244
 1688 ;7 ;Humanoid;Crusher;achievement_boss_oregorger;9.15;9.15;7.5;1587 ;297 ;244
 1688 ;8 ;Humanoid;Crusher;achievement_boss_oregorger;8.25;9.15;8.4;1441 ;297 ;273
+1690 ;8 ;Elemental;Shard of Cyrukh;tooltip_crystallizedfel;7.25;9.65;8.9;1278 ;314 ;289
+1691 ;8 ;Critter;Nibbles;inv_felstalker_pet;8;8.9;8.9;1400 ;289 ;289
 1692 ;10 ;Beast;Savage Cub;ability_mount_jungletiger;8.4;8.9;8.4;1465 ;289 ;273
 1693 ;14 ;Flying;Blazing Firehawk;ability_mount_fireravengodmount;8;10;8;1400 ;325 ;260
+1699 ;12 ;Humanoid;Enchanted Cauldron;inv_enchanting_70_pet_cauldron;0.9;0.4;0.4;246 ;13 ;13
+1700 ;10 ;Humanoid;Enchanted Torch;inv_enchanting_70_pet_torch;0.4;0.9;0.4;165 ;29 ;13
+1701 ;21 ;Humanoid;Enchanted Pen;inv_enchanting_70_pet_pen;0.4;0.4;0.9;165 ;13 ;29
+1705 ;7 ;Humanoid;Grumpy;inv_pet_mastiff;0.9;0.9;0;246 ;29 ;0
+1706 ;6 ;Humanoid;Ashmaw Cub;inv_misc_bearcubbrown;2;0;0;425 ;0 ;0
+1708 ;3 ;Humanoid;Albatross Chick;inv_misc_seagullpet_01;0.5;0.5;0.5;181 ;16 ;16
+1708 ;10 ;Humanoid;Albatross Chick;inv_misc_seagullpet_01;0.4;0.9;0.4;165 ;29 ;13
+1708 ;11 ;Humanoid;Albatross Chick;inv_misc_seagullpet_01;0.4;0.4;0.9;165 ;13 ;29
+1708 ;12 ;Humanoid;Albatross Chick;inv_misc_seagullpet_01;0.9;0.4;0.4;246 ;13 ;13
+1708 ;13 ;Humanoid;Albatross Chick;inv_misc_seagullpet_01;0.5;0.5;0.5;181 ;16 ;16
+1708 ;20 ;Humanoid;Albatross Chick;inv_misc_seagullpet_01;0.4;0.9;0.4;165 ;29 ;13
+1708 ;21 ;Humanoid;Albatross Chick;inv_misc_seagullpet_01;0.4;0.4;0.9;165 ;13 ;29
+1708 ;22 ;Humanoid;Albatross Chick;inv_misc_seagullpet_01;0.9;0.4;0.4;246 ;13 ;13
+1709 ;3 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0.5;0.5;0.5;181 ;16 ;16
+1709 ;4 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0;2;0;100 ;65 ;0
+1709 ;5 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0;0;2;100 ;0 ;65
+1709 ;8 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0;0.9;0.9;100 ;29 ;29
+1709 ;10 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0.4;0.9;0.4;165 ;29 ;13
+1709 ;13 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0.5;0.5;0.5;181 ;16 ;16
+1709 ;14 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0;2;0;100 ;65 ;0
+1709 ;15 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0;0;2;100 ;0 ;65
+1709 ;18 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0;0.9;0.9;100 ;29 ;29
+1709 ;20 ;Humanoid;Fledgling Kingfeather;artifactability_survivalhunter_eaglesbite;0.4;0.9;0.4;165 ;29 ;13
+1710 ;3 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0.5;0.5;0.5;181 ;16 ;16
+1710 ;4 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0;2;0;100 ;65 ;0
+1710 ;5 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0;0;2;100 ;0 ;65
+1710 ;8 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0;0.9;0.9;100 ;29 ;29
+1710 ;10 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0.4;0.9;0.4;165 ;29 ;13
+1710 ;13 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0.5;0.5;0.5;181 ;16 ;16
+1710 ;14 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0;2;0;100 ;65 ;0
+1710 ;15 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0;0;2;100 ;0 ;65
+1710 ;18 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0;0.9;0.9;100 ;29 ;29
+1710 ;20 ;Humanoid;Fledgling Oliveback;artifactability_survivalhunter_eaglesbite;0.4;0.9;0.4;165 ;29 ;13
+1711 ;20 ;Humanoid;Skyhorn Nestling;ability_hunter_eagleeye;0.4;0.9;0.4;165 ;29 ;13
+1712 ;3 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0.5;0.5;0.5;181 ;16 ;16
+1712 ;4 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0;2;0;100 ;65 ;0
+1712 ;5 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0;0;2;100 ;0 ;65
+1712 ;8 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0;0.9;0.9;100 ;29 ;29
+1712 ;10 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0.4;0.9;0.4;165 ;29 ;13
+1712 ;13 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0.5;0.5;0.5;181 ;16 ;16
+1712 ;14 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0;2;0;100 ;65 ;0
+1712 ;15 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0;0;2;100 ;0 ;65
+1712 ;18 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0;0.9;0.9;100 ;29 ;29
+1712 ;20 ;Humanoid;Golden Eaglet;artifactability_survivalhunter_eaglesbite;0.4;0.9;0.4;165 ;29 ;13
+1713 ;3 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0.5;0.5;0.5;181 ;16 ;16
+1713 ;4 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0;2;0;100 ;65 ;0
+1713 ;5 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0;0;2;100 ;0 ;65
+1713 ;8 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0;0.9;0.9;100 ;29 ;29
+1713 ;10 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0.4;0.9;0.4;165 ;29 ;13
+1713 ;13 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0.5;0.5;0.5;181 ;16 ;16
+1713 ;14 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0;2;0;100 ;65 ;0
+1713 ;15 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0;0;2;100 ;0 ;65
+1713 ;18 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0;0.9;0.9;100 ;29 ;29
+1713 ;20 ;Humanoid;Long-Eared Owl;inv_pet_wardenowl;0.4;0.9;0.4;165 ;29 ;13
+1714 ;8 ;Humanoid;Northern Hawk Owl;inv_pet_wardenowl;0;0.9;0.9;100 ;29 ;29
+1715 ;8 ;Humanoid;Nightwatch Swooper;inv_pet_wardenowl;0;0.9;0.9;100 ;29 ;29
+1716 ;14 ;Humanoid;Fledgling Warden Owl;inv_pet_wardenowl;0;2;0;100 ;65 ;0
+1717 ;20 ;Humanoid;Extinguished Eye;inv_pet_inquisitoreye;0.4;0.9;0.4;165 ;29 ;13
+1718 ;4 ;Humanoid;Hateful Eye;inv_pet_inquisitoreye;0;2;0;100 ;65 ;0
+1719 ;17 ;Humanoid;Eye of Inquisition;inv_pet_inquisitoreye;0.9;0.9;0;246 ;29 ;0
+1720 ;18 ;Humanoid;Emmigosa;inv_misc_head_dragon_blue;0;0.9;0.9;100 ;29 ;29
+1721 ;8 ;Humanoid;Stormborne Whelpling;inv_misc_head_dragon_red;0;0.9;0.9;100 ;29 ;29
+1722 ;4 ;Humanoid;Dream Whelpling;inv_misc_head_dragon_green;0;2;0;100 ;65 ;0
+1722 ;8 ;Humanoid;Dream Whelpling;inv_misc_head_dragon_green;0;0.9;0.9;100 ;29 ;29
+1722 ;10 ;Humanoid;Dream Whelpling;inv_misc_head_dragon_green;0.4;0.9;0.4;165 ;29 ;13
+1722 ;14 ;Humanoid;Dream Whelpling;inv_misc_head_dragon_green;0;2;0;100 ;65 ;0
+1722 ;18 ;Humanoid;Dream Whelpling;inv_misc_head_dragon_green;0;0.9;0.9;100 ;29 ;29
+1722 ;20 ;Humanoid;Dream Whelpling;inv_misc_head_dragon_green;0.4;0.9;0.4;165 ;29 ;13
+1723 ;7 ;Humanoid;Nightmare Whelpling;inv_misc_head_dragon_bronze_nightmare;0.9;0.9;0;246 ;29 ;0
+1725 ;4 ;Humanoid;Grumpling;inv_misc_pet_pandaren_yeti_grey;8.25;10.5;7.25;1441 ;341 ;236
+1725 ;8 ;Humanoid;Grumpling;inv_misc_pet_pandaren_yeti_grey;8.25;9.4;8.15;1441 ;306 ;265
+1725 ;10 ;Humanoid;Grumpling;inv_misc_pet_pandaren_yeti_grey;8.65;9.4;7.65;1506 ;306 ;249
+1725 ;14 ;Humanoid;Grumpling;inv_misc_pet_pandaren_yeti_grey;8.25;10.5;7.25;1441 ;341 ;236
+1725 ;18 ;Humanoid;Grumpling;inv_misc_pet_pandaren_yeti_grey;8.25;9.4;8.15;1441 ;306 ;265
+1725 ;20 ;Humanoid;Grumpling;inv_misc_pet_pandaren_yeti_grey;8.65;9.4;7.65;1506 ;306 ;249
+1726 ;13 ;Humanoid;Burrow Spiderling;ability_hunter_pet_spider;0.5;0.5;0.5;181 ;16 ;16
+1726 ;15 ;Humanoid;Burrow Spiderling;ability_hunter_pet_spider;0;0;2;100 ;0 ;65
+1726 ;18 ;Humanoid;Burrow Spiderling;ability_hunter_pet_spider;0;0.9;0.9;100 ;29 ;29
+1726 ;21 ;Humanoid;Burrow Spiderling;ability_hunter_pet_spider;0.4;0.4;0.9;165 ;13 ;29
+1727 ;21 ;Humanoid;Nursery Spider;achievement_halloween_spider_01;0.4;0.4;0.9;165 ;13 ;29
+1728 ;16 ;Humanoid;Juvenile Scuttleback;ability_hunter_pet_crab;2;0;0;425 ;0 ;0
+1728 ;18 ;Humanoid;Juvenile Scuttleback;ability_hunter_pet_crab;0;0.9;0.9;100 ;29 ;29
+1728 ;19 ;Humanoid;Juvenile Scuttleback;ability_hunter_pet_crab;0.9;0;0.9;246 ;0 ;29
+1728 ;20 ;Humanoid;Juvenile Scuttleback;ability_hunter_pet_crab;0.4;0.9;0.4;165 ;29 ;13
+1729 ;3 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.5;0.5;0.5;181 ;16 ;16
+1729 ;5 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0;0;2;100 ;0 ;65
+1729 ;7 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.9;0.9;0;246 ;29 ;0
+1729 ;9 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.9;0;0.9;246 ;0 ;29
+1729 ;11 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.4;0.4;0.9;165 ;13 ;29
+1729 ;12 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.9;0.4;0.4;246 ;13 ;13
+1729 ;13 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.5;0.5;0.5;181 ;16 ;16
+1729 ;17 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.9;0.9;0;246 ;29 ;0
+1729 ;19 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.9;0;0.9;246 ;0 ;29
+1729 ;21 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.4;0.4;0.9;165 ;13 ;29
+1729 ;22 ;Humanoid;Olivetail Hare;inv_misc_rabbit;0.9;0.4;0.4;246 ;13 ;13
+1730 ;15 ;Undead;Spectral Spinner;achievement_halloween_spider_01;8;8;10;1400 ;260 ;325
+1730 ;18 ;Undead;Spectral Spinner;achievement_halloween_spider_01;8;8.9;8.9;1400 ;289 ;289
+1730 ;19 ;Undead;Spectral Spinner;achievement_halloween_spider_01;8.9;8;8.9;1546 ;260 ;289
+1730 ;20 ;Undead;Spectral Spinner;achievement_halloween_spider_01;8.4;8.9;8.4;1465 ;289 ;273
+1730 ;21 ;Undead;Spectral Spinner;achievement_halloween_spider_01;8.4;8.4;8.9;1465 ;273 ;289
+1731 ;13 ;Humanoid;Felspider;inv_misc_monsterspidercarapace_01;0.5;0.5;0.5;181 ;16 ;16
+1731 ;15 ;Humanoid;Felspider;inv_misc_monsterspidercarapace_01;0;0;2;100 ;0 ;65
+1731 ;18 ;Humanoid;Felspider;inv_misc_monsterspidercarapace_01;0;0.9;0.9;100 ;29 ;29
+1731 ;21 ;Humanoid;Felspider;inv_misc_monsterspidercarapace_01;0.4;0.4;0.9;165 ;13 ;29
+1734 ;13 ;Humanoid;Shimmering Aquafly;ability_hunter_pet_wasp;0.5;0.5;0.5;181 ;16 ;16
+1734 ;18 ;Humanoid;Shimmering Aquafly;ability_hunter_pet_wasp;0;0.9;0.9;100 ;29 ;29
+1734 ;19 ;Humanoid;Shimmering Aquafly;ability_hunter_pet_wasp;0.9;0;0.9;246 ;0 ;29
+1734 ;20 ;Humanoid;Shimmering Aquafly;ability_hunter_pet_wasp;0.4;0.9;0.4;165 ;29 ;13
+1734 ;21 ;Humanoid;Shimmering Aquafly;ability_hunter_pet_wasp;0.4;0.4;0.9;165 ;13 ;29
+1734 ;22 ;Humanoid;Shimmering Aquafly;ability_hunter_pet_wasp;0.9;0.4;0.4;246 ;13 ;13
+1735 ;6 ;Humanoid;Terror Larva;inv_qiraj_skinsandworm;2;0;0;425 ;0 ;0
+1735 ;9 ;Humanoid;Terror Larva;inv_qiraj_skinsandworm;0.9;0;0.9;246 ;0 ;29
+1735 ;16 ;Humanoid;Terror Larva;inv_qiraj_skinsandworm;2;0;0;425 ;0 ;0
+1735 ;19 ;Humanoid;Terror Larva;inv_qiraj_skinsandworm;0.9;0;0.9;246 ;0 ;29
+1736 ;3 ;Humanoid;Slithering Brownscale;spell_nature_guardianward;0.5;0.5;0.5;181 ;16 ;16
+1736 ;5 ;Humanoid;Slithering Brownscale;spell_nature_guardianward;0;0;2;100 ;0 ;65
+1736 ;8 ;Humanoid;Slithering Brownscale;spell_nature_guardianward;0;0.9;0.9;100 ;29 ;29
+1736 ;11 ;Humanoid;Slithering Brownscale;spell_nature_guardianward;0.4;0.4;0.9;165 ;13 ;29
+1736 ;13 ;Humanoid;Slithering Brownscale;spell_nature_guardianward;0.5;0.5;0.5;181 ;16 ;16
+1736 ;15 ;Humanoid;Slithering Brownscale;spell_nature_guardianward;0;0;2;100 ;0 ;65
+1736 ;18 ;Humanoid;Slithering Brownscale;spell_nature_guardianward;0;0.9;0.9;100 ;29 ;29
+1736 ;21 ;Humanoid;Slithering Brownscale;spell_nature_guardianward;0.4;0.4;0.9;165 ;13 ;29
+1737 ;3 ;Humanoid;Vale Flitter;ability_hunter_pet_moth;0.5;0.5;0.5;181 ;16 ;16
+1737 ;4 ;Humanoid;Vale Flitter;ability_hunter_pet_moth;0;2;0;100 ;65 ;0
+1737 ;7 ;Humanoid;Vale Flitter;ability_hunter_pet_moth;0.9;0.9;0;246 ;29 ;0
+1737 ;8 ;Humanoid;Vale Flitter;ability_hunter_pet_moth;0;0.9;0.9;100 ;29 ;29
+1737 ;13 ;Humanoid;Vale Flitter;ability_hunter_pet_moth;0.5;0.5;0.5;181 ;16 ;16
+1737 ;14 ;Humanoid;Vale Flitter;ability_hunter_pet_moth;0;2;0;100 ;65 ;0
+1737 ;17 ;Humanoid;Vale Flitter;ability_hunter_pet_moth;0.9;0.9;0;246 ;29 ;0
+1737 ;18 ;Humanoid;Vale Flitter;ability_hunter_pet_moth;0;0.9;0.9;100 ;29 ;29
+1738 ;3 ;Humanoid;Auburn Ringtail;inv_pet_raccoon;0.5;0.5;0.5;181 ;16 ;16
+1738 ;5 ;Humanoid;Auburn Ringtail;inv_pet_raccoon;0;0;2;100 ;0 ;65
+1738 ;8 ;Humanoid;Auburn Ringtail;inv_pet_raccoon;0;0.9;0.9;100 ;29 ;29
+1738 ;13 ;Humanoid;Auburn Ringtail;inv_pet_raccoon;0.5;0.5;0.5;181 ;16 ;16
+1738 ;15 ;Humanoid;Auburn Ringtail;inv_pet_raccoon;0;0;2;100 ;0 ;65
+1738 ;18 ;Humanoid;Auburn Ringtail;inv_pet_raccoon;0;0.9;0.9;100 ;29 ;29
+1739 ;3 ;Humanoid;Spring Strider;inv_pet_waterstrider;0.5;0.5;0.5;181 ;16 ;16
+1739 ;9 ;Humanoid;Spring Strider;inv_pet_waterstrider;0.9;0;0.9;246 ;0 ;29
+1739 ;11 ;Humanoid;Spring Strider;inv_pet_waterstrider;0.4;0.4;0.9;165 ;13 ;29
+1739 ;12 ;Humanoid;Spring Strider;inv_pet_waterstrider;0.9;0.4;0.4;246 ;13 ;13
+1739 ;13 ;Humanoid;Spring Strider;inv_pet_waterstrider;0.5;0.5;0.5;181 ;16 ;16
+1739 ;19 ;Humanoid;Spring Strider;inv_pet_waterstrider;0.9;0;0.9;246 ;0 ;29
+1739 ;21 ;Humanoid;Spring Strider;inv_pet_waterstrider;0.4;0.4;0.9;165 ;13 ;29
+1739 ;22 ;Humanoid;Spring Strider;inv_pet_waterstrider;0.9;0.4;0.4;246 ;13 ;13
+1740 ;3 ;Undead;Ghost Maggot;inv_pet_maggot;8.5;8.5;8.5;1481 ;276 ;276
+1740 ;10 ;Undead;Ghost Maggot;inv_pet_maggot;8.4;8.9;8.4;1465 ;289 ;273
+1740 ;15 ;Undead;Ghost Maggot;inv_pet_maggot;8;8;10;1400 ;260 ;325
+1740 ;18 ;Undead;Ghost Maggot;inv_pet_maggot;8;8.9;8.9;1400 ;289 ;289
+1741 ;9 ;Undead;Ghastly Rat;achievement_rat;8.9;8;8.9;1546 ;260 ;289
+1741 ;11 ;Undead;Ghastly Rat;achievement_rat;8.4;8.4;8.9;1465 ;273 ;289
+1741 ;12 ;Undead;Ghastly Rat;achievement_rat;8.9;8.4;8.4;1546 ;273 ;273
+1741 ;20 ;Undead;Ghastly Rat;achievement_rat;8.4;8.9;8.4;1465 ;289 ;273
+1743 ;3 ;Humanoid;Black-Footed Fox Kit;inv_misc_foxkit;0.5;0.5;0.5;181 ;16 ;16
+1743 ;11 ;Humanoid;Black-Footed Fox Kit;inv_misc_foxkit;0.4;0.4;0.9;165 ;13 ;29
+1743 ;13 ;Humanoid;Black-Footed Fox Kit;inv_misc_foxkit;0.5;0.5;0.5;181 ;16 ;16
+1743 ;21 ;Humanoid;Black-Footed Fox Kit;inv_misc_foxkit;0.4;0.4;0.9;165 ;13 ;29
+1744 ;3 ;Humanoid;Mist Fox Kit;inv_misc_foxkit_white;0.5;0.5;0.5;181 ;16 ;16
+1744 ;11 ;Humanoid;Mist Fox Kit;inv_misc_foxkit_white;0.4;0.4;0.9;165 ;13 ;29
+1744 ;13 ;Humanoid;Mist Fox Kit;inv_misc_foxkit_white;0.5;0.5;0.5;181 ;16 ;16
+1744 ;21 ;Humanoid;Mist Fox Kit;inv_misc_foxkit_white;0.4;0.4;0.9;165 ;13 ;29
+1749 ;13 ;Humanoid;Rose Taipan;inv_jewelcrafting_rubyserpent;0.5;0.5;0.5;181 ;16 ;16
+1749 ;14 ;Humanoid;Rose Taipan;inv_jewelcrafting_rubyserpent;0;2;0;100 ;65 ;0
+1749 ;15 ;Humanoid;Rose Taipan;inv_jewelcrafting_rubyserpent;0;0;2;100 ;0 ;65
+1749 ;16 ;Humanoid;Rose Taipan;inv_jewelcrafting_rubyserpent;2;0;0;425 ;0 ;0
+1749 ;18 ;Humanoid;Rose Taipan;inv_jewelcrafting_rubyserpent;0;0.9;0.9;100 ;29 ;29
+1749 ;20 ;Humanoid;Rose Taipan;inv_jewelcrafting_rubyserpent;0.4;0.9;0.4;165 ;29 ;13
+1749 ;21 ;Humanoid;Rose Taipan;inv_jewelcrafting_rubyserpent;0.4;0.4;0.9;165 ;13 ;29
+1750 ;3 ;Humanoid;Tiny Apparition;achievement_halloween_ghost_01;0.5;0.5;0.5;181 ;16 ;16
+1750 ;6 ;Humanoid;Tiny Apparition;achievement_halloween_ghost_01;2;0;0;425 ;0 ;0
+1750 ;13 ;Humanoid;Tiny Apparition;achievement_halloween_ghost_01;0.5;0.5;0.5;181 ;16 ;16
+1750 ;16 ;Humanoid;Tiny Apparition;achievement_halloween_ghost_01;2;0;0;425 ;0 ;0
+1752 ;8 ;Humanoid;Crispin;inv_misc_food_02;0;0.9;0.9;100 ;29 ;29
+1753 ;8 ;Humanoid;Bleakwater Jelly;inv_fishing_f_ammonite1;0;0.9;0.9;100 ;29 ;29
+1754 ;9 ;Humanoid;Sewer-Pipe Jelly;inv_fishing_f_ammonite1;0.9;0;0.9;246 ;0 ;29
+1755 ;22 ;Humanoid;Plump Jelly;inv_fishing_f_ammonite1;0.9;0.4;0.4;246 ;13 ;13
+1756 ;12 ;Humanoid;Ridgeback Piglet;inv_giantboarmount_brown;0.9;0.4;0.4;246 ;13 ;13
+1759 ;8 ;Humanoid;Thaumaturgical Piglet;inv_giantboarmount_brown;0;0.9;0.9;100 ;29 ;29
+1760 ;8 ;Humanoid;Fel Piglet;ability_mount_felboarmount;0;0.9;0.9;100 ;29 ;29
+1761 ;3 ;Humanoid;Echo Batling;ability_hunter_pet_bat;0.5;0.5;0.5;181 ;16 ;16
+1761 ;8 ;Humanoid;Echo Batling;ability_hunter_pet_bat;0;0.9;0.9;100 ;29 ;29
+1761 ;9 ;Humanoid;Echo Batling;ability_hunter_pet_bat;0.9;0;0.9;246 ;0 ;29
+1761 ;11 ;Humanoid;Echo Batling;ability_hunter_pet_bat;0.4;0.4;0.9;165 ;13 ;29
+1761 ;13 ;Humanoid;Echo Batling;ability_hunter_pet_bat;0.5;0.5;0.5;181 ;16 ;16
+1761 ;18 ;Humanoid;Echo Batling;ability_hunter_pet_bat;0;0.9;0.9;100 ;29 ;29
+1761 ;19 ;Humanoid;Echo Batling;ability_hunter_pet_bat;0.9;0;0.9;246 ;0 ;29
+1761 ;21 ;Humanoid;Echo Batling;ability_hunter_pet_bat;0.4;0.4;0.9;165 ;13 ;29
+1762 ;4 ;Humanoid;Hog-Nosed Bat;ability_hunter_pet_bat;0;2;0;100 ;65 ;0
+1762 ;7 ;Humanoid;Hog-Nosed Bat;ability_hunter_pet_bat;0.9;0.9;0;246 ;29 ;0
+1762 ;9 ;Humanoid;Hog-Nosed Bat;ability_hunter_pet_bat;0.9;0;0.9;246 ;0 ;29
+1762 ;12 ;Humanoid;Hog-Nosed Bat;ability_hunter_pet_bat;0.9;0.4;0.4;246 ;13 ;13
+1762 ;14 ;Humanoid;Hog-Nosed Bat;ability_hunter_pet_bat;0;2;0;100 ;65 ;0
+1762 ;17 ;Humanoid;Hog-Nosed Bat;ability_hunter_pet_bat;0.9;0.9;0;246 ;29 ;0
+1762 ;19 ;Humanoid;Hog-Nosed Bat;ability_hunter_pet_bat;0.9;0;0.9;246 ;0 ;29
+1762 ;22 ;Humanoid;Hog-Nosed Bat;ability_hunter_pet_bat;0.9;0.4;0.4;246 ;13 ;13
+1763 ;3 ;Humanoid;Spiketail Beaver;inv_pet_beaver;0.5;0.5;0.5;181 ;16 ;16
+1763 ;7 ;Humanoid;Spiketail Beaver;inv_pet_beaver;0.9;0.9;0;246 ;29 ;0
+1763 ;12 ;Humanoid;Spiketail Beaver;inv_pet_beaver;0.9;0.4;0.4;246 ;13 ;13
+1763 ;13 ;Humanoid;Spiketail Beaver;inv_pet_beaver;0.5;0.5;0.5;181 ;16 ;16
+1763 ;17 ;Humanoid;Spiketail Beaver;inv_pet_beaver;0.9;0.9;0;246 ;29 ;0
+1763 ;22 ;Humanoid;Spiketail Beaver;inv_pet_beaver;0.9;0.4;0.4;246 ;13 ;13
+1764 ;5 ;Magic;Energized Manafiend;inv_jewelcrafting_gem_40;7.62;8.38;10;1339 ;272 ;325
+1765 ;6 ;Magic;Empyreal Manafiend;inv_jewelcrafting_gem_42;9.62;8.38;8;1664 ;272 ;260
+1766 ;4 ;Magic;Empowered Manafiend;inv_jewelcrafting_gem_39;7.62;10.38;8;1339 ;337 ;260
+1773 ;9 ;Humanoid;Erudite Manafiend;spell_arcane_blast;0.9;0;0.9;246 ;0 ;29
+1774 ;8 ;Humanoid;Eldritch Manafiend;spell_arcane_blast_nightborne;0;0.9;0.9;100 ;29 ;29
+1775 ;15 ;Humanoid;Coralback Fiddler;ability_hunter_pet_crab;0;0;2;100 ;0 ;65
+1775 ;18 ;Humanoid;Coralback Fiddler;ability_hunter_pet_crab;0;0.9;0.9;100 ;29 ;29
+1775 ;20 ;Humanoid;Coralback Fiddler;ability_hunter_pet_crab;0.4;0.9;0.4;165 ;29 ;13
+1775 ;21 ;Humanoid;Coralback Fiddler;ability_hunter_pet_crab;0.4;0.4;0.9;165 ;13 ;29
+1776 ;3 ;Humanoid;Mudshell Conch;trade_archaeology_fossil_snailshell;0.5;0.5;0.5;181 ;16 ;16
+1776 ;7 ;Humanoid;Mudshell Conch;trade_archaeology_fossil_snailshell;0.9;0.9;0;246 ;29 ;0
+1776 ;12 ;Humanoid;Mudshell Conch;trade_archaeology_fossil_snailshell;0.9;0.4;0.4;246 ;13 ;13
+1776 ;13 ;Humanoid;Mudshell Conch;trade_archaeology_fossil_snailshell;0.5;0.5;0.5;181 ;16 ;16
+1776 ;17 ;Humanoid;Mudshell Conch;trade_archaeology_fossil_snailshell;0.9;0.9;0;246 ;29 ;0
+1776 ;22 ;Humanoid;Mudshell Conch;trade_archaeology_fossil_snailshell;0.9;0.4;0.4;246 ;13 ;13
+1777 ;3 ;Humanoid;Broot;inv_pet_ancientprotector;0.5;0.5;0.5;181 ;16 ;16
+1778 ;5 ;Humanoid;Dust Bunny;ability_vanish;0;0;2;100 ;0 ;65
+1778 ;8 ;Humanoid;Dust Bunny;ability_vanish;0;0.9;0.9;100 ;29 ;29
+1778 ;11 ;Humanoid;Dust Bunny;ability_vanish;0.4;0.4;0.9;165 ;13 ;29
+1778 ;15 ;Humanoid;Dust Bunny;ability_vanish;0;0;2;100 ;0 ;65
+1778 ;18 ;Humanoid;Dust Bunny;ability_vanish;0;0.9;0.9;100 ;29 ;29
+1778 ;21 ;Humanoid;Dust Bunny;ability_vanish;0.4;0.4;0.9;165 ;13 ;29
+1802 ;12 ;Humanoid;Fetid Waveling;inv_enchant_voidsphere;0.9;0.4;0.4;246 ;13 ;13
+1803 ;19 ;Humanoid;Thistleleaf Adventurer;inv_misc_lifeblood;0.9;0;0.9;246 ;0 ;29
+1804 ;13 ;Humanoid;Risen Saber Kitten;ability_mount_blackpanther;0.5;0.5;0.5;181 ;16 ;16
+1805 ;6 ;Humanoid;Alarm-o-Bot;inv_gizmo_07;2;0;0;425 ;0 ;0
+1806 ;19 ;Humanoid;Knockoff Blingtron;inv_misc_blingtron;0.9;0;0.9;246 ;0 ;29
+1807 ;20 ;Humanoid;Vicious Broodling;inv_pet_spiderdemon;0.4;0.9;0.4;165 ;29 ;13
+1808 ;22 ;Humanoid;Leyline Broodling;inv_pet_spiderdemon;0.9;0.4;0.4;246 ;13 ;13
+1809 ;13 ;Humanoid;Crystalline Broodling;inv_pet_spiderdemon;0.5;0.5;0.5;181 ;16 ;16
+1809 ;16 ;Humanoid;Crystalline Broodling;inv_pet_spiderdemon;2;0;0;425 ;0 ;0
+1809 ;18 ;Humanoid;Crystalline Broodling;inv_pet_spiderdemon;0;0.9;0.9;100 ;29 ;29
+1809 ;21 ;Humanoid;Crystalline Broodling;inv_pet_spiderdemon;0.4;0.4;0.9;165 ;13 ;29
+1809 ;22 ;Humanoid;Crystalline Broodling;inv_pet_spiderdemon;0.9;0.4;0.4;246 ;13 ;13
+1810 ;13 ;Humanoid;Thornclaw Broodling;inv_pet_spiderdemon;0.5;0.5;0.5;181 ;16 ;16
+1810 ;17 ;Humanoid;Thornclaw Broodling;inv_pet_spiderdemon;0.9;0.9;0;246 ;29 ;0
+1828 ;7 ;Humanoid;Baby Winston;inv_pet_babywinston;0.9;0.9;0;246 ;29 ;0
+1884 ;17 ;Humanoid;Baby Elderhorn;inv_pet_babymoose;0.9;0.9;0;246 ;29 ;0
+1885 ;22 ;Humanoid;Sunborne Val'kyr;inv_valkiergoldpet;0.9;0.4;0.4;246 ;13 ;13
+1886 ;6 ;Humanoid;Trigger;inv_robotpet;2;0;0;425 ;0 ;0
+1887 ;10 ;Humanoid;Wyrmy Tunkins;inv_pet_wyrmtongue;0.4;0.9;0.4;165 ;29 ;13
+1888 ;17 ;Humanoid;Celestial Calf;inv_pet_celestialbabyhippo;0.9;0.9;0;246 ;29 ;0
+1889 ;21 ;Humanoid;Felbat Pup;inv_batpet;0.4;0.4;0.9;165 ;13 ;29
+1890 ;15 ;Humanoid;Corgi Pup;inv_corgi2;0;0;2;100 ;0 ;65
+1903 ;6 ;Humanoid;Zoom;inv_checkered_flag;2;0;0;425 ;0 ;0
+1907 ;8 ;Humanoid;Pygmy Owl;inv_misc_ancientarrakoafeather;0;0.9;0.9;100 ;29 ;29
+1911 ;3 ;Humanoid;Sting Ray Pup;inv_fish_stormraygreen;0.5;0.5;0.5;181 ;16 ;16
+1912 ;17 ;Humanoid;Young Mutant Warturtle;inv_pet_speedy;0.9;0.9;0;246 ;29 ;0
+1913 ;3 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0.5;0.5;0.5;181 ;16 ;16
+1913 ;4 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0;2;0;100 ;65 ;0
+1913 ;5 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0;0;2;100 ;0 ;65
+1913 ;9 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0.9;0;0.9;246 ;0 ;29
+1913 ;10 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0.4;0.9;0.4;165 ;29 ;13
+1913 ;11 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0.4;0.4;0.9;165 ;13 ;29
+1913 ;13 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0.5;0.5;0.5;181 ;16 ;16
+1913 ;14 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0;2;0;100 ;65 ;0
+1913 ;15 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0;0;2;100 ;0 ;65
+1913 ;19 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0.9;0;0.9;246 ;0 ;29
+1913 ;20 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0.4;0.9;0.4;165 ;29 ;13
+1913 ;21 ;Humanoid;Gleamhoof Fawn;inv_babydeer;0.4;0.4;0.9;165 ;13 ;29
+1914 ;15 ;Humanoid;Coastal Sandpiper;inv_pet_thunderislebabybird;0;0;2;100 ;0 ;65
+1914 ;18 ;Humanoid;Coastal Sandpiper;inv_pet_thunderislebabybird;0;0.9;0.9;100 ;29 ;29
+1914 ;20 ;Humanoid;Coastal Sandpiper;inv_pet_thunderislebabybird;0.4;0.9;0.4;165 ;29 ;13
+1914 ;21 ;Humanoid;Coastal Sandpiper;inv_pet_thunderislebabybird;0.4;0.4;0.9;165 ;13 ;29
+1915 ;13 ;Humanoid;Blind Rat;inv_misc_monstertail_03;0.5;0.5;0.5;181 ;16 ;16
+1915 ;14 ;Humanoid;Blind Rat;inv_misc_monstertail_03;0;2;0;100 ;65 ;0
+1915 ;15 ;Humanoid;Blind Rat;inv_misc_monstertail_03;0;0;2;100 ;0 ;65
+1915 ;16 ;Humanoid;Blind Rat;inv_misc_monstertail_03;2;0;0;425 ;0 ;0
+1915 ;17 ;Humanoid;Blind Rat;inv_misc_monstertail_03;0.9;0.9;0;246 ;29 ;0
+1915 ;18 ;Humanoid;Blind Rat;inv_misc_monstertail_03;0;0.9;0.9;100 ;29 ;29
+1915 ;22 ;Humanoid;Blind Rat;inv_misc_monstertail_03;0.9;0.4;0.4;246 ;13 ;13
+1917 ;3 ;Humanoid;Stormstruck Beaver;inv_pet_thunderbeaver_blue;0.5;0.5;0.5;181 ;16 ;16
+1917 ;4 ;Humanoid;Stormstruck Beaver;inv_pet_thunderbeaver_blue;0;2;0;100 ;65 ;0
+1918 ;12 ;Humanoid;Alliance Enthusiast;inv_pet_wyrmtongue;0.9;0.4;0.4;246 ;13 ;13
+1919 ;12 ;Humanoid;Horde Fanatic;inv_pet_wyrmtongue;0.9;0.4;0.4;246 ;13 ;13
+1920 ;10 ;Humanoid;Transmutant;inv_misc_endlesspotion;0.4;0.9;0.4;165 ;29 ;13
+1921 ;14 ;Humanoid;Untethered Wyrmling;inv_elemental_mote_mana;0;2;0;100 ;65 ;0
+1922 ;18 ;Humanoid;Lurking Owl Kitten;ability_druid_catformattack;0;0.9;0.9;100 ;29 ;29
+1926 ;9 ;Humanoid;Hungering Claw;spell_priest_voidtendrils;0.9;0;0.9;246 ;0 ;29
+1927 ;18 ;Humanoid;Ash'ana;ability_mount_whitetiger;0;0.9;0.9;100 ;29 ;29
+1928 ;20 ;Humanoid;Firebat Pup;inv_batpet;0.4;0.9;0.4;165 ;29 ;13
+1929 ;3 ;Humanoid;Corgnelius;inv_corgi2;0.5;0.5;0.5;181 ;16 ;16
+1930 ;22 ;Humanoid;Lagan;inv_misc_fish_11;0.9;0.4;0.4;246 ;13 ;13
+1931 ;8 ;Humanoid;Court Scribe;inv_misc_book_18;0;0.9;0.9;100 ;29 ;29
+1932 ;17 ;Humanoid;Nightmare Lasher;inv_misc_herb_fireweed;0.9;0.9;0;246 ;29 ;0
+1933 ;21 ;Humanoid;Alptraumtreant;spell_nature_thorns_nightmare;0.4;0.4;0.9;165 ;13 ;29
+1934 ;7 ;Humanoid;Benax;inv_pet_toad_blue;0.9;0.9;0;246 ;29 ;0
+1935 ;3 ;Humanoid;Squirky;inv_babymurloc3_yellow;0.5;0.5;0.5;181 ;16 ;16
+1936 ;8 ;Humanoid;Mischief;inv_pet_felkitten;0;0.9;0.9;100 ;29 ;29
+1936 ;18 ;Humanoid;Mischief;inv_pet_felkitten;0;0.9;0.9;100 ;29 ;29
+1938 ;17 ;Humanoid;Rescued Fawn;inv_babydeer;0.9;0.9;0;246 ;29 ;0
+1939 ;8 ;Humanoid;Legionnaire Murky;inv_pet_hordemurloc;0;0.9;0.9;100 ;29 ;29
+1939 ;18 ;Humanoid;Legionnaire Murky;inv_pet_hordemurloc;0;0.9;0.9;100 ;29 ;29
+1940 ;8 ;Humanoid;Knight-Captain Murky;inv_pet_alliancemurloc;0;0.9;0.9;100 ;29 ;29
+1940 ;18 ;Humanoid;Knight-Captain Murky;inv_pet_alliancemurloc;0;0.9;0.9;100 ;29 ;29
+1941 ;14 ;Humanoid;Snowfang;inv_frostwolfpupsnowfang;0;2;0;100 ;65 ;0
+1943 ;15 ;Humanoid;Noblegarden Bunny;inv_misc_rabbit_2;0;0;2;100 ;0 ;65
+1949 ;10 ;Humanoid;Igneous Flameling;inv_tradeskillitem_sorcerersfire;0.4;0.9;0.4;165 ;29 ;13
+1952 ;3 ;Humanoid;Dreadmaw;ability_hunter_pet_worm;0.5;0.5;0.5;181 ;16 ;16
+1952 ;13 ;Humanoid;Dreadmaw;ability_hunter_pet_worm;0.5;0.5;0.5;181 ;16 ;16
+1953 ;5 ;Humanoid;Snobold Runt;inv_misc_head_kobold_01;0;0;2;100 ;0 ;65
+1953 ;9 ;Humanoid;Snobold Runt;inv_misc_head_kobold_01;0.9;0;0.9;246 ;0 ;29
+1953 ;11 ;Humanoid;Snobold Runt;inv_misc_head_kobold_01;0.4;0.4;0.9;165 ;13 ;29
+1954 ;11 ;Humanoid;Nerubian Swarmer;achievement_dungeon_azjollowercity_normal;0.4;0.4;0.9;165 ;13 ;29
+1954 ;18 ;Humanoid;Nerubian Swarmer;achievement_dungeon_azjollowercity_normal;0;0.9;0.9;100 ;29 ;29
+1955 ;4 ;Humanoid;Magma Rageling;ability_warlock_fireandbrimstone;0;2;0;100 ;65 ;0
+1956 ;6 ;Humanoid;Ironbound Proto-Whelp;achievement_boss_razorscale;2;0;0;425 ;0 ;0
+1956 ;12 ;Humanoid;Ironbound Proto-Whelp;achievement_boss_razorscale;0.9;0.4;0.4;246 ;13 ;13
+1956 ;16 ;Humanoid;Ironbound Proto-Whelp;achievement_boss_razorscale;2;0;0;425 ;0 ;0
+1956 ;22 ;Humanoid;Ironbound Proto-Whelp;achievement_boss_razorscale;0.9;0.4;0.4;246 ;13 ;13
+1957 ;3 ;Humanoid;Runeforged Servitor;achievement_dungeon_ulduarraid_irongolem_01;0.5;0.5;0.5;181 ;16 ;16
+1957 ;13 ;Humanoid;Runeforged Servitor;achievement_dungeon_ulduarraid_irongolem_01;0.5;0.5;0.5;181 ;16 ;16
+1958 ;13 ;Humanoid;Sanctum Cub;inv_jewelcrafting_blackpearlpanther;0.5;0.5;0.5;181 ;16 ;16
+1958 ;14 ;Humanoid;Sanctum Cub;inv_jewelcrafting_blackpearlpanther;0;2;0;100 ;65 ;0
+1958 ;17 ;Humanoid;Sanctum Cub;inv_jewelcrafting_blackpearlpanther;0.9;0.9;0;246 ;29 ;0
+1958 ;20 ;Humanoid;Sanctum Cub;inv_jewelcrafting_blackpearlpanther;0.4;0.9;0.4;165 ;29 ;13
+1959 ;16 ;Humanoid;Winter Rageling;spell_ice_lament;2;0;0;425 ;0 ;0
+1960 ;3 ;Humanoid;Snaplasher;inv_misc_herb_02;0.5;0.5;0.5;181 ;16 ;16
+1960 ;13 ;Humanoid;Snaplasher;inv_misc_herb_02;0.5;0.5;0.5;181 ;16 ;16
+1961 ;6 ;Humanoid;G0-R41-0N Ultratonk;achievement_boss_theflameleviathan_01;2;0;0;425 ;0 ;0
+1961 ;7 ;Humanoid;G0-R41-0N Ultratonk;achievement_boss_theflameleviathan_01;0.9;0.9;0;246 ;29 ;0
+1961 ;12 ;Humanoid;G0-R41-0N Ultratonk;achievement_boss_theflameleviathan_01;0.9;0.4;0.4;246 ;13 ;13
+1962 ;8 ;Humanoid;Creeping Tentacle;achievement_boss_yoggsaron_01;0;0.9;0.9;100 ;29 ;29
+1962 ;18 ;Humanoid;Creeping Tentacle;achievement_boss_yoggsaron_01;0;0.9;0.9;100 ;29 ;29
+1963 ;3 ;Humanoid;Boneshard;achievement_boss_lordmarrowgar;0.5;0.5;0.5;181 ;16 ;16
+1964 ;3 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;0.5;0.5;0.5;181 ;16 ;16
+1964 ;4 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;0;2;0;100 ;65 ;0
+1964 ;5 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;0;0;2;100 ;0 ;65
+1964 ;6 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;2;0;0;425 ;0 ;0
+1964 ;7 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;0.9;0.9;0;246 ;29 ;0
+1964 ;8 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;0;0.9;0.9;100 ;29 ;29
+1964 ;9 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;0.9;0;0.9;246 ;0 ;29
+1964 ;10 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;0.4;0.9;0.4;165 ;29 ;13
+1964 ;12 ;Humanoid;Blood Boil;sha_ability_warrior_bloodnova_nightmare;0.9;0.4;0.4;246 ;13 ;13
+1965 ;3 ;Humanoid;Blightbreath;achievement_festergutrotface;0.5;0.5;0.5;181 ;16 ;16
+1965 ;7 ;Humanoid;Blightbreath;achievement_festergutrotface;0.9;0.9;0;246 ;29 ;0
+1965 ;9 ;Humanoid;Blightbreath;achievement_festergutrotface;0.9;0;0.9;246 ;0 ;29
+1966 ;11 ;Humanoid;Soulbroken Whelpling;inv_misc_head_dragon_blue;0.4;0.4;0.9;165 ;13 ;29
+1966 ;21 ;Humanoid;Soulbroken Whelpling;inv_misc_head_dragon_blue;0.4;0.4;0.9;165 ;13 ;29
+1967 ;3 ;Humanoid;Drudge Ghoul;inv_pet_ghoul;0.5;0.5;0.5;181 ;16 ;16
+1967 ;13 ;Humanoid;Drudge Ghoul;inv_pet_ghoul;0.5;0.5;0.5;181 ;16 ;16
+1968 ;5 ;Humanoid;Wicked Soul;ability_warlock_soulswap;0;0;2;100 ;0 ;65
+1968 ;8 ;Humanoid;Wicked Soul;ability_warlock_soulswap;0;0.9;0.9;100 ;29 ;29
+1968 ;11 ;Humanoid;Wicked Soul;ability_warlock_soulswap;0.4;0.4;0.9;165 ;13 ;29
+1968 ;15 ;Humanoid;Wicked Soul;ability_warlock_soulswap;0;0;2;100 ;0 ;65
+1968 ;18 ;Humanoid;Wicked Soul;ability_warlock_soulswap;0;0.9;0.9;100 ;29 ;29
+1968 ;21 ;Humanoid;Wicked Soul;ability_warlock_soulswap;0.4;0.4;0.9;165 ;13 ;29
+1969 ;15 ;Humanoid;Stardust;inv_pet_celestialrabbit;0;0;2;100 ;0 ;65
+1974 ;5 ;Humanoid;Snowfeather Hatchling;inv_falcosaurospet_white;0;0;2;100 ;0 ;65
+1974 ;15 ;Humanoid;Snowfeather Hatchling;inv_falcosaurospet_white;0;0;2;100 ;0 ;65
+1975 ;7 ;Humanoid;Direbeak Hatchling;inv_falcosaurospet_red;0.9;0.9;0;246 ;29 ;0
+1975 ;17 ;Humanoid;Direbeak Hatchling;inv_falcosaurospet_red;0.9;0.9;0;246 ;29 ;0
+1976 ;4 ;Humanoid;Sharptalon Hatchling;inv_falcosaurospet_green;0;2;0;100 ;65 ;0
+1976 ;14 ;Humanoid;Sharptalon Hatchling;inv_falcosaurospet_green;0;2;0;100 ;65 ;0
+1977 ;8 ;Humanoid;Bloodgazer Hatchling;inv_falcosaurospet_black;0;0.9;0.9;100 ;29 ;29
+1977 ;18 ;Humanoid;Bloodgazer Hatchling;inv_falcosaurospet_black;0;0.9;0.9;100 ;29 ;29
+1984 ;9 ;Humanoid;Albinobussard;ability_hunter_pet_vulture;0.9;0;0.9;246 ;0 ;29
+1984 ;12 ;Humanoid;Albinobussard;ability_hunter_pet_vulture;0.9;0.4;0.4;246 ;13 ;13
+1984 ;16 ;Humanoid;Albinobussard;ability_hunter_pet_vulture;2;0;0;425 ;0 ;0
+1984 ;17 ;Humanoid;Albinobussard;ability_hunter_pet_vulture;0.9;0.9;0;246 ;29 ;0
+1984 ;19 ;Humanoid;Albinobussard;ability_hunter_pet_vulture;0.9;0;0.9;246 ;0 ;29
+1997 ;14 ;Humanoid;Crackers;inv_toucan_color4;0;2;0;100 ;65 ;0
+1998 ;6 ;Humanoid;Everliving Spore;spell_druid_wildmushroom_bloom;2;0;0;425 ;0 ;0
+1999 ;15 ;Humanoid;Cavern Moccasin;inv_jewelcrafting_jadeserpent;0;0;2;100 ;0 ;65
+1999 ;18 ;Humanoid;Cavern Moccasin;inv_jewelcrafting_jadeserpent;0;0.9;0.9;100 ;29 ;29
+1999 ;19 ;Humanoid;Cavern Moccasin;inv_jewelcrafting_jadeserpent;0.9;0;0.9;246 ;0 ;29
+1999 ;21 ;Humanoid;Cavern Moccasin;inv_jewelcrafting_jadeserpent;0.4;0.4;0.9;165 ;13 ;29
+2000 ;7 ;Humanoid;Young Venomfang;ability_hunter_serpentswiftness;0.9;0.9;0;246 ;29 ;0
+2000 ;18 ;Humanoid;Young Venomfang;ability_hunter_serpentswiftness;0;0.9;0.9;100 ;29 ;29
+2000 ;20 ;Humanoid;Young Venomfang;ability_hunter_serpentswiftness;0.4;0.9;0.4;165 ;29 ;13
+2001 ;3 ;Humanoid;Dibbler;creatureportrait_babyspider;0.5;0.5;0.5;181 ;16 ;16
+2001 ;7 ;Humanoid;Dibbler;creatureportrait_babyspider;0.9;0.9;0;246 ;29 ;0
+2001 ;12 ;Humanoid;Dibbler;creatureportrait_babyspider;0.9;0.4;0.4;246 ;13 ;13
+2001 ;13 ;Humanoid;Dibbler;creatureportrait_babyspider;0.5;0.5;0.5;181 ;16 ;16
+2001 ;17 ;Humanoid;Dibbler;creatureportrait_babyspider;0.9;0.9;0;246 ;29 ;0
+2001 ;22 ;Humanoid;Dibbler;creatureportrait_babyspider;0.9;0.4;0.4;246 ;13 ;13
+2004 ;7 ;Humanoid;Trashy;inv_pet_raccoon;0.9;0.9;0;246 ;29 ;0
+2017 ;4 ;Humanoid;Infinite Hatchling;inv_cloudserpent_egg_black;0;2;0;100 ;65 ;0
+2018 ;10 ;Humanoid;Paradox Spirit;inv_pet_pandarenelemental;0.4;0.9;0.4;165 ;29 ;13
+2022 ;13 ;Humanoid;Tylarr Gronnden;achievement_boss_highmaul_aggronguardian;0.5;0.5;0.5;181 ;16 ;16
+2035 ;17 ;Humanoid;Bloodbrood Whelpling;inv_pet_dkwhelplingblood;0.9;0.9;0;246 ;29 ;0
+2036 ;20 ;Humanoid;Frostbrood Whelpling;inv_pet_dkwhelplingfrost;0.4;0.9;0.4;165 ;29 ;13
+2037 ;18 ;Humanoid;Vilebrood Whelpling;inv_pet_dkwhelplingunholy;0;0.9;0.9;100 ;29 ;29
+2041 ;7 ;Humanoid;Pocket Cannon;ability_rogue_cannonballbarrage;0.9;0.9;0;246 ;29 ;0
+2042 ;18 ;Humanoid;Scraps;inv_weapon_crossbow_22;0;0.9;0.9;100 ;29 ;29
+2047 ;15 ;Humanoid;Ban-Fu, Cub of Ban-Lu;inv_tigergodcubmonk;0;0;2;100 ;0 ;65
+2049 ;12 ;Humanoid;Son of Skum;inv_misc_monsterscales_08;0.9;0.4;0.4;246 ;13 ;13
+2050 ;15 ;Humanoid;Orphaned Felbat;inv_felbatmount;0;0;2;100 ;0 ;65
+2051 ;11 ;Humanoid;Twilight;inv_shadowstalkerpantherpet;0.4;0.4;0.9;165 ;13 ;29
+2051 ;21 ;Humanoid;Twilight;inv_shadowstalkerpantherpet;0.4;0.4;0.9;165 ;13 ;29
+2057 ;5 ;Humanoid;Tricorne;achievement_rat;0;0;2;100 ;0 ;65
+2057 ;11 ;Humanoid;Tricorne;achievement_rat;0.4;0.4;0.9;165 ;13 ;29
+2057 ;18 ;Humanoid;Tricorne;achievement_rat;0;0.9;0.9;100 ;29 ;29
+2058 ;7 ;Humanoid;Foe Reaper 0.9;inv_misc_gear_03;0.9;0.9;0;246 ;29 ;0
+2058 ;10 ;Humanoid;Foe Reaper 0.9;inv_misc_gear_03;0.4;0.9;0.4;165 ;29 ;13
+2058 ;21 ;Humanoid;Foe Reaper 0.9;inv_misc_gear_03;0.4;0.4;0.9;165 ;13 ;29
+2063 ;4 ;Humanoid;Sneaky Marmot;achievement_brewery_1;0;2;0;100 ;65 ;0
+2063 ;5 ;Humanoid;Sneaky Marmot;achievement_brewery_1;0;0;2;100 ;0 ;65
+2063 ;12 ;Humanoid;Sneaky Marmot;achievement_brewery_1;0.9;0.4;0.4;246 ;13 ;13
+2064 ;8 ;Humanoid;Mining Monkey;inv_pet_monkey;0;0.9;0.9;100 ;29 ;29
+2065 ;5 ;Humanoid;Dig Rat;inv_pet_mouse;0;0;2;100 ;0 ;65
+2065 ;13 ;Humanoid;Dig Rat;inv_pet_mouse;0.5;0.5;0.5;181 ;16 ;16
+2065 ;14 ;Humanoid;Dig Rat;inv_pet_mouse;0;2;0;100 ;65 ;0
+2071 ;17 ;Humanoid;Bronze Proto-Whelp;spell_warrior_dragoncharge;0.9;0.9;0;246 ;29 ;0
+2072 ;3 ;Humanoid;Ageless Bronze Drake;inv_misc_head_dragon_bronze;0.5;0.5;0.5;181 ;16 ;16
+2077 ;8 ;Humanoid;Ghost Shark;inv_pet_babyshark;0;0.9;0.9;100 ;29 ;29
+2078 ;6 ;Humanoid;Tinytron;achievement_dungeon_blackwingdescent_darkironcouncil;2;0;0;425 ;0 ;0
+2079 ;7 ;Humanoid;Discarded Experiment;achievement_dungeon_blackwingdescent_raid_maloriak;0.9;0.9;0;246 ;29 ;0
+2079 ;12 ;Humanoid;Discarded Experiment;achievement_dungeon_blackwingdescent_raid_maloriak;0.9;0.4;0.4;246 ;13 ;13
+2079 ;17 ;Humanoid;Discarded Experiment;achievement_dungeon_blackwingdescent_raid_maloriak;0.9;0.9;0;246 ;29 ;0
+2079 ;22 ;Humanoid;Discarded Experiment;achievement_dungeon_blackwingdescent_raid_maloriak;0.9;0.4;0.4;246 ;13 ;13
+2080 ;3 ;Humanoid;Rattlejaw;ability_creature_cursed_03;0.5;0.5;0.5;181 ;16 ;16
+2080 ;13 ;Humanoid;Rattlejaw;ability_creature_cursed_03;0.5;0.5;0.5;181 ;16 ;16
+2081 ;18 ;Humanoid;Twilight Clutch-Sister;achievement_dungeon_bastionoftwilight_twilightascendantcouncil;0;0.9;0.9;100 ;29 ;29
+2081 ;20 ;Humanoid;Twilight Clutch-Sister;achievement_dungeon_bastionoftwilight_twilightascendantcouncil;0.4;0.9;0.4;165 ;29 ;13
+2081 ;21 ;Humanoid;Twilight Clutch-Sister;achievement_dungeon_bastionoftwilight_twilightascendantcouncil;0.4;0.4;0.9;165 ;13 ;29
+2082 ;5 ;Humanoid;Bound Stream;shaman_pvp_ripplingwaters;0;0;2;100 ;0 ;65
+2082 ;11 ;Humanoid;Bound Stream;shaman_pvp_ripplingwaters;0.4;0.4;0.9;165 ;13 ;29
+2082 ;15 ;Humanoid;Bound Stream;shaman_pvp_ripplingwaters;0;0;2;100 ;0 ;65
+2082 ;21 ;Humanoid;Bound Stream;shaman_pvp_ripplingwaters;0.4;0.4;0.9;165 ;13 ;29
+2083 ;4 ;Humanoid;Faceless Minion;achievement_boss_heraldvolazj;0;2;0;100 ;65 ;0
+2083 ;8 ;Humanoid;Faceless Minion;achievement_boss_heraldvolazj;0;0.9;0.9;100 ;29 ;29
+2083 ;9 ;Humanoid;Faceless Minion;achievement_boss_heraldvolazj;0.9;0;0.9;246 ;0 ;29
+2083 ;12 ;Humanoid;Faceless Minion;achievement_boss_heraldvolazj;0.9;0.4;0.4;246 ;13 ;13
+2084 ;8 ;Humanoid;Zephyrian Prince;achievement_dungeon_thevortexpinnacle_lordertan;0;0.9;0.9;100 ;29 ;29
+2085 ;5 ;Humanoid;Drafty;inv_elemental_primal_air;0;0;2;100 ;0 ;65
+2086 ;4 ;Humanoid;Blazehound;inv_bone_skull_04;0;2;0;100 ;65 ;0
+2086 ;10 ;Humanoid;Blazehound;inv_bone_skull_04;0.4;0.9;0.4;165 ;29 ;13
+2086 ;11 ;Humanoid;Blazehound;inv_bone_skull_04;0.4;0.4;0.9;165 ;13 ;29
+2086 ;14 ;Humanoid;Blazehound;inv_bone_skull_04;0;2;0;100 ;65 ;0
+2086 ;20 ;Humanoid;Blazehound;inv_bone_skull_04;0.4;0.9;0.4;165 ;29 ;13
+2086 ;21 ;Humanoid;Blazehound;inv_bone_skull_04;0.4;0.4;0.9;165 ;13 ;29
+2087 ;18 ;Humanoid;Cinderweb Recluse;spell_fire_twilightnova;0;0.9;0.9;100 ;29 ;29
+2088 ;5 ;Humanoid;Surger;achievement_boss_lordanthricyst;0;0;2;100 ;0 ;65
+2088 ;9 ;Humanoid;Surger;achievement_boss_lordanthricyst;0.9;0;0.9;246 ;0 ;29
+2089 ;10 ;Humanoid;Infernal Pyreclaw;inv_mount_hordescorpiong;0.4;0.9;0.4;165 ;29 ;13
+2089 ;11 ;Humanoid;Infernal Pyreclaw;inv_mount_hordescorpiong;0.4;0.4;0.9;165 ;13 ;29
+2089 ;12 ;Humanoid;Infernal Pyreclaw;inv_mount_hordescorpiong;0.9;0.4;0.4;246 ;13 ;13
+2089 ;20 ;Humanoid;Infernal Pyreclaw;inv_mount_hordescorpiong;0.4;0.9;0.4;165 ;29 ;13
+2089 ;21 ;Humanoid;Infernal Pyreclaw;inv_mount_hordescorpiong;0.4;0.4;0.9;165 ;13 ;29
+2089 ;22 ;Humanoid;Infernal Pyreclaw;inv_mount_hordescorpiong;0.9;0.4;0.4;246 ;13 ;13
+2090 ;14 ;Humanoid;Faceless Mindlasher;achievment_boss_yorsahj;0;2;0;100 ;65 ;0
+2090 ;18 ;Humanoid;Faceless Mindlasher;achievment_boss_yorsahj;0;0.9;0.9;100 ;29 ;29
+2090 ;20 ;Humanoid;Faceless Mindlasher;achievment_boss_yorsahj;0.4;0.9;0.4;165 ;29 ;13
+2090 ;22 ;Humanoid;Faceless Mindlasher;achievment_boss_yorsahj;0.9;0.4;0.4;246 ;13 ;13
+2091 ;8 ;Humanoid;Corrupted Blood;ability_deathwing_bloodcorruption_death;0;0.9;0.9;100 ;29 ;29
+2091 ;18 ;Humanoid;Corrupted Blood;ability_deathwing_bloodcorruption_death;0;0.9;0.9;100 ;29 ;29
+2092 ;7 ;Humanoid;Unstable Tendril;ability_deathwing_grasping_tendrils;0.9;0.9;0;246 ;29 ;0
+2092 ;17 ;Humanoid;Unstable Tendril;ability_deathwing_grasping_tendrils;0.9;0.9;0;246 ;29 ;0
+2093 ;4 ;Humanoid;Amalgam of Destruction;achievement_firelandsraid_balorocthegatekeeper;0;2;0;100 ;65 ;0
+2093 ;14 ;Humanoid;Amalgam of Destruction;achievement_firelandsraid_balorocthegatekeeper;0;2;0;100 ;65 ;0
+2113 ;18 ;Humanoid;Felclaw Marsuul;inv_feasel_fel;0;0.9;0.9;100 ;29 ;29
+2115 ;12 ;Humanoid;Cross Gazer;warlock_summon_beholder;0.9;0.4;0.4;246 ;13 ;13
+2116 ;9 ;Humanoid;Orphaned Marsuul;inv_feasel_purple;0.9;0;0.9;246 ;0 ;29
+2117 ;4 ;Humanoid;Fel Lasher;inv_misc_herb_fellotus;0;2;0;100 ;65 ;0
+2118 ;6 ;Humanoid;Docile Skyfin;inv_manaraymount_magenta;2;0;0;425 ;0 ;0
+2119 ;4 ;Humanoid;Fel-Afflicted Skyfin;inv_manaraymount_blackfel;0;2;0;100 ;65 ;0
+2120 ;15 ;Humanoid;Grasping Manifestation;ability_warlock_soulsiphon;0;0;2;100 ;0 ;65
+2121 ;14 ;Humanoid;Fossorial Bile Larva;ability_demonhunter_demonspikes2;0;2;0;100 ;65 ;0
+2122 ;7 ;Humanoid;Antoran Bile Larva;ability_demonhunter_demonspikes2;0.9;0.9;0;246 ;29 ;0
+2122 ;10 ;Humanoid;Antoran Bile Larva;ability_demonhunter_demonspikes2;0.4;0.9;0.4;165 ;29 ;13
+2122 ;18 ;Humanoid;Antoran Bile Larva;ability_demonhunter_demonspikes2;0;0.9;0.9;100 ;29 ;29
+2122 ;20 ;Humanoid;Antoran Bile Larva;ability_demonhunter_demonspikes2;0.4;0.9;0.4;165 ;29 ;13
+2123 ;6 ;Humanoid;Bile Larva;ability_demonhunter_demonspikes2;2;0;0;425 ;0 ;0
+2123 ;7 ;Humanoid;Bile Larva;ability_demonhunter_demonspikes2;0.9;0.9;0;246 ;29 ;0
+2123 ;9 ;Humanoid;Bile Larva;ability_demonhunter_demonspikes2;0.9;0;0.9;246 ;0 ;29
+2123 ;12 ;Humanoid;Bile Larva;ability_demonhunter_demonspikes2;0.9;0.4;0.4;246 ;13 ;13
+2124 ;13 ;Humanoid;Bilescourge;inv_leatherworking_fiendishleather;0.5;0.5;0.5;181 ;16 ;16
+2124 ;14 ;Humanoid;Bilescourge;inv_leatherworking_fiendishleather;0;2;0;100 ;65 ;0
+2124 ;16 ;Humanoid;Bilescourge;inv_leatherworking_fiendishleather;2;0;0;425 ;0 ;0
+2124 ;17 ;Humanoid;Bilescourge;inv_leatherworking_fiendishleather;0.9;0.9;0;246 ;29 ;0
+2124 ;18 ;Humanoid;Bilescourge;inv_leatherworking_fiendishleather;0;0.9;0.9;100 ;29 ;29
+2124 ;21 ;Humanoid;Bilescourge;inv_leatherworking_fiendishleather;0.4;0.4;0.9;165 ;13 ;29
+2126 ;13 ;Humanoid;Antoran Bilescourge;inv_leatherworking_fiendishleather;0.5;0.5;0.5;181 ;16 ;16
+2126 ;15 ;Humanoid;Antoran Bilescourge;inv_leatherworking_fiendishleather;0;0;2;100 ;0 ;65
+2126 ;17 ;Humanoid;Antoran Bilescourge;inv_leatherworking_fiendishleather;0.9;0.9;0;246 ;29 ;0
+2126 ;19 ;Humanoid;Antoran Bilescourge;inv_leatherworking_fiendishleather;0.9;0;0.9;246 ;0 ;29
+2126 ;20 ;Humanoid;Antoran Bilescourge;inv_leatherworking_fiendishleather;0.4;0.9;0.4;165 ;29 ;13
+2126 ;21 ;Humanoid;Antoran Bilescourge;inv_leatherworking_fiendishleather;0.4;0.4;0.9;165 ;13 ;29
+2126 ;22 ;Humanoid;Antoran Bilescourge;inv_leatherworking_fiendishleather;0.9;0.4;0.4;246 ;13 ;13
+2127 ;9 ;Humanoid;Flickering Argunite;inv_pet_scorchedstone;0.9;0;0.9;246 ;0 ;29
+2128 ;3 ;Humanoid;Warpstalker Runt;ability_hunter_pet_warpstalker;0.5;0.5;0.5;181 ;16 ;16
+2128 ;8 ;Humanoid;Warpstalker Runt;ability_hunter_pet_warpstalker;0;0.9;0.9;100 ;29 ;29
+2128 ;13 ;Humanoid;Warpstalker Runt;ability_hunter_pet_warpstalker;0.5;0.5;0.5;181 ;16 ;16
+2128 ;18 ;Humanoid;Warpstalker Runt;ability_hunter_pet_warpstalker;0;0.9;0.9;100 ;29 ;29
+2129 ;3 ;Humanoid;Voidstalker Runt;ability_hunter_pet_warpstalker;0.5;0.5;0.5;181 ;16 ;16
+2129 ;8 ;Humanoid;Voidstalker Runt;ability_hunter_pet_warpstalker;0;0.9;0.9;100 ;29 ;29
+2129 ;13 ;Humanoid;Voidstalker Runt;ability_hunter_pet_warpstalker;0.5;0.5;0.5;181 ;16 ;16
+2129 ;18 ;Humanoid;Voidstalker Runt;ability_hunter_pet_warpstalker;0;0.9;0.9;100 ;29 ;29
+2130 ;3 ;Humanoid;Void Shardling;spell_arcane_blast_nightborne;0.5;0.5;0.5;181 ;16 ;16
+2130 ;5 ;Humanoid;Void Shardling;spell_arcane_blast_nightborne;0;0;2;100 ;0 ;65
+2130 ;6 ;Humanoid;Void Shardling;spell_arcane_blast_nightborne;2;0;0;425 ;0 ;0
+2130 ;7 ;Humanoid;Void Shardling;spell_arcane_blast_nightborne;0.9;0.9;0;246 ;29 ;0
+2130 ;8 ;Humanoid;Void Shardling;spell_arcane_blast_nightborne;0;0.9;0.9;100 ;29 ;29
+2130 ;10 ;Humanoid;Void Shardling;spell_arcane_blast_nightborne;0.4;0.9;0.4;165 ;29 ;13
+2130 ;11 ;Humanoid;Void Shardling;spell_arcane_blast_nightborne;0.4;0.4;0.9;165 ;13 ;29
+2131 ;13 ;Humanoid;Arcane Gorger;inv_elemental_mote_mana;0.5;0.5;0.5;181 ;16 ;16
+2131 ;15 ;Humanoid;Arcane Gorger;inv_elemental_mote_mana;0;0;2;100 ;0 ;65
+2131 ;16 ;Humanoid;Arcane Gorger;inv_elemental_mote_mana;2;0;0;425 ;0 ;0
+2131 ;20 ;Humanoid;Arcane Gorger;inv_elemental_mote_mana;0.4;0.9;0.4;165 ;29 ;13
+2131 ;21 ;Humanoid;Arcane Gorger;inv_elemental_mote_mana;0.4;0.4;0.9;165 ;13 ;29
+2132 ;13 ;Humanoid;Felcrazed Wyrm;inv_elemental_mote_mana;0.5;0.5;0.5;181 ;16 ;16
+2132 ;14 ;Humanoid;Felcrazed Wyrm;inv_elemental_mote_mana;0;2;0;100 ;65 ;0
+2132 ;17 ;Humanoid;Felcrazed Wyrm;inv_elemental_mote_mana;0.9;0.9;0;246 ;29 ;0
+2132 ;20 ;Humanoid;Felcrazed Wyrm;inv_elemental_mote_mana;0.4;0.9;0.4;165 ;29 ;13
+2132 ;21 ;Humanoid;Felcrazed Wyrm;inv_elemental_mote_mana;0.4;0.4;0.9;165 ;13 ;29
+2133 ;3 ;Humanoid;Pygmy Marsuul;inv_feasel_blue;0.5;0.5;0.5;181 ;16 ;16
+2133 ;15 ;Humanoid;Pygmy Marsuul;inv_feasel_blue;0;0;2;100 ;0 ;65
+2133 ;17 ;Humanoid;Pygmy Marsuul;inv_feasel_blue;0.9;0.9;0;246 ;29 ;0
+2133 ;20 ;Humanoid;Pygmy Marsuul;inv_feasel_blue;0.4;0.9;0.4;165 ;29 ;13
+2133 ;21 ;Humanoid;Pygmy Marsuul;inv_feasel_blue;0.4;0.4;0.9;165 ;13 ;29
+2133 ;22 ;Humanoid;Pygmy Marsuul;inv_feasel_blue;0.9;0.4;0.4;246 ;13 ;13
+2134 ;13 ;Humanoid;Skyfin Juvenile;inv_manaraymount_blue;0.5;0.5;0.5;181 ;16 ;16
+2134 ;18 ;Humanoid;Skyfin Juvenile;inv_manaraymount_blue;0;0.9;0.9;100 ;29 ;29
+2134 ;19 ;Humanoid;Skyfin Juvenile;inv_manaraymount_blue;0.9;0;0.9;246 ;0 ;29
+2134 ;20 ;Humanoid;Skyfin Juvenile;inv_manaraymount_blue;0.4;0.9;0.4;165 ;29 ;13
+2134 ;21 ;Humanoid;Skyfin Juvenile;inv_manaraymount_blue;0.4;0.4;0.9;165 ;13 ;29
+2134 ;22 ;Humanoid;Skyfin Juvenile;inv_manaraymount_blue;0.9;0.4;0.4;246 ;13 ;13
+2135 ;4 ;Humanoid;Rebellious Imp;ability_warlock_impoweredimp;0;2;0;100 ;65 ;0
+2135 ;8 ;Humanoid;Rebellious Imp;ability_warlock_impoweredimp;0;0.9;0.9;100 ;29 ;29
+2135 ;10 ;Humanoid;Rebellious Imp;ability_warlock_impoweredimp;0.4;0.9;0.4;165 ;29 ;13

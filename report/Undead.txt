@@ -1,0 +1,19 @@
+[B]Undead [ability]Shadow Slash[/ability]|[ability]Absorb[/ability]|[ability]Siphon Life[/ability]|[ability]Arcane Explosion[/ability]|[ability]Bone Prison[/ability]|[ability]Curse of Doom[/ability][/B]
+[list]
+[*]425/0/0
+[list]
+[*][pet]Tiny Apparition[/pet] H/H (6)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Tiny Apparition[/pet] B/B (3)
+[/list]
+[*]1806/276/228
+[list]
+[*][pet]Lost of Lordaeron[/pet] H/H (6)
+[/list]
+[*]1563/293/244
+[list]
+[*][pet]Lost of Lordaeron[/pet] B/B (3)
+[/list]
+[/list]

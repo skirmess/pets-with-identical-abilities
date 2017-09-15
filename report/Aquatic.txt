@@ -76,6 +76,23 @@
 [/list]
 [B]Aquatic [ability]Rip[/ability]|[ability]Claw[/ability]|[ability]Spiny Carapace[/ability]|[ability]Shell Shield[/ability]|[ability]Dive[/ability]|[ability]Blood in the Water[/ability][/B]
 [list]
+[*]425/0/0
+[list]
+[*][pet]Juvenile Scuttleback[/pet] H/H (6)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Juvenile Scuttleback[/pet] H/S (9)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Coralback Fiddler[/pet] P/B (10)
+[*][pet]Juvenile Scuttleback[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Coralback Fiddler[/pet] S/B (11)
+[/list]
 [*]1644/293/244
 [list]
 [*][pet]Fen Crab[/pet] H/H (6)
@@ -91,6 +108,15 @@
 [*][pet]Ironclaw Scuttler[/pet] P/P (4)
 [*][pet]Kelp Scuttler[/pet] P/P (4)
 [*][pet]Zangar Crawler[/pet] P/P (4)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Coralback Fiddler[/pet] P/S (8)
+[*][pet]Juvenile Scuttleback[/pet] P/S (8)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Coralback Fiddler[/pet] S/S (5)
 [/list]
 [/list]
 [B]Aquatic [ability]Bite[/ability]|[ability]Grasp[/ability]|[ability]Shell Shield[/ability]|[ability]Healing Wave[/ability]|[ability]Headbutt[/ability]|[ability]Powerball[/ability][/B]
@@ -217,6 +243,22 @@
 [/list]
 [B]Aquatic [ability]Water Jet[/ability]|[ability]Poison Spit[/ability]|[ability]Healing Wave[/ability]|[ability]Cleansing Rain[/ability]|[ability]Soothe[/ability]|[ability]Pump[/ability][/B]
 [list]
+[*]246/13/13
+[list]
+[*][pet]Spring Strider[/pet] H/B (12)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Spring Strider[/pet] H/S (9)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Spring Strider[/pet] B/B (3)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Spring Strider[/pet] S/B (11)
+[/list]
 [*]1546/257/289
 [list]
 [*][pet]Dancing Water Skimmer[/pet] H/B (12)
@@ -253,5 +295,51 @@
 [*]1319/228/374
 [list]
 [*][pet]Aqua Strider[/pet] S/S (5)
+[/list]
+[/list]
+[B]Aquatic [ability]Deep Bite[/ability]|[ability]Grasp[/ability]|[ability]Dodge[/ability]|[ability]Clobber[/ability]|[ability]Dive[/ability]|[ability]Pump[/ability][/B]
+[list]
+[*]246/13/13
+[list]
+[*][pet]Lagan[/pet] H/B (12)
+[/list]
+[*]1546/289/260
+[list]
+[*][pet]Slithershock Elver[/pet] H/P (7)
+[/list]
+[*]1546/273/273
+[list]
+[*][pet]Slithershock Elver[/pet] H/B (12)
+[/list]
+[*]1481/276/276
+[list]
+[*][pet]Slithershock Elver[/pet] B/B (3)
+[/list]
+[*]1465/273/289
+[list]
+[*][pet]Slithershock Elver[/pet] S/B (11)
+[/list]
+[*]1400/325/260
+[list]
+[*][pet]Slithershock Elver[/pet] P/P (4)
+[/list]
+[*]1400/260/325
+[list]
+[*][pet]Slithershock Elver[/pet] S/S (5)
+[/list]
+[/list]
+[B]Aquatic [ability]Water Jet[/ability]|[ability]Tongue Lash[/ability]|[ability]Mudslide[/ability]|[ability]Swarm of Flies[/ability]|[ability]Bubble[/ability]|[ability]Pump[/ability][/B]
+[list]
+[*]246/29/0
+[list]
+[*][pet]Benax[/pet] H/P (7)
+[/list]
+[*]1628/257/273
+[list]
+[*][pet]Mud Jumper[/pet] H/B (12)
+[/list]
+[*]1563/260/276
+[list]
+[*][pet]Mud Jumper[/pet] B/B (3)
 [/list]
 [/list]

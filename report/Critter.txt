@@ -11,6 +11,26 @@
 [/list]
 [B]Critter [ability]Scratch[/ability]|[ability]Flurry[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Dodge[/ability]|[ability]Burrow[/ability]|[ability]Stampede[/ability][/B]
 [list]
+[*]246/29/0
+[list]
+[*][pet]Olivetail Hare[/pet] H/P (7)
+[/list]
+[*]246/13/13
+[list]
+[*][pet]Olivetail Hare[/pet] H/B (12)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Olivetail Hare[/pet] H/S (9)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Olivetail Hare[/pet] B/B (3)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Olivetail Hare[/pet] S/B (11)
+[/list]
 [*]1546/289/260
 [list]
 [*][pet]Grasslands Cottontail[/pet] H/P (7)
@@ -109,13 +129,29 @@
 [*][pet]Tolai Hare[/pet] S/S (5)
 [*][pet]Tolai Hare Pup[/pet] S/S (5)
 [/list]
+[*]100/0/65
+[list]
+[*][pet]Olivetail Hare[/pet] S/S (5)
+[/list]
 [/list]
 [B]Critter [ability]Ooze Touch[/ability]|[ability]Absorb[/ability]|[ability]Acidic Goo[/ability]|[ability]Shell Shield[/ability]|[ability]Dive[/ability]|[ability]Headbutt[/ability][/B]
 [list]
+[*]246/29/0
+[list]
+[*][pet]Mudshell Conch[/pet] H/P (7)
+[/list]
+[*]246/13/13
+[list]
+[*][pet]Mudshell Conch[/pet] H/B (12)
+[/list]
 [*]1969/276/195
 [list]
 [*][pet]Scooter the Snail[/pet] H/H (6)
 [*][pet]Shimmershell Snail[/pet] H/H (6)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Mudshell Conch[/pet] B/B (3)
 [/list]
 [*]1790/305/195
 [list]
@@ -329,6 +365,26 @@
 [/list]
 [B]Critter [ability]Hoof[/ability]|[ability]Stampede[/ability]|[ability]Tranquility[/ability]|[ability]Nature's Ward[/ability]|[ability]Bleat[/ability]|[ability]Headbutt[/ability][/B]
 [list]
+[*]246/29/0
+[list]
+[*][pet]Rescued Fawn[/pet] H/P (7)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Gleamhoof Fawn[/pet] H/S (9)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Gleamhoof Fawn[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Gleamhoof Fawn[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Gleamhoof Fawn[/pet] S/B (11)
+[/list]
 [*]1546/257/289
 [list]
 [*][pet]Fawn[/pet] H/B (12)
@@ -364,6 +420,14 @@
 [*]1384/257/322
 [list]
 [*][pet]Gazelle Fawn[/pet] S/B (11)
+[/list]
+[*]100/65/0
+[list]
+[*][pet]Gleamhoof Fawn[/pet] P/P (4)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Gleamhoof Fawn[/pet] S/S (5)
 [/list]
 [/list]
 [B]Critter [ability]Scratch[/ability]|[ability]Woodchipper[/ability]|[ability]Adrenaline Rush[/ability]|[ability]Crouch[/ability]|[ability]Nut Barrage[/ability]|[ability]Stampede[/ability][/B]
@@ -716,6 +780,10 @@
 [/list]
 [B]Critter [ability]Bite[/ability]|[ability]Tongue Lash[/ability]|[ability]Survival[/ability]|[ability]Counterstrike[/ability]|[ability]Poison Fang[/ability]|[ability]Powerball[/ability][/B]
 [list]
+[*]181/16/16
+[list]
+[*][pet]Auburn Ringtail[/pet] B/B (3)
+[/list]
 [*]1481/276/276
 [list]
 [*][pet]Bandicoon[/pet] B/B (3)
@@ -742,6 +810,14 @@
 [*][pet]Bandicoon[/pet] S/S (5)
 [*][pet]Bandicoon Kit[/pet] S/S (5)
 [*][pet]Shy Bandicoon[/pet] S/S (5)
+[/list]
+[*]100/29/29
+[list]
+[*][pet]Auburn Ringtail[/pet] P/S (8)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Auburn Ringtail[/pet] S/S (5)
 [/list]
 [/list]
 [B]Critter [ability]Hoof[/ability]|[ability]Chew[/ability]|[ability]Comeback[/ability]|[ability]Soothe[/ability]|[ability]Bleat[/ability]|[ability]Stampede[/ability][/B]
@@ -802,5 +878,36 @@
 [*]1197/370/249
 [list]
 [*][pet]Red Cricket[/pet] P/S (8)
+[/list]
+[/list]
+[B]Critter [ability]Bite[/ability]|[ability]Flurry[/ability]|[ability]Burrow[/ability]|[ability]Crouch[/ability]|[ability]Feign Death[/ability]|[ability]Survival[/ability][/B]
+[list]
+[*]246/29/0
+[list]
+[*][pet]Pygmy Marsuul[/pet] H/P (7)
+[/list]
+[*]246/13/13
+[list]
+[*][pet]Pygmy Marsuul[/pet] H/B (12)
+[/list]
+[*]246/0/29
+[list]
+[*][pet]Orphaned Marsuul[/pet] H/S (9)
+[/list]
+[*]181/16/16
+[list]
+[*][pet]Pygmy Marsuul[/pet] B/B (3)
+[/list]
+[*]165/29/13
+[list]
+[*][pet]Pygmy Marsuul[/pet] P/B (10)
+[/list]
+[*]165/13/29
+[list]
+[*][pet]Pygmy Marsuul[/pet] S/B (11)
+[/list]
+[*]100/0/65
+[list]
+[*][pet]Pygmy Marsuul[/pet] S/S (5)
 [/list]
 [/list]

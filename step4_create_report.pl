@@ -1,62 +1,68 @@
-#!/usr/bin/perl -w
+#!/usr/bin/perl
 
 use strict;
+use warnings;
+
+use Cwd qw(abs_path);
+use FindBin;
+#use lib abs_path("$FindBin::Bin/perl/share/perl5");
+
+use JSON qw( decode_json );
 
 use Digest::MD5 qw(md5 md5_hex md5_base64);
 
 my @spells;
-my %spellSetName;
+my %spell_set_name;
+my @species;
 
-opendir(D, "species") or die "$!";
-while (my $dent = readdir(D)) {
+opendir(my $species_fh, "species") or die "$!";
+while (my $dent = readdir($species_fh)) {
 	next if ( ( $dent eq '.' ) or ( $dent eq '..') );
-	next if ( $dent eq '.svn' );
+	next if ( $dent eq '.git' );
 
-	open(F, "species/$dent") or die "$!";
-	my $x = "";
-	while (my $line = <F>) {
-		chomp $line;
-		$x .= $line;
+	open(my $fh, "<", "species/$dent") or die "$!";
+	my $species_json;
+	{
+		local $/;
+		$species_json = <$fh>;
+	}
+	close($fh) or die "$!";
+
+	my $species     = decode_json($species_json);
+	my $name        = $species->{name};
+	my $species_id  = $species->{speciesId};
+	$species[$dent] = $species;
+
+	die "File species/$dent is for species $species_id" if ( $dent ne $species_id );
+
+	my @spells_used;
+	ABILITY:
+	for my $ability (@{ $species->{abilities} }) {
+		next ABILITY if ( $ability->{slot} == -1 );
+
+		$spells_used[$ability->{order}] = $ability->{name};
 	}
 
-	close(F) or die "$!";
+	die "expected 6 spells but got ".scalar @spells_used if ( @spells_used != 6 );
 
-	my $species = -1;
-	my $name = "-1";
-	if ($x =~ m/"speciesId":(\d+),/) {
-		$species = $1;
-	}
-	if ($x =~ m/"name":"([^"]+)",/) {
-		$name = $1;
+	my $spell_set_name;
+	for my $i (0, 3, 1, 4, 2, 5) {
+		die "spell $i not defined" if ( !$spells_used[$i] );
+
+		$spell_set_name .= '|[ability]'.$spells_used[$i].'[/ability]';
 	}
 
-	my $spellSetName = "";
+	$spell_set_name =~ s{ ^ [|] }{}xsm;
+
 	my $ctx = Digest::MD5->new;
+	$ctx->add($spell_set_name);
 
-	if ( $x =~ m/\[(.*)\]/ ) {
-		my $spells = $1;
-		my @spells;
-		foreach my $s (split(/[}][,][{]/, $spells)) {
-			$s =~ s/^{//;
-			$s =~ s/}$//;
-			push(@spells, "$s");
-		}
-
-		foreach my $s (sort(@spells)) {
-			if ( $s =~ m/"name":"([^"]+)"/ ) {
-				$spellSetName .= '|[ability]'.$1.'[/ability]';
-			}
-			$ctx->add("$s\n");
-		}
-	}
 	my $digest = $ctx->hexdigest;
 
 	$spells[$dent] = $digest;
-
-	$spellSetName =~ s/^\|//;
-	$spellSetName{$digest} = $spellSetName;
+	$spell_set_name{$digest} = $spell_set_name;
 }
-closedir(D) or die "$!";
+closedir($species_fh) or die "$!";
 
 my %classic_sort = (
 	Aquatic => [
@@ -85,7 +91,7 @@ my %classic_sort = (
 		qr{Hoof.*Chew.*Comeback.*Soothe.*Headbutt.*Stampede}sm,
 		qr{Claw.*Quick Attack.*Screech.*Triple Snap.*Comeback.*Ravage}sm,
 	],
-	Critter	=> [
+	Critter => [
 		qr{Bite.*Comeback.*Perk Up.*Buried Treasure.*Burrow.*Trample}sm,
 		qr{Scratch.*Flurry.*Adrenaline Rush.*Dodge.*Burrow.*Stampede}sm,
 		qr{Ooze Touch.*Absorb.*Acidic Goo.*Shell Shield.*Dive.*Headbutt}sm,
@@ -148,16 +154,42 @@ my %classic_sort = (
 
 my %pets;
 
-my %seenPetById;
-my %seenPetByName;
-open(F, "BreedsPerPet.csv") or die "$!";
-while (my $line = <F>) {
+my %pet_types = (
+	0 => 'Humanoid',
+	1 => 'Dragonkin',
+	2 => 'Flying',
+	3 => 'Undead',
+	4 => 'Critter',
+	5 => 'Magic',
+	6 => 'Elemental',
+	7 => 'Beast',
+	8 => 'Aquatic',
+	9 => 'Mechanical',
+);
+
+my %seen_pet_by_id;
+my %seen_pet_by_name;
+open(my $fh, "<", "BreedsPerPet.csv") or die "$!";
+while (my $line = <$fh>) {
 	chomp $line;
 	next if ($line !~ m/^\d/);
-	my ($species, $breed, $type, $name, undef, undef, undef, undef, $health, $power, $speed) = split(/\s*;/, $line);
+	my ($species, $breed, undef, undef, undef, undef, undef, undef, $health, $power, $speed) = split(/\s*;/, $line);
+
+	die "No species file for species $species" if ( !defined $species[$species] );
+
+	my $type = $species[$species]->{petTypeId};
+
+	$type = $pet_types{$type};
+	if ( !defined $type) {
+		die "Unknown pet type id '$species[$species]->{petTypeId}'";
+	}
+
+	my $name = $species[$species]->{name};
+
 	if ( $breed > 12 ) {
 		$breed = $breed - 10;
 	}
+
 	if ( $name eq "Moonkin Hatchling" ) {
 		if ( $species eq "296" ) {
 			$name = "$name (Alliance)";
@@ -167,41 +199,45 @@ while (my $line = <F>) {
 		}
 	}
 
-	if ( defined $seenPetById{$species} ) {
-		if ( $name ne $seenPetById{$species} ) {
-			die "different name ($name, $seenPetById{$species} for same species ($species)";
-		}
-	}
-	else {
-		$seenPetById{$species} = $name;
+	if ( $name eq '' ) {
+		die "no name defined for species $species";
 	}
 
-	if ( defined $seenPetByName{$name} ) {
-		if ( $species ne $seenPetByName{$name} ) {
-			die "different species ($species, $seenPetByName{$name}) for same name ($name)";
+	if ( defined $seen_pet_by_id{$species} ) {
+		if ( $name ne $seen_pet_by_id{$species} ) {
+			die "different name ($name, $seen_pet_by_id{$species} for same species ($species)";
 		}
 	}
 	else {
-		$seenPetByName{$name} = $species;
+		$seen_pet_by_id{$species} = $name;
+	}
+
+	if ( defined $seen_pet_by_name{$name} ) {
+		if ( $species ne $seen_pet_by_name{$name} ) {
+			die "different species ($species, $seen_pet_by_name{$name}) for same name ($name)";
+		}
+	}
+	else {
+		$seen_pet_by_name{$name} = $species;
 	}
 
 	$pets{$type}{$spells[$species]}{"name"}{$species} += 1;
 	$pets{$type}{$spells[$species]}{"stat"}{$health.'/'.$power.'/'.$speed}{$name} = $breed;
 }
-close(F) or die "$!";
+close($fh) or die "$!";
 
 foreach my $type (sort keys %pets) {
-	open(FT, ">report/$type.txt") or die "$!";
+	open($fh, ">", "report/$type.txt") or die "$!";
 	my %ft_content;
-	foreach my $spellSet (keys %{ $pets{$type} } ) {
+	foreach my $spell_set (sort keys %{ $pets{$type} } ) {
 
 		my $ft_content = '';
-		my $count = keys %{ $pets{$type}{$spellSet}{"name"} };
+		my $count = keys %{ $pets{$type}{$spell_set}{"name"} };
 		if ( $count > 1 ) {
 
 			my $multipleBreeds = 0;
-			foreach my $species (keys %{ $pets{$type}{$spellSet}{"name"} }) {
-				if ( $pets{$type}{$spellSet}{"name"}{$species} > 1 ) {
+			foreach my $species (keys %{ $pets{$type}{$spell_set}{"name"} }) {
+				if ( $pets{$type}{$spell_set}{"name"}{$species} > 1 ) {
 					$multipleBreeds = 1;
 				}
 			}
@@ -209,16 +245,16 @@ foreach my $type (sort keys %pets) {
 				next;
 			}
 
-			$ft_content .= "[B]$type $spellSetName{$spellSet}".'[/B]'."\n";
+			$ft_content .= "[B]$type $spell_set_name{$spell_set}".'[/B]'."\n";
 			$ft_content .= '[list]'."\n";
-			foreach my $kS ( reverse sort keys %{ $pets{$type}{$spellSet}{"stat"} } ) {
+			foreach my $kS ( reverse sort keys %{ $pets{$type}{$spell_set}{"stat"} } ) {
 				$ft_content .= '[*]'."$kS\n";
 				$ft_content .= '[list]'."\n";
 				my $lastBreed = undef;
 				my $lastName;
-				foreach my $kN ( sort keys %{ $pets{$type}{$spellSet}{"stat"}{$kS} } ) {
+				foreach my $kN ( sort keys %{ $pets{$type}{$spell_set}{"stat"}{$kS} } ) {
 					$ft_content .= '[*][pet]'.$kN.'[/pet]';
-					my $breed = $pets{$type}{$spellSet}{stat}{$kS}{$kN};
+					my $breed = $pets{$type}{$spell_set}{stat}{$kS}{$kN};
 					my $breedName = "";
 					if ( $breed == 3 ) {
 						$breedName = "B/B";
@@ -279,11 +315,10 @@ foreach my $type (sort keys %pets) {
 			return -1 if $a =~ m{$r};
 			return  1 if $b =~ m{$r};
 		}
-
-		die q{DEBUG: don't know how to sort};
-		# return $a cmp $b;
+		return $a cmp $b;
 		} keys %ft_content) {
-		print FT $ft_content{$k};
+		print $fh $ft_content{$k};
 	}
-	close(FT) or die "$!";
+	close($fh) or die "$!";
+
 }
