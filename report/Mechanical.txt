@@ -1,31 +1,3 @@
-[B]Mechanical [ability]Peck[/ability]|[ability]Batter[/ability]|[ability]Overtune[/ability]|[ability]Rebuild[/ability]|[ability]Supercharge[/ability]|[ability]Wind-Up[/ability][/B]
-[list]
-[*]1806/244/260
-[list]
-[*][pet]Robo-Chick[/pet] H/H (6)
-[/list]
-[*]1628/244/289
-[list]
-[*][pet]Robo-Chick[/pet] H/S (9)
-[/list]
-[*]1563/260/276
-[list]
-[*][pet]Robo-Chick[/pet] B/B (3)
-[/list]
-[*]1546/273/273
-[list]
-[*][pet]Robo-Chick[/pet] P/B (10)
-[/list]
-[*]1481/273/289
-[list]
-[*][pet]Mechanical Chicken[/pet] P/S (8)
-[*][pet]Robo-Chick[/pet] P/S (8)
-[/list]
-[*]1481/244/325
-[list]
-[*][pet]Robo-Chick[/pet] S/S (5)
-[/list]
-[/list]
 [B]Mechanical [ability]Metal Fist[/ability]|[ability]Thrash[/ability]|[ability]Overtune[/ability]|[ability]Extra Plating[/ability]|[ability]Demolish[/ability]|[ability]Repair[/ability][/B]
 [list]
 [*]1806/244/260
@@ -95,5 +67,33 @@
 [*]1400/260/325
 [list]
 [*][pet]Blue Clockwork Rocket Bot[/pet] S/S (5)
+[/list]
+[/list]
+[B]Mechanical [ability]Peck[/ability]|[ability]Batter[/ability]|[ability]Overtune[/ability]|[ability]Rebuild[/ability]|[ability]Supercharge[/ability]|[ability]Wind-Up[/ability][/B]
+[list]
+[*]1806/244/260
+[list]
+[*][pet]Robo-Chick[/pet] H/H (6)
+[/list]
+[*]1628/244/289
+[list]
+[*][pet]Robo-Chick[/pet] H/S (9)
+[/list]
+[*]1563/260/276
+[list]
+[*][pet]Robo-Chick[/pet] B/B (3)
+[/list]
+[*]1546/273/273
+[list]
+[*][pet]Robo-Chick[/pet] P/B (10)
+[/list]
+[*]1481/273/289
+[list]
+[*][pet]Mechanical Chicken[/pet] P/S (8)
+[*][pet]Robo-Chick[/pet] P/S (8)
+[/list]
+[*]1481/244/325
+[list]
+[*][pet]Robo-Chick[/pet] S/S (5)
 [/list]
 [/list]

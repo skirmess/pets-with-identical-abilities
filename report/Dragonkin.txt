@@ -25,33 +25,6 @@
 [*][pet]Crimson Whelpling[/pet] P/S (8)
 [/list]
 [/list]
-[B]Dragonkin [ability]Shadowflame[/ability]|[ability]Tail Sweep[/ability]|[ability]Roar[/ability]|[ability]Call Darkness[/ability]|[ability]Lift-Off[/ability]|[ability]Deep Breath[/ability][/B]
-[list]
-[*]1481/322/240
-[list]
-[*][pet]Dark Whelpling[/pet] P/S (8)
-[/list]
-[*]1481/276/276
-[list]
-[*][pet]Albino Chimaeraling[/pet] B/B (3)
-[/list]
-[*]1465/289/273
-[list]
-[*][pet]Albino Chimaeraling[/pet] P/B (10)
-[/list]
-[*]1400/325/260
-[list]
-[*][pet]Albino Chimaeraling[/pet] P/P (4)
-[/list]
-[*]1400/289/289
-[list]
-[*][pet]Albino Chimaeraling[/pet] P/S (8)
-[/list]
-[*]1400/260/325
-[list]
-[*][pet]Albino Chimaeraling[/pet] S/S (5)
-[/list]
-[/list]
 [B]Dragonkin [ability]Claw[/ability]|[ability]Quills[/ability]|[ability]Rake[/ability]|[ability]Conflagrate[/ability]|[ability]Flame Breath[/ability]|[ability]Flamethrower[/ability][/B]
 [list]
 [*]1806/244/260
@@ -101,6 +74,33 @@
 [*]1319/244/358
 [list]
 [*][pet]Silver Dragonhawk Hatchling[/pet] S/S (5)
+[/list]
+[/list]
+[B]Dragonkin [ability]Shadowflame[/ability]|[ability]Tail Sweep[/ability]|[ability]Roar[/ability]|[ability]Call Darkness[/ability]|[ability]Lift-Off[/ability]|[ability]Deep Breath[/ability][/B]
+[list]
+[*]1481/322/240
+[list]
+[*][pet]Dark Whelpling[/pet] P/S (8)
+[/list]
+[*]1481/276/276
+[list]
+[*][pet]Albino Chimaeraling[/pet] B/B (3)
+[/list]
+[*]1465/289/273
+[list]
+[*][pet]Albino Chimaeraling[/pet] P/B (10)
+[/list]
+[*]1400/325/260
+[list]
+[*][pet]Albino Chimaeraling[/pet] P/P (4)
+[/list]
+[*]1400/289/289
+[list]
+[*][pet]Albino Chimaeraling[/pet] P/S (8)
+[/list]
+[*]1400/260/325
+[list]
+[*][pet]Albino Chimaeraling[/pet] S/S (5)
 [/list]
 [/list]
 [B]Dragonkin [ability]Slicing Wind[/ability]|[ability]Arcane Blast[/ability]|[ability]Evanescence[/ability]|[ability]Life Exchange[/ability]|[ability]Moonfire[/ability]|[ability]Cyclone[/ability][/B]

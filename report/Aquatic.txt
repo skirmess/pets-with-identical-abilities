@@ -1,77 +1,119 @@
-[B]Aquatic [ability]Water Jet[/ability]|[ability]Tongue Lash[/ability]|[ability]Healing Wave[/ability]|[ability]Cleansing Rain[/ability]|[ability]Frog Kiss[/ability]|[ability]Swarm of Flies[/ability][/B]
+[B]Aquatic [ability]Bite[/ability]|[ability]Gnaw[/ability]|[ability]Screech[/ability]|[ability]Survival[/ability]|[ability]Surge[/ability]|[ability]Dive[/ability][/B]
+[list]
+[*]1481/276/276
+[list]
+[*][pet]Golden Civet Kitten[/pet] B/B (3)
+[*][pet]Sifang Otter[/pet] B/B (3)
+[*][pet]Sifang Otter Pup[/pet] B/B (3)
+[/list]
+[*]1465/273/289
+[list]
+[*][pet]Golden Civet[/pet] S/B (11)
+[*][pet]Golden Civet Kitten[/pet] S/B (11)
+[*][pet]Kuitan Mongoose[/pet] S/B (11)
+[*][pet]Sifang Otter[/pet] S/B (11)
+[*][pet]Sifang Otter Pup[/pet] S/B (11)
+[/list]
+[*]1400/260/325
+[list]
+[*][pet]Golden Civet[/pet] S/S (5)
+[*][pet]Golden Civet Kitten[/pet] S/S (5)
+[*][pet]Kuitan Mongoose[/pet] S/S (5)
+[*][pet]Sifang Otter[/pet] S/S (5)
+[*][pet]Sifang Otter Pup[/pet] S/S (5)
+[/list]
+[*]1238/289/322
+[list]
+[*][pet]Mongoose Pup[/pet] P/S (8)
+[/list]
+[*]1238/260/358
+[list]
+[*][pet]Mongoose Pup[/pet] S/S (5)
+[/list]
+[*]1156/289/338
+[list]
+[*][pet]Mongoose[/pet] P/S (8)
+[/list]
+[*]1156/260/374
+[list]
+[*][pet]Mongoose[/pet] S/S (5)
+[/list]
+[/list]
+[B]Aquatic [ability]Bite[/ability]|[ability]Grasp[/ability]|[ability]Shell Shield[/ability]|[ability]Healing Wave[/ability]|[ability]Headbutt[/ability]|[ability]Powerball[/ability][/B]
 [list]
 [*]1888/244/244
 [list]
-[*][pet]Huge Toad[/pet] H/H (6)
-[/list]
-[*]1709/273/244
-[list]
-[*][pet]Biletoad[/pet] H/P (7)
-[*][pet]Huge Toad[/pet] H/P (7)
+[*][pet]Spiny Terrapin[/pet] H/H (6)
 [/list]
 [*]1709/257/257
 [list]
-[*][pet]Huge Toad[/pet] H/B (12)
-[*][pet]Yellow-Bellied Bullfrog[/pet] H/B (12)
+[*][pet]Darkmoon Turtle[/pet] H/B (12)
+[/list]
+[*]1709/244/273
+[list]
+[*][pet]Softshell Snapling[/pet] H/S (9)
+[*][pet]Spiny Terrapin[/pet] H/S (9)
+[*][pet]Turquoise Turtle[/pet] H/S (9)
 [/list]
 [*]1644/260/260
 [list]
-[*][pet]Biletoad[/pet] B/B (3)
-[*][pet]Huge Toad[/pet] B/B (3)
-[*][pet]Yellow-Bellied Bullfrog[/pet] B/B (3)
+[*][pet]Softshell Snapling[/pet] B/B (3)
+[*][pet]Spiny Terrapin[/pet] B/B (3)
+[*][pet]Turquoise Turtle[/pet] B/B (3)
 [/list]
-[*]1628/273/260
+[*]1400/260/325
 [list]
-[*][pet]Toad[/pet] H/P (7)
+[*][pet]Speedy[/pet] S/S (5)
 [/list]
-[*]1628/257/273
-[list]
-[*][pet]Frog[/pet] H/B (12)
-[*][pet]Garden Frog[/pet] H/B (12)
-[*][pet]Horny Toad[/pet] H/B (12)
-[*][pet]Jungle Darter[/pet] H/B (12)
-[*][pet]Leopard Tree Frog[/pet] H/B (12)
-[*][pet]Mac Frog[/pet] H/B (12)
-[*][pet]Spotted Bell Frog[/pet] H/B (12)
-[*][pet]Toad[/pet] H/B (12)
-[*][pet]Tree Frog[/pet] H/B (12)
 [/list]
-[*]1628/244/289
+[B]Aquatic [ability]Deep Bite[/ability]|[ability]Grasp[/ability]|[ability]Dodge[/ability]|[ability]Clobber[/ability]|[ability]Dive[/ability]|[ability]Pump[/ability][/B]
 [list]
-[*][pet]Mojo[/pet] H/S (9)
-[*][pet]Wood Frog[/pet] H/S (9)
+[*]246/13/13
+[list]
+[*][pet]Lagan[/pet] H/B (12)
 [/list]
-[*]1563/309/244
+[*]1546/289/260
 [list]
-[*][pet]Yellow-Bellied Bullfrog[/pet] P/P (4)
-[/list]
-[*]1563/273/273
-[list]
-[*][pet]Biletoad[/pet] P/S (8)
-[/list]
-[*]1563/260/276
-[list]
-[*][pet]Frog[/pet] B/B (3)
-[*][pet]Garden Frog[/pet] B/B (3)
-[*][pet]Horny Toad[/pet] B/B (3)
-[*][pet]Jungle Darter[/pet] B/B (3)
-[*][pet]Leopard Tree Frog[/pet] B/B (3)
-[*][pet]Mac Frog[/pet] B/B (3)
-[*][pet]Small Frog[/pet] B/B (3)
-[*][pet]Spotted Bell Frog[/pet] B/B (3)
-[*][pet]Toad[/pet] B/B (3)
+[*][pet]Slithershock Elver[/pet] H/P (7)
 [/list]
 [*]1546/273/273
 [list]
-[*][pet]Jubling[/pet] P/B (10)
+[*][pet]Slithershock Elver[/pet] H/B (12)
 [/list]
-[*]1546/257/289
+[*]1481/276/276
 [list]
-[*][pet]Small Frog[/pet] S/B (11)
+[*][pet]Slithershock Elver[/pet] B/B (3)
 [/list]
-[*]1481/244/325
+[*]1465/273/289
 [list]
-[*][pet]Leopard Tree Frog[/pet] S/S (5)
+[*][pet]Slithershock Elver[/pet] S/B (11)
+[/list]
+[*]1400/325/260
+[list]
+[*][pet]Slithershock Elver[/pet] P/P (4)
+[/list]
+[*]1400/260/325
+[list]
+[*][pet]Slithershock Elver[/pet] S/S (5)
+[/list]
+[/list]
+[B]Aquatic [ability]Peck[/ability]|[ability]Surge[/ability]|[ability]Frost Spit[/ability]|[ability]Slippery Ice[/ability]|[ability]Ice Lance[/ability]|[ability]Belly Slide[/ability][/B]
+[list]
+[*]1628/289/244
+[list]
+[*][pet]Tundra Penguin[/pet] H/P (7)
+[/list]
+[*]1628/260/273
+[list]
+[*][pet]Tundra Penguin[/pet] H/S (9)
+[/list]
+[*]1546/260/289
+[list]
+[*][pet]Mr. Chilly[/pet] H/S (9)
+[/list]
+[*]1465/273/289
+[list]
+[*][pet]Pengu[/pet] S/B (11)
 [/list]
 [/list]
 [B]Aquatic [ability]Rip[/ability]|[ability]Claw[/ability]|[ability]Spiny Carapace[/ability]|[ability]Shell Shield[/ability]|[ability]Dive[/ability]|[ability]Blood in the Water[/ability][/B]
@@ -117,93 +159,6 @@
 [*]100/0/65
 [list]
 [*][pet]Coralback Fiddler[/pet] S/S (5)
-[/list]
-[/list]
-[B]Aquatic [ability]Bite[/ability]|[ability]Grasp[/ability]|[ability]Shell Shield[/ability]|[ability]Healing Wave[/ability]|[ability]Headbutt[/ability]|[ability]Powerball[/ability][/B]
-[list]
-[*]1888/244/244
-[list]
-[*][pet]Spiny Terrapin[/pet] H/H (6)
-[/list]
-[*]1709/257/257
-[list]
-[*][pet]Darkmoon Turtle[/pet] H/B (12)
-[/list]
-[*]1709/244/273
-[list]
-[*][pet]Softshell Snapling[/pet] H/S (9)
-[*][pet]Spiny Terrapin[/pet] H/S (9)
-[*][pet]Turquoise Turtle[/pet] H/S (9)
-[/list]
-[*]1644/260/260
-[list]
-[*][pet]Softshell Snapling[/pet] B/B (3)
-[*][pet]Spiny Terrapin[/pet] B/B (3)
-[*][pet]Turquoise Turtle[/pet] B/B (3)
-[/list]
-[*]1400/260/325
-[list]
-[*][pet]Speedy[/pet] S/S (5)
-[/list]
-[/list]
-[B]Aquatic [ability]Bite[/ability]|[ability]Gnaw[/ability]|[ability]Screech[/ability]|[ability]Survival[/ability]|[ability]Surge[/ability]|[ability]Dive[/ability][/B]
-[list]
-[*]1481/276/276
-[list]
-[*][pet]Golden Civet Kitten[/pet] B/B (3)
-[*][pet]Sifang Otter[/pet] B/B (3)
-[*][pet]Sifang Otter Pup[/pet] B/B (3)
-[/list]
-[*]1465/273/289
-[list]
-[*][pet]Golden Civet[/pet] S/B (11)
-[*][pet]Golden Civet Kitten[/pet] S/B (11)
-[*][pet]Kuitan Mongoose[/pet] S/B (11)
-[*][pet]Sifang Otter[/pet] S/B (11)
-[*][pet]Sifang Otter Pup[/pet] S/B (11)
-[/list]
-[*]1400/260/325
-[list]
-[*][pet]Golden Civet[/pet] S/S (5)
-[*][pet]Golden Civet Kitten[/pet] S/S (5)
-[*][pet]Kuitan Mongoose[/pet] S/S (5)
-[*][pet]Sifang Otter[/pet] S/S (5)
-[*][pet]Sifang Otter Pup[/pet] S/S (5)
-[/list]
-[*]1238/289/322
-[list]
-[*][pet]Mongoose Pup[/pet] P/S (8)
-[/list]
-[*]1238/260/358
-[list]
-[*][pet]Mongoose Pup[/pet] S/S (5)
-[/list]
-[*]1156/289/338
-[list]
-[*][pet]Mongoose[/pet] P/S (8)
-[/list]
-[*]1156/260/374
-[list]
-[*][pet]Mongoose[/pet] S/S (5)
-[/list]
-[/list]
-[B]Aquatic [ability]Peck[/ability]|[ability]Surge[/ability]|[ability]Frost Spit[/ability]|[ability]Slippery Ice[/ability]|[ability]Ice Lance[/ability]|[ability]Belly Slide[/ability][/B]
-[list]
-[*]1628/289/244
-[list]
-[*][pet]Tundra Penguin[/pet] H/P (7)
-[/list]
-[*]1628/260/273
-[list]
-[*][pet]Tundra Penguin[/pet] H/S (9)
-[/list]
-[*]1546/260/289
-[list]
-[*][pet]Mr. Chilly[/pet] H/S (9)
-[/list]
-[*]1465/273/289
-[list]
-[*][pet]Pengu[/pet] S/B (11)
 [/list]
 [/list]
 [B]Aquatic [ability]Snap[/ability]|[ability]Surge[/ability]|[ability]Renewing Mists[/ability]|[ability]Healing Wave[/ability]|[ability]Shell Shield[/ability]|[ability]Whirlpool[/ability][/B]
@@ -297,35 +252,80 @@
 [*][pet]Aqua Strider[/pet] S/S (5)
 [/list]
 [/list]
-[B]Aquatic [ability]Deep Bite[/ability]|[ability]Grasp[/ability]|[ability]Dodge[/ability]|[ability]Clobber[/ability]|[ability]Dive[/ability]|[ability]Pump[/ability][/B]
+[B]Aquatic [ability]Water Jet[/ability]|[ability]Tongue Lash[/ability]|[ability]Healing Wave[/ability]|[ability]Cleansing Rain[/ability]|[ability]Frog Kiss[/ability]|[ability]Swarm of Flies[/ability][/B]
 [list]
-[*]246/13/13
+[*]1888/244/244
 [list]
-[*][pet]Lagan[/pet] H/B (12)
+[*][pet]Huge Toad[/pet] H/H (6)
 [/list]
-[*]1546/289/260
+[*]1709/273/244
 [list]
-[*][pet]Slithershock Elver[/pet] H/P (7)
+[*][pet]Biletoad[/pet] H/P (7)
+[*][pet]Huge Toad[/pet] H/P (7)
+[/list]
+[*]1709/257/257
+[list]
+[*][pet]Huge Toad[/pet] H/B (12)
+[*][pet]Yellow-Bellied Bullfrog[/pet] H/B (12)
+[/list]
+[*]1644/260/260
+[list]
+[*][pet]Biletoad[/pet] B/B (3)
+[*][pet]Huge Toad[/pet] B/B (3)
+[*][pet]Yellow-Bellied Bullfrog[/pet] B/B (3)
+[/list]
+[*]1628/273/260
+[list]
+[*][pet]Toad[/pet] H/P (7)
+[/list]
+[*]1628/257/273
+[list]
+[*][pet]Frog[/pet] H/B (12)
+[*][pet]Garden Frog[/pet] H/B (12)
+[*][pet]Horny Toad[/pet] H/B (12)
+[*][pet]Jungle Darter[/pet] H/B (12)
+[*][pet]Leopard Tree Frog[/pet] H/B (12)
+[*][pet]Mac Frog[/pet] H/B (12)
+[*][pet]Spotted Bell Frog[/pet] H/B (12)
+[*][pet]Toad[/pet] H/B (12)
+[*][pet]Tree Frog[/pet] H/B (12)
+[/list]
+[*]1628/244/289
+[list]
+[*][pet]Mojo[/pet] H/S (9)
+[*][pet]Wood Frog[/pet] H/S (9)
+[/list]
+[*]1563/309/244
+[list]
+[*][pet]Yellow-Bellied Bullfrog[/pet] P/P (4)
+[/list]
+[*]1563/273/273
+[list]
+[*][pet]Biletoad[/pet] P/S (8)
+[/list]
+[*]1563/260/276
+[list]
+[*][pet]Frog[/pet] B/B (3)
+[*][pet]Garden Frog[/pet] B/B (3)
+[*][pet]Horny Toad[/pet] B/B (3)
+[*][pet]Jungle Darter[/pet] B/B (3)
+[*][pet]Leopard Tree Frog[/pet] B/B (3)
+[*][pet]Mac Frog[/pet] B/B (3)
+[*][pet]Small Frog[/pet] B/B (3)
+[*][pet]Spotted Bell Frog[/pet] B/B (3)
+[*][pet]Toad[/pet] B/B (3)
 [/list]
 [*]1546/273/273
 [list]
-[*][pet]Slithershock Elver[/pet] H/B (12)
+[*][pet]Jubling[/pet] P/B (10)
 [/list]
-[*]1481/276/276
+[*]1546/257/289
 [list]
-[*][pet]Slithershock Elver[/pet] B/B (3)
+[*][pet]Small Frog[/pet] S/B (11)
 [/list]
-[*]1465/273/289
+[*]1481/244/325
 [list]
-[*][pet]Slithershock Elver[/pet] S/B (11)
-[/list]
-[*]1400/325/260
-[list]
-[*][pet]Slithershock Elver[/pet] P/P (4)
-[/list]
-[*]1400/260/325
-[list]
-[*][pet]Slithershock Elver[/pet] S/S (5)
+[*][pet]Leopard Tree Frog[/pet] S/S (5)
 [/list]
 [/list]
 [B]Aquatic [ability]Water Jet[/ability]|[ability]Tongue Lash[/ability]|[ability]Mudslide[/ability]|[ability]Swarm of Flies[/ability]|[ability]Bubble[/ability]|[ability]Pump[/ability][/B]
