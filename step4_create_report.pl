@@ -4,14 +4,12 @@ use 5.010;
 use strict;
 use warnings;
 
-use Digest::MD5 qw(md5 md5_hex md5_base64);
 use JSON qw( decode_json );
 use Path::Tiny;
 
 my %pets;
 my @species;
 my @spells;
-my %spell_set_name;
 
 main();
 
@@ -55,16 +53,8 @@ sub load_species_data {
         }
         $spell_set_name =~ s{ ^ [|] }{}xsm;
 
-        # calculate the md5 number of the spell set name
-        my $ctx = Digest::MD5->new;
-        $ctx->add($spell_set_name);
-        my $digest = $ctx->hexdigest;
-
         # generate a global hash mapping from species id to spell set
-        $spells[$species_id] = $digest;
-
-        # generate a global hash mapping from spell set digest to spell set name
-        $spell_set_name{$digest} = $spell_set_name;
+        $spells[$species_id] = $spell_set_name;
     }
 
     return;
@@ -177,17 +167,7 @@ sub write_report {
     open my $fh, '>', "report/$type.txt" or die "Cannot write to file: $!";
 
   SPELL_SET:
-    foreach my $spell_set (
-
-        # Schwartzian transform
-        map { $_->[1] }
-
-        # sort by name of the spell combination
-        sort { $a->[0] cmp $b->[0] }
-        map { [ $spell_set_name{$_}, $_ ] }
-        keys %{ $pets{$type} }
-      )
-    {
+    foreach my $spell_set ( sort keys %{ $pets{$type} } ) {
 
         # skip if there is only one species id for this specific spell
         # combination
@@ -205,7 +185,7 @@ sub write_report {
 
         # The current spell combination can be found on multiple species
         # whose have multiple breeds
-        print $fh "[B]$type $spell_set_name{$spell_set}" . '[/B]' . "\n";
+        print $fh "[B]$type $spell_set" . '[/B]' . "\n";
         print $fh '[list]' . "\n";
 
         # We are sorting the breeds by their stats
